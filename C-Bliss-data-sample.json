@@ -1,0 +1,493 @@
+{
+  "1": {
+    "original": "Antonio loves his lovely happy kitten.",
+    "CBliss": "[present] [Antonio] [love] [[ kitten ] lovely happy]"
+  },
+  "2": {
+    "original": "His cat is loved by Antonio.",
+    "CBliss": "[present - passive] [His cat] [love] [[ Antonio ] ]"
+  },
+  "3": {
+    "original": "The cat is loved by Antonio.",
+    "CBliss": "[present - passive] [The cat] [love] [[ Antonio ] ]"
+  },
+  "4": {
+    "original": "A cat is loved by Antonio.",
+    "CBliss": "[present - passive] [A cat] [love] [[ Antonio ] ]"
+  },
+  "5": {
+    "original": "Camila dropped a ball.",
+    "CBliss": "[past] [Camila] [drop] [[a ball ] ]"
+  },
+  "6": {
+    "original": "Camila dropped the ball.",
+    "CBliss": "[past] [Camila] [drop] [[the ball ] ]"
+  },
+  "7": {
+    "original": "Jane carries the bag.",
+    "CBliss": "[present] [Jane] [carry] [[the bag ] ]"
+  },
+  "8": {
+    "original": "He watches four blue big moons.",
+    "CBliss": "[present] [He] [watch] [[ moons ] blue big]"
+  },
+  "9": {
+    "original": "Jose danced all night.",
+    "CBliss": "[past] [] [[dance]] [[  ] ]"
+  },
+  "10": {
+    "original": "Antonio is thinking about the lovely summer.",
+    "CBliss": "[present progresive] [] [[TO BE] [think]] [[  ] ]"
+  },
+  "11": {
+    "original": "She is thinking.",
+    "CBliss": "[present progresive] [] [[TO BE] [think]] [[  ] ]"
+  },
+  "12": {
+    "original": "She calls her friend.",
+    "CBliss": "[present] [] [[call]] [[  ] ]"
+  },
+  "13": {
+    "original": "Many moons ago, there was something in the river.",
+    "CBliss": "[past] [] [[be]] [[  ] ]"
+  },
+  "14": {
+    "original": "Was it something big or something small?",
+    "CBliss": "[past] [] [[be]] [[  ] ]"
+  },
+  "15": {
+    "original": "Nobody knew what it was.",
+    "CBliss": "[past] [] [[know]] [[  ] ]"
+  },
+  "16": {
+    "original": "Everyone thought about the thing in the river.",
+    "CBliss": "[past] [] [[think]] [[  ] ]"
+  },
+  "17": {
+    "original": "One day Little Feather walked near the river.",
+    "CBliss": "[past] [] [[walk]] [[  ] ]"
+  },
+  "18": {
+    "original": "He thought about the scary thing in the river.",
+    "CBliss": "[past] [] [[think]] [[  ] ]"
+  },
+  "19": {
+    "original": "Was it something fat or was it something thin?",
+    "CBliss": "[past] [] [[be]] [[  ] ]"
+  },
+  "20": {
+    "original": "Or maybe it was nothing at all?",
+    "CBliss": "[past] [] [[be]] [[  ] ]"
+  },
+  "21": {
+    "original": "He approached the edge of the little river and heard a loud noise.",
+    "CBliss": "[past] [He] [approach] [[the edge ] ][past] [He] [approach] [[a noise ] loud]"
+  },
+  "22": { "original": "Wow!", "CBliss": "[NOT FOUND] [] [wow] [[  ] ]" },
+  "23": { "original": "What was that?", "CBliss": "[past] [] [[be]] [[  ] ]" },
+  "24": {
+    "original": "Little Feather stood still and looked across the little river.",
+    "CBliss": "[past] [] [[stand]] [[  ] ]"
+  },
+  "25": {
+    "original": "The something big or something small swam down the little river.",
+    "CBliss": "[NOT FOUND] [] [swam] [[  ] ]"
+  },
+  "26": { "original": "Wow!", "CBliss": "[NOT FOUND] [] [wow] [[  ] ]" },
+  "27": {
+    "original": "Was it black or was it white?",
+    "CBliss": "[past] [] [[be]] [[  ] ]"
+  },
+  "28": {
+    "original": "Was it open or was it closed?",
+    "CBliss": "[past] [] [[be]] [[  ] ]"
+  },
+  "29": {
+    "original": "Little Feather decided to walk in the cool river water.",
+    "CBliss": "[past] [Little Feather] [decide] [[  ] ]"
+  },
+  "30": {
+    "original": "He sang a song while he kicked rocks playfully up and down with his feet.",
+    "CBliss": "[past] [He] [sing] [[a song ] ][past] [he] [sing] [[ rocks ] ]"
+  },
+  "31": {
+    "original": "Then suddenly something touched his toe.",
+    "CBliss": "[past] [something] [touch] [[ toe ] ]"
+  },
+  "32": {
+    "original": "Was it something big or something small, or was it nothing at all?",
+    "CBliss": "[past] [] [[be]] [[  ] ]"
+  },
+  "33": {
+    "original": "Poor Little Feather was scared.",
+    "CBliss": "[past] [] [[be]] [[  ] ]"
+  },
+  "34": {
+    "original": "The something big or something small held onto his toe!",
+    "CBliss": "[past] [] [[hold]] [[  ] ]"
+  },
+  "35": {
+    "original": "He screamed and jumped, he begged and prayed, but nothing helped at all.",
+    "CBliss": "[past] [] [[beg]] [[  ] ]"
+  },
+  "36": {
+    "original": "The something big or something small flew through the air and fell near him.",
+    "CBliss": "[past] [] [[fly]] [[  ] ]"
+  },
+  "37": {
+    "original": "He laughed so loud, tears began to flow down his cheeks!",
+    "CBliss": "[past] [tears] [begin] [[  ] ]"
+  },
+  "38": {
+    "original": "The something big or something small was an old shoe, after all.",
+    "CBliss": "[past] [] [[be]] [[  ] ]"
+  },
+  "39": {
+    "original": "She bakes cookies.",
+    "CBliss": "[present] [She] [bake] [[ cookies ] ]"
+  },
+  "40": {
+    "original": "They swim in the pool.",
+    "CBliss": "[present] [] [[swim]] [[  ] ]"
+  },
+  "41": {
+    "original": "He writes a letter.",
+    "CBliss": "[present] [He] [write] [[a letter ] ]"
+  },
+  "42": {
+    "original": "We eat pizza.",
+    "CBliss": "[present] [We] [eat] [[ pizza ] ]"
+  },
+  "43": {
+    "original": "I watch TV.She sings a song.",
+    "CBliss": "[present] [TV.She] [watch] [[a song ] ]"
+  },
+  "44": {
+    "original": "They dance at the party.",
+    "CBliss": "[present] [] [[dance]] [[  ] ]"
+  },
+  "45": {
+    "original": "He paints a picture.",
+    "CBliss": "[present] [He] [paint] [[a picture ] ]"
+  },
+  "46": {
+    "original": "We play guitar.",
+    "CBliss": "[present] [We] [play] [[ guitar ] ]"
+  },
+  "47": {
+    "original": "I drive a car.",
+    "CBliss": "[present] [I] [drive] [[a car ] ]"
+  },
+  "48": {
+    "original": "She studies math.",
+    "CBliss": "[present] [She] [study] [[ math ] ]"
+  },
+  "49": {
+    "original": "They cook dinner.",
+    "CBliss": "[present] [They] [cook] [[ dinner ] ]"
+  },
+  "50": {
+    "original": "He mows the lawn.",
+    "CBliss": "[present] [He] [mow] [[the lawn ] ]"
+  },
+  "51": {
+    "original": "We read a book.",
+    "CBliss": "[past] [We] [read] [[a book ] ]"
+  },
+  "52": {
+    "original": "I drink coffee.",
+    "CBliss": "[present] [I] [drink] [[ coffee ] ]"
+  },
+  "53": {
+    "original": "She walks the dog.",
+    "CBliss": "[present] [She] [walk] [[the dog ] ]"
+  },
+  "54": {
+    "original": "They play chess.",
+    "CBliss": "[present] [They] [play] [[ chess ] ]"
+  },
+  "55": {
+    "original": "He takes photographs.",
+    "CBliss": "[present] [He] [take] [[ photographs ] ]"
+  },
+  "56": {
+    "original": "We clean the house.",
+    "CBliss": "[present] [We] [clean] [[the house ] ]"
+  },
+  "57": {
+    "original": "I answer the phone.",
+    "CBliss": "[present] [I] [answer] [[the phone ] ]"
+  },
+  "58": {
+    "original": "She teaches English.",
+    "CBliss": "[present] [She] [teach] [[ English ] ]"
+  },
+  "59": {
+    "original": "They work in the office.",
+    "CBliss": "[present] [] [[work]] [[  ] ]"
+  },
+  "60": {
+    "original": "He fixes the computer.",
+    "CBliss": "[present] [He] [fix] [[the computer ] ]"
+  },
+  "61": {
+    "original": "We visit the museum.",
+    "CBliss": "[present] [We] [visit] [[the museum ] ]"
+  },
+  "62": {
+    "original": "I travel to Paris.",
+    "CBliss": "[present] [] [[travel]] [[  ] ]"
+  },
+  "63": {
+    "original": "She calls her friend.",
+    "CBliss": "[present] [] [[call]] [[  ] ]"
+  },
+  "64": {
+    "original": "They ride bicycles.",
+    "CBliss": "[present] [They] [ride] [[  ] ]"
+  },
+  "65": {
+    "original": "He plays the piano.",
+    "CBliss": "[present] [He] [play] [[the piano ] ]"
+  },
+  "66": {
+    "original": "We plant flowers.",
+    "CBliss": "[present] [We] [plant] [[ flowers ] ]"
+  },
+  "67": {
+    "original": "I do my homework.",
+    "CBliss": "[present] [I] [do] [[ homework ] ]"
+  },
+  "68": {
+    "original": "She baked cookies.",
+    "CBliss": "[past] [She] [bake] [[ cookies ] ]"
+  },
+  "69": {
+    "original": "They swam in the pool.",
+    "CBliss": "[present] [] [[swam]] [[  ] ]"
+  },
+  "70": {
+    "original": "He wrote a letter.",
+    "CBliss": "[past] [He] [write] [[a letter ] ]"
+  },
+  "71": {
+    "original": "We ate pizza.",
+    "CBliss": "[past] [We] [eat] [[ pizza ] ]"
+  },
+  "72": {
+    "original": "I watched TV.She sang a song.",
+    "CBliss": "[past] [TV.She] [watch] [[a song ] ]"
+  },
+  "73": {
+    "original": "They danced at the party.",
+    "CBliss": "[past] [] [[dance]] [[  ] ]"
+  },
+  "74": {
+    "original": "He painted a picture.",
+    "CBliss": "[past] [He] [paint] [[a picture ] ]"
+  },
+  "75": {
+    "original": "We played guitar.",
+    "CBliss": "[past] [We] [play] [[ guitar ] ]"
+  },
+  "76": {
+    "original": "I drove a car.",
+    "CBliss": "[past] [I] [drive] [[a car ] ]"
+  },
+  "77": {
+    "original": "She studied math.",
+    "CBliss": "[past] [She] [study] [[ math ] ]"
+  },
+  "78": {
+    "original": "They cooked dinner.",
+    "CBliss": "[past] [They] [cook] [[ dinner ] ]"
+  },
+  "79": {
+    "original": "He mowed the lawn.",
+    "CBliss": "[past] [He] [mow] [[the lawn ] ]"
+  },
+  "80": {
+    "original": "We read a book.",
+    "CBliss": "[past] [We] [read] [[a book ] ]"
+  },
+  "81": {
+    "original": "I drank coffee.",
+    "CBliss": "[past] [I] [drink] [[ coffee ] ]"
+  },
+  "82": {
+    "original": "She walked the dog.",
+    "CBliss": "[past] [She] [walk] [[the dog ] ]"
+  },
+  "83": {
+    "original": "They played chess.",
+    "CBliss": "[past] [They] [play] [[ chess ] ]"
+  },
+  "84": {
+    "original": "He took photographs.",
+    "CBliss": "[past] [He] [take] [[ photographs ] ]"
+  },
+  "85": {
+    "original": "We cleaned the house.",
+    "CBliss": "[past] [We] [clean] [[the house ] ]"
+  },
+  "86": {
+    "original": "I answered the phone.",
+    "CBliss": "[past] [I] [answer] [[the phone ] ]"
+  },
+  "87": {
+    "original": "She taught English.",
+    "CBliss": "[past] [She] [teach] [[ English ] ]"
+  },
+  "88": {
+    "original": "They worked in the office.",
+    "CBliss": "[past] [] [[work]] [[  ] ]"
+  },
+  "89": {
+    "original": "He fixed the computer.",
+    "CBliss": "[past] [He] [fix] [[the computer ] ]"
+  },
+  "90": {
+    "original": "We visited the museum.",
+    "CBliss": "[past] [We] [visit] [[the museum ] ]"
+  },
+  "91": {
+    "original": "I traveled to Paris.",
+    "CBliss": "[past] [] [[travel]] [[  ] ]"
+  },
+  "92": {
+    "original": "She called her friend.",
+    "CBliss": "[past] [She] [call] [[ friend ] ]"
+  },
+  "93": {
+    "original": "They rode bicycles.",
+    "CBliss": "[past] [They] [ride] [[  ] ]"
+  },
+  "94": {
+    "original": "He played the piano.",
+    "CBliss": "[past] [He] [play] [[the piano ] ]"
+  },
+  "95": {
+    "original": "We planted flowers.",
+    "CBliss": "[past] [We] [plant] [[ flowers ] ]"
+  },
+  "96": {
+    "original": "I did my homework.",
+    "CBliss": "[past] [I] [do] [[ homework ] ]"
+  },
+  "97": {
+    "original": "She will bake cookies.",
+    "CBliss": "[future] [She] [bake] [[ cookies ] ]"
+  },
+  "98": {
+    "original": "They will swim in the pool.",
+    "CBliss": "[future] [] [[swim]] [[  ] ]"
+  },
+  "99": {
+    "original": "He will write a letter.",
+    "CBliss": "[future] [He] [write] [[a letter ] ]"
+  },
+  "100": {
+    "original": "We will eat pizza.",
+    "CBliss": "[future] [We] [eat] [[ pizza ] ]"
+  },
+  "101": {
+    "original": "I will watch TV.She will sing a song.",
+    "CBliss": "[future] [TV.She] [watch] [[a song ] ]"
+  },
+  "102": {
+    "original": "They will dance at the party.",
+    "CBliss": "[future] [] [[dance]] [[  ] ]"
+  },
+  "103": {
+    "original": "He will paint a picture.",
+    "CBliss": "[future] [He] [paint] [[a picture ] ]"
+  },
+  "104": {
+    "original": "We will play guitar.",
+    "CBliss": "[future] [We] [play] [[ guitar ] ]"
+  },
+  "105": {
+    "original": "I will drive a car.",
+    "CBliss": "[future] [I] [drive] [[a car ] ]"
+  },
+  "106": {
+    "original": "She will study math.",
+    "CBliss": "[future] [She] [study] [[ math ] ]"
+  },
+  "107": {
+    "original": "They will cook dinner.",
+    "CBliss": "[future] [They] [cook] [[ dinner ] ]"
+  },
+  "108": {
+    "original": "He will mow the lawn.",
+    "CBliss": "[future] [He] [mow] [[the lawn ] ]"
+  },
+  "109": {
+    "original": "We will read a book.",
+    "CBliss": "[future] [We] [read] [[a book ] ]"
+  },
+  "110": {
+    "original": "I will drink coffee.",
+    "CBliss": "[future] [I] [drink] [[ coffee ] ]"
+  },
+  "111": {
+    "original": "She will walk the dog.",
+    "CBliss": "[future] [She] [walk] [[the dog ] ]"
+  },
+  "112": {
+    "original": "They will play chess.",
+    "CBliss": "[future] [They] [play] [[ chess ] ]"
+  },
+  "113": {
+    "original": "He will take photographs.",
+    "CBliss": "[future] [He] [take] [[ photographs ] ]"
+  },
+  "114": {
+    "original": "We will clean the house.",
+    "CBliss": "[future] [We] [clean] [[the house ] ]"
+  },
+  "115": {
+    "original": "I will answer the phone.",
+    "CBliss": "[future] [I] [answer] [[the phone ] ]"
+  },
+  "116": {
+    "original": "She will teach English.",
+    "CBliss": "[future] [She] [teach] [[ English ] ]"
+  },
+  "117": {
+    "original": "They will work in the office.",
+    "CBliss": "[future] [] [[work]] [[  ] ]"
+  },
+  "118": {
+    "original": "He will fix the computer.",
+    "CBliss": "[future] [He] [fix] [[the computer ] ]"
+  },
+  "119": {
+    "original": "We will visit the museum.",
+    "CBliss": "[future] [We] [visit] [[the museum ] ]"
+  },
+  "120": {
+    "original": "I will travel to Paris.",
+    "CBliss": "[future] [] [[travel]] [[  ] ]"
+  },
+  "121": {
+    "original": "She will call her friend.",
+    "CBliss": "[future] [She] [call] [[ friend ] ]"
+  },
+  "122": {
+    "original": "They will ride bicycles.",
+    "CBliss": "[future] [They] [ride] [[  ] ]"
+  },
+  "123": {
+    "original": "He will play the piano.",
+    "CBliss": "[future] [He] [play] [[the piano ] ]"
+  },
+  "124": {
+    "original": "We will plant flowers.",
+    "CBliss": "[future] [We] [plant] [[ flowers ] ]"
+  },
+  "125": {
+    "original": "I will do my homework.",
+    "CBliss": "[future] [I] [do] [[ homework ] ]"
+  }
+}
