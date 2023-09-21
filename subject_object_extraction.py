@@ -1,8 +1,35 @@
-from nltk.stem.wordnet import WordNetLemmatizer
-from spacy.en import English
+'''
+https://github.com/NSchrading/intro-spacy-nlp/tree/master
+https://github.com/NSchrading/intro-spacy-nlp/blob/master/LICENSE
+
+The MIT License (MIT)
+
+Copyright (C) 2016 J Nicolas Schrading
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+'''
+# from nltk.stem.wordnet import WordNetLemmatizer
+# from spacy.en import English
+import spacy
 
 SUBJECTS = ["nsubj", "nsubjpass", "csubj", "csubjpass", "agent", "expl"]
-OBJECTS = ["dobj", "dative", "attr", "oprd"]
+OBJECTS = ["pobj", "dobj", "dative", "attr", "oprd"]
 
 def getSubsFromConjunctions(subs):
     moreSubs = []
@@ -167,7 +194,8 @@ def printDeps(toks):
         print(tok.orth_, tok.dep_, tok.pos_, tok.head.orth_, [t.orth_ for t in tok.lefts], [t.orth_ for t in tok.rights])
 
 def testSVOs():
-    nlp = English()
+    # nlp = English()
+    nlp = spacy.load('en_core_web_lg')
 
     tok = nlp("making $12 an hour? where am i going to go? i have no other financial assistance available and he certainly won't provide support.")
     svos = findSVOs(tok)
