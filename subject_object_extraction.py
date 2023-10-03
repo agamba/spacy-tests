@@ -43,6 +43,7 @@ def getSubsFromConjunctions(subs):
                 [tok for tok in rights if tok.dep_ in SUBJECTS or tok.pos_ == "NOUN"])
             if len(moreSubs) > 0:
                 moreSubs.extend(getSubsFromConjunctions(moreSubs))
+    # print('getSubsFromConjunctions', subs, moreSubs)
     return moreSubs
 
 
@@ -216,7 +217,7 @@ def getAbuserOntoVictimSVOs(tokens):
 
 def printDeps(toks):
     for tok in toks:
-        print(tok.orth_, tok.dep_, tok.pos_, tok.head.orth_, [
+        print(tok.orth_, tok.dep_, tok.pos_, tok.head.orth_, 'subtree:', list(tok.subtree), '-->', [
               t.orth_ for t in tok.lefts], [t.orth_ for t in tok.rights])
 
 
