@@ -1,0 +1,30 @@
+find_verb_tense(w, sentence, counter_tok):
+
+1. DO/DOES + VERB 
+2. DO/DOES + NOT + VERB
+3. DID + verb
+
+4. HAS/HAVE + VERB (Past Participle)
+5. HAS/HAVE + NOT + VERB (Past Participle)
+6. HAD + VERB (Past Participle)
+7. HAD + NOT + VERB (Past Participle)
+
+8. VERB (present)
+9. VERB (past)
+
+10. WILL + VERB
+11. WILL + not + VERB
+
+-- verb to BE
+12. TO BE + VERB (ing) (present progressive) e.g. "is/are going"
+13. TO BE (past) + VERB (ing) (past progressive) e.g. "was/were going"
+14. WILL + TO BE + VERB (ing). "will be going"
+
+-- missing 
+15. WILL + NOT + TO BE + VERB (ing). "will not be going"
+16. HAVE/HAS + BE + VERB
+
+
+
+
+
