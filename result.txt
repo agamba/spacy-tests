@@ -1,0 +1,366 @@
+=======
+[story had held, I remember, somebody happened, he had met, case he had met, visitation had fallen, I may mention, she had succeeded, that had shaken, sight that had shaken, that drew, that had, I call, Someone else told, I saw, I took, we should only have, We waited, we scattered, he brought, I quite agree, its appearing, its appearing first, I know, you say, We say, somebody exclaimed, they give, we want, I can see, he had got, which he had got, I know, I know touches, I remember, I remember asking, He seemed, He passed, He took, he looked, he saw, he spoke, I said, He turned, He turned round, he faced, I shall have, There was, he explained, I could write, he could send, he finds, he appeared, He had broken, that charmed, I adjured, I asked, You took, I took, he tapped, I've never lost, He hung, She sent, she died, They were all listening, They were all listening now, there was, he put, he quietly said, I've ever known, woman I've ever known, I found, my coming, she struck, I liked, she liked, she had, She had never told, she said, she said so, I knew, she had, I could see, You'll easily judge, you hear, He continued, You'll easily judge, he repeated, I fixed, I see, He laughed, That came, its coming, I saw, she saw, I saw, us spoke, I remember, He quitted, You'll receive, I inquired, all meet, He looked, anybody going, Everybody will stay, departure had been fixed, story will tell, I took, story WON'T tell, I ever understand, YOU tell, somebody else inquired, He sprang, I must go, he left, we heard, I know, I returned, everyone so agreed, we lost, we handshook, somebody said, I knew, we quite let, hopes were fixed, our hopes were fixed, which our hopes were fixed, he became, he became as, we could desire, We had, we had had, It appeared, he had promised, narrative he had promised, us really required, me say, me say here, me say here distinctly, I shall presently give, what I shall presently give, that reached, he began, our hushed, who had said, ladies who had said, they would stay, they would stay did, they departed, they professed, he had already worked, which he had already worked, that only made, it had, that had already placed, advertisement that had already placed, her presenting, that impressed, One could easily fix, He struck, what took, she afterward showed, he put, he should gratefully, obligation he should gratefully, he should gratefully incur, obligation he should gratefully incur, She conceived, He had, he wished, He had been left, he had lost, whom he had lost, he immensely pitied, he could find, people he could find, they were doing, they had, they had practically, He had put, visitor would like, his visitor would like, There were, who should go, lady who should go, She would also have, they had had, whom they had had, lady whom they had had, She had done, there were, someone put, That will come, I thought, you ARE doing, what you ARE doing, I suggested, I should have wished, She did wish, she did learn, You shall hear, she learned, She hesitated, she faced, she engaged, She succumbed, He got, he had done, She saw, There were, he went, He told, It sounded, it sounded, she should never trouble, him�, She promised, she mentioned, he held, she already felt rewarded, She never saw, he opened, I have, I_, I_ have, I said, I remember, I had, I had made, I spent, that carried, I was told, I found, we turned, it had sunk, which it had sunk, I suppose, I had expected, what greeted, I remember, I remember, that made, there immediately appeared, who dropped, I had received, I recalled, me think, I had, I was carried, I was carried triumphantly, who accompanied, I had ever seen, child I had ever seen, I afterward wondered, I slept, this astonished, I recollect, I was treated, which I was treated, I almost felt, I could see, all struck, me�, me�like, It was thrown, I should get, I fear, I had rather brooded, outlook might have made, me shrink, me shrink again, I perceived, I wondered, I wondered even, I wondered even then, she should wish, course have made, I could catch, I had fancied, I heard, I believed, I recognized, I found, myself just consciously starting, I should rather say, they now come, they now come back, It had been agreed, I should have, occasion I should have, bed being already arranged, I had undertaken, What I had undertaken, she had remained, I feel, I feel quite, she would presently like, I already liked, I could see, pleasure I could see, her feel, I sat, There were, There were naturally, presence could pass, he look, you think, you think well, she stood, she stood there, who looked, that contained, I do�, I do�?, You WILL be carried, You WILL be carried away, I think, I came, I remember, I remember feeling, I'm rather easily carried, I'm rather easily carried away, I was carried, I was carried away, I can still see, she took, I've, I could laugh, I understand, He arrives, you did, I forthwith expressed, I somehow took, I felt, I suppose, that could be fairly called, nothing that could be fairly called, I walked, I found, I reflected, I could contrive, arts I could contrive, I spent, I arranged, who might show, She showed, our becoming, I was struck, that made, me pause, that made, she asked, I left, I daresay, it would now appear, eyes it would now appear, it would now appear sufficiently, eyes it would now appear sufficiently, I had, I had fallen, which I had fallen, I had, our being almost as lost]
+=======
+pronoun+adv+aux+adv+verb+adv 	 story had held
+pronoun+adv+verb+adv 	 I remember
+pronoun+adv+verb+adv 	 somebody happened
+pronoun+adv+aux+adv+verb+adv 	 he had met
+pronoun+adv+aux+adv+verb+adv 	 case he had met
+pronoun+adv+aux+adv+verb+adv 	 visitation had fallen
+pronoun+adv+aux+adv+verb+adv 	 I may mention
+pronoun+adv+aux+adv+verb+adv 	 she had succeeded
+pronoun+adv+aux+adv+verb+adv 	 that had shaken
+pronoun+adv+aux+adv+verb+adv 	 sight that had shaken
+pronoun+adv+verb+adv 	 that drew
+pronoun+adv+verb+adv 	 that had
+pronoun+adv+verb+adv 	 I call
+pronoun+adv+verb+adv 	 Someone else told
+pronoun+adv+verb+adv 	 I saw
+pronoun+adv+verb+adv 	 I took
+pronoun+adv+aux+adv+verb+adv 	 we should only have
+pronoun+adv+verb+adv 	 We waited
+pronoun+adv+verb+adv 	 we scattered
+pronoun+adv+verb+adv 	 he brought
+pronoun+adv+verb+adv 	 I quite agree
+pronoun+adv+verb+adv 	 its appearing
+pronoun+adv+verb+adv 	 its appearing first
+pronoun+adv+verb+adv 	 I know
+pronoun+adv+verb+adv 	 you say
+pronoun+adv+verb+adv 	 We say
+pronoun+adv+verb+adv 	 somebody exclaimed
+pronoun+adv+verb+adv 	 they give
+pronoun+adv+verb+adv 	 we want
+pronoun+adv+aux+adv+verb+adv 	 I can see
+pronoun+adv+aux+adv+verb+adv 	 he had got
+pronoun+adv+aux+adv+verb+adv 	 which he had got
+pronoun+adv+verb+adv 	 I know
+pronoun+adv+verb+adv 	 I know touches
+pronoun+adv+verb+adv 	 I remember
+pronoun+adv+verb+adv 	 I remember asking
+pronoun+adv+verb+adv 	 He seemed
+pronoun+adv+verb+adv 	 He passed
+pronoun+adv+verb+adv 	 He took
+pronoun+adv+verb+adv 	 he looked
+pronoun+adv+verb+adv 	 he saw
+pronoun+adv+verb+adv 	 he spoke
+pronoun+adv+verb+adv 	 I said
+pronoun+adv+verb+adv 	 He turned
+pronoun+adv+verb+adv 	 He turned round
+pronoun+adv+verb+adv 	 he faced
+pronoun+adv+aux+adv+verb+adv 	 I shall have
+pronoun+adv+verb+adv 	 There was
+pronoun+adv+verb+adv 	 he explained
+pronoun+adv+aux+adv+verb+adv 	 I could write
+pronoun+adv+aux+adv+verb+adv 	 he could send
+pronoun+adv+verb+adv 	 he finds
+pronoun+adv+verb+adv 	 he appeared
+pronoun+adv+aux+adv+verb+adv 	 He had broken
+pronoun+adv+verb+adv 	 that charmed
+pronoun+adv+verb+adv 	 I adjured
+pronoun+adv+verb+adv 	 I asked
+pronoun+adv+verb+adv 	 You took
+pronoun+adv+verb+adv 	 I took
+pronoun+adv+verb+adv 	 he tapped
+pronoun+adv+aux+adv+verb+adv 	 I've never lost
+pronoun+adv+verb+adv 	 He hung
+pronoun+adv+verb+adv 	 She sent
+pronoun+adv+verb+adv 	 she died
+pronoun+adv+aux+adv+verb+adv 	 They were all listening
+pronoun+adv+aux+adv+verb+adv 	 They were all listening now
+pronoun+adv+verb+adv 	 there was
+pronoun+adv+verb+adv 	 he put
+pronoun+adv+verb+adv 	 he quietly said
+pronoun+adv+aux+adv+verb+adv 	 I've ever known
+pronoun+adv+aux+adv+verb+adv 	 woman I've ever known
+pronoun+adv+verb+adv 	 I found
+pronoun+adv+verb+adv 	 my coming
+pronoun+adv+verb+adv 	 she struck
+pronoun+adv+verb+adv 	 I liked
+pronoun+adv+verb+adv 	 she liked
+pronoun+adv+verb+adv 	 she had
+pronoun+adv+aux+adv+verb+adv 	 She had never told
+pronoun+adv+verb+adv 	 she said
+pronoun+adv+verb+adv 	 she said so
+pronoun+adv+verb+adv 	 I knew
+pronoun+adv+verb+adv 	 she had
+pronoun+adv+aux+adv+verb+adv 	 I could see
+pronoun+adv+aux+adv+verb+adv 	 You'll easily judge
+pronoun+adv+verb+adv 	 you hear
+pronoun+adv+verb+adv 	 He continued
+pronoun+adv+aux+adv+verb+adv 	 You'll easily judge
+pronoun+adv+verb+adv 	 he repeated
+pronoun+adv+verb+adv 	 I fixed
+pronoun+adv+verb+adv 	 I see
+pronoun+adv+verb+adv 	 He laughed
+pronoun+adv+verb+adv 	 That came
+pronoun+adv+verb+adv 	 its coming
+pronoun+adv+verb+adv 	 I saw
+pronoun+adv+verb+adv 	 she saw
+pronoun+adv+verb+adv 	 I saw
+pronoun+adv+verb+adv 	 us spoke
+pronoun+adv+verb+adv 	 I remember
+pronoun+adv+verb+adv 	 He quitted
+pronoun+adv+aux+adv+verb+adv 	 You'll receive
+pronoun+adv+verb+adv 	 I inquired
+pronoun+adv+verb+adv 	 all meet
+pronoun+adv+verb+adv 	 He looked
+pronoun+adv+verb+adv 	 anybody going
+pronoun+adv+aux+adv+verb+adv 	 Everybody will stay
+pronoun+adv+aux+adv+verb+adv 	 departure had been fixed
+pronoun+adv+aux+adv+verb+adv 	 story will tell
+pronoun+adv+verb+adv 	 I took
+pronoun+adv+aux+adv+verb+adv 	 story WON'T tell
+pronoun+adv+verb+adv 	 I ever understand
+pronoun+adv+verb+adv 	 YOU tell
+pronoun+adv+verb+adv 	 somebody else inquired
+pronoun+adv+verb+adv 	 He sprang
+pronoun+adv+aux+adv+verb+adv 	 I must go
+pronoun+adv+verb+adv 	 he left
+pronoun+adv+verb+adv 	 we heard
+pronoun+adv+verb+adv 	 I know
+pronoun+adv+verb+adv 	 I returned
+pronoun+adv+verb+adv 	 everyone so agreed
+pronoun+adv+verb+adv 	 we lost
+pronoun+adv+verb+adv 	 we handshook
+pronoun+adv+verb+adv 	 somebody said
+pronoun+adv+verb+adv 	 I knew
+pronoun+adv+verb+adv 	 we quite let
+pronoun+adv+aux+adv+verb+adv 	 hopes were fixed
+pronoun+adv+aux+adv+verb+adv 	 our hopes were fixed
+pronoun+adv+aux+adv+verb+adv 	 which our hopes were fixed
+pronoun+adv+verb+adv 	 he became
+pronoun+adv+verb+adv 	 he became as
+pronoun+adv+aux+adv+verb+adv 	 we could desire
+pronoun+adv+verb+adv 	 We had
+pronoun+adv+aux+adv+verb+adv 	 we had had
+pronoun+adv+verb+adv 	 It appeared
+pronoun+adv+aux+adv+verb+adv 	 he had promised
+pronoun+adv+aux+adv+verb+adv 	 narrative he had promised
+pronoun+adv+verb+adv 	 us really required
+pronoun+adv+verb+adv 	 me say
+pronoun+adv+verb+adv 	 me say here
+pronoun+adv+verb+adv 	 me say here distinctly
+pronoun+adv+aux+adv+verb+adv 	 I shall presently give
+pronoun+adv+aux+adv+verb+adv 	 what I shall presently give
+pronoun+adv+verb+adv 	 that reached
+pronoun+adv+verb+adv 	 he began
+pronoun+adv+verb+adv 	 our hushed
+pronoun+adv+aux+adv+verb+adv 	 who had said
+pronoun+adv+aux+adv+verb+adv 	 ladies who had said
+pronoun+adv+aux+adv+verb+adv 	 they would stay
+pronoun+adv+aux+adv+verb+adv 	 they would stay did
+pronoun+adv+verb+adv 	 they departed
+pronoun+adv+verb+adv 	 they professed
+pronoun+adv+aux+adv+verb+adv 	 he had already worked
+pronoun+adv+aux+adv+verb+adv 	 which he had already worked
+pronoun+adv+verb+adv 	 that only made
+pronoun+adv+verb+adv 	 it had
+pronoun+adv+aux+adv+verb+adv 	 that had already placed
+pronoun+adv+aux+adv+verb+adv 	 advertisement that had already placed
+pronoun+adv+verb+adv 	 her presenting
+pronoun+adv+verb+adv 	 that impressed
+pronoun+adv+aux+adv+verb+adv 	 One could easily fix
+pronoun+adv+verb+adv 	 He struck
+pronoun+adv+verb+adv 	 what took
+pronoun+adv+verb+adv 	 she afterward showed
+pronoun+adv+verb+adv 	 he put
+pronoun+adv+aux+adv+verb+adv 	 he should gratefully
+pronoun+adv+aux+adv+verb+adv 	 obligation he should gratefully
+pronoun+adv+aux+adv+verb+adv 	 he should gratefully incur
+pronoun+adv+aux+adv+verb+adv 	 obligation he should gratefully incur
+pronoun+adv+verb+adv 	 She conceived
+pronoun+adv+verb+adv 	 He had
+pronoun+adv+verb+adv 	 he wished
+pronoun+adv+aux+adv+verb+adv 	 He had been left
+pronoun+adv+aux+adv+verb+adv 	 he had lost
+pronoun+adv+aux+adv+verb+adv 	 whom he had lost
+pronoun+adv+verb+adv 	 he immensely pitied
+pronoun+adv+aux+adv+verb+adv 	 he could find
+pronoun+adv+aux+adv+verb+adv 	 people he could find
+pronoun+adv+aux+adv+verb+adv 	 they were doing
+pronoun+adv+verb+adv 	 they had
+pronoun+adv+verb+adv 	 they had practically
+pronoun+adv+aux+adv+verb+adv 	 He had put
+pronoun+adv+aux+adv+verb+adv 	 visitor would like
+pronoun+adv+aux+adv+verb+adv 	 his visitor would like
+pronoun+adv+verb+adv 	 There were
+pronoun+adv+aux+adv+verb+adv 	 who should go
+pronoun+adv+aux+adv+verb+adv 	 lady who should go
+pronoun+adv+aux+adv+verb+adv 	 She would also have
+pronoun+adv+aux+adv+verb+adv 	 they had had
+pronoun+adv+aux+adv+verb+adv 	 whom they had had
+pronoun+adv+aux+adv+verb+adv 	 lady whom they had had
+pronoun+adv+aux+adv+verb+adv 	 She had done
+pronoun+adv+verb+adv 	 there were
+pronoun+adv+verb+adv 	 someone put
+pronoun+adv+aux+adv+verb+adv 	 That will come
+pronoun+adv+verb+adv 	 I thought
+pronoun+adv+aux+adv+verb+adv 	 you ARE doing
+pronoun+adv+aux+adv+verb+adv 	 what you ARE doing
+pronoun+adv+verb+adv 	 I suggested
+pronoun+adv+aux+adv+verb+adv 	 I should have wished
+pronoun+adv+aux+adv+verb+adv 	 She did wish
+pronoun+adv+aux+adv+verb+adv 	 she did learn
+pronoun+adv+aux+adv+verb+adv 	 You shall hear
+pronoun+adv+verb+adv 	 she learned
+pronoun+adv+verb+adv 	 She hesitated
+pronoun+adv+verb+adv 	 she faced
+pronoun+adv+verb+adv 	 she engaged
+pronoun+adv+verb+adv 	 She succumbed
+pronoun+adv+verb+adv 	 He got
+pronoun+adv+aux+adv+verb+adv 	 he had done
+pronoun+adv+verb+adv 	 She saw
+pronoun+adv+verb+adv 	 There were
+pronoun+adv+verb+adv 	 he went
+pronoun+adv+verb+adv 	 He told
+pronoun+adv+verb+adv 	 It sounded
+pronoun+adv+verb+adv 	 it sounded
+pronoun+adv+aux+adv+verb+adv 	 she should never trouble
+pronoun+adv+verb+adv 	 him�
+pronoun+adv+verb+adv 	 She promised
+pronoun+adv+verb+adv 	 she mentioned
+pronoun+adv+verb+adv 	 he held
+pronoun+adv+aux+adv+verb+adv 	 she already felt rewarded
+pronoun+adv+verb+adv 	 She never saw
+pronoun+adv+verb+adv 	 he opened
+pronoun+adv+verb+adv 	 I have
+pronoun+adv+verb+adv 	 I_
+pronoun+adv+verb+adv 	 I_ have
+pronoun+adv+verb+adv 	 I said
+pronoun+adv+verb+adv 	 I remember
+pronoun+adv+verb+adv 	 I had
+pronoun+adv+aux+adv+verb+adv 	 I had made
+pronoun+adv+verb+adv 	 I spent
+pronoun+adv+verb+adv 	 that carried
+pronoun+adv+aux+adv+verb+adv 	 I was told
+pronoun+adv+verb+adv 	 I found
+pronoun+adv+verb+adv 	 we turned
+pronoun+adv+aux+adv+verb+adv 	 it had sunk
+pronoun+adv+aux+adv+verb+adv 	 which it had sunk
+pronoun+adv+verb+adv 	 I suppose
+pronoun+adv+aux+adv+verb+adv 	 I had expected
+pronoun+adv+verb+adv 	 what greeted
+pronoun+adv+verb+adv 	 I remember
+pronoun+adv+verb+adv 	 I remember
+pronoun+adv+verb+adv 	 that made
+pronoun+adv+verb+adv 	 there immediately appeared
+pronoun+adv+verb+adv 	 who dropped
+pronoun+adv+aux+adv+verb+adv 	 I had received
+pronoun+adv+verb+adv 	 I recalled
+pronoun+adv+verb+adv 	 me think
+pronoun+adv+verb+adv 	 I had
+pronoun+adv+aux+adv+verb+adv 	 I was carried
+pronoun+adv+aux+adv+verb+adv 	 I was carried triumphantly
+pronoun+adv+verb+adv 	 who accompanied
+pronoun+adv+aux+adv+verb+adv 	 I had ever seen
+pronoun+adv+aux+adv+verb+adv 	 child I had ever seen
+pronoun+adv+verb+adv 	 I afterward wondered
+pronoun+adv+verb+adv 	 I slept
+pronoun+adv+verb+adv 	 this astonished
+pronoun+adv+verb+adv 	 I recollect
+pronoun+adv+aux+adv+verb+adv 	 I was treated
+pronoun+adv+aux+adv+verb+adv 	 which I was treated
+pronoun+adv+verb+adv 	 I almost felt
+pronoun+adv+aux+adv+verb+adv 	 I could see
+pronoun+adv+verb+adv 	 all struck
+pronoun+adv+verb+adv 	 me�
+pronoun+adv+verb+adv 	 me�like
+pronoun+adv+aux+adv+verb+adv 	 It was thrown
+pronoun+adv+aux+adv+verb+adv 	 I should get
+pronoun+adv+verb+adv 	 I fear
+pronoun+adv+aux+adv+verb+adv 	 I had rather brooded
+pronoun+adv+aux+adv+verb+adv 	 outlook might have made
+pronoun+adv+verb+adv 	 me shrink
+pronoun+adv+verb+adv 	 me shrink again
+pronoun+adv+verb+adv 	 I perceived
+pronoun+adv+verb+adv 	 I wondered
+pronoun+adv+verb+adv 	 I wondered even
+pronoun+adv+verb+adv 	 I wondered even then
+pronoun+adv+aux+adv+verb+adv 	 she should wish
+pronoun+adv+aux+adv+verb+adv 	 course have made
+pronoun+adv+aux+adv+verb+adv 	 I could catch
+pronoun+adv+aux+adv+verb+adv 	 I had fancied
+pronoun+adv+verb+adv 	 I heard
+pronoun+adv+verb+adv 	 I believed
+pronoun+adv+verb+adv 	 I recognized
+pronoun+adv+verb+adv 	 I found
+pronoun+adv+verb+adv 	 myself just consciously starting
+pronoun+adv+aux+adv+verb+adv 	 I should rather say
+pronoun+adv+verb+adv 	 they now come
+pronoun+adv+verb+adv 	 they now come back
+pronoun+adv+aux+adv+verb+adv 	 It had been agreed
+pronoun+adv+aux+adv+verb+adv 	 I should have
+pronoun+adv+aux+adv+verb+adv 	 occasion I should have
+pronoun+adv+aux+adv+verb+adv 	 bed being already arranged
+pronoun+adv+aux+adv+verb+adv 	 I had undertaken
+pronoun+adv+aux+adv+verb+adv 	 What I had undertaken
+pronoun+adv+aux+adv+verb+adv 	 she had remained
+pronoun+adv+verb+adv 	 I feel
+pronoun+adv+verb+adv 	 I feel quite
+pronoun+adv+aux+adv+verb+adv 	 she would presently like
+pronoun+adv+verb+adv 	 I already liked
+pronoun+adv+aux+adv+verb+adv 	 I could see
+pronoun+adv+aux+adv+verb+adv 	 pleasure I could see
+pronoun+adv+verb+adv 	 her feel
+pronoun+adv+verb+adv 	 I sat
+pronoun+adv+verb+adv 	 There were
+pronoun+adv+verb+adv 	 There were naturally
+pronoun+adv+aux+adv+verb+adv 	 presence could pass
+pronoun+adv+verb+adv 	 he look
+pronoun+adv+verb+adv 	 you think
+pronoun+adv+verb+adv 	 you think well
+pronoun+adv+verb+adv 	 she stood
+pronoun+adv+verb+adv 	 she stood there
+pronoun+adv+verb+adv 	 who looked
+pronoun+adv+verb+adv 	 that contained
+pronoun+adv+aux+adv+verb+adv 	 I do�
+pronoun+adv+aux+adv+verb+adv 	 I do�?
+pronoun+adv+aux+adv+verb+adv 	 You WILL be carried
+pronoun+adv+aux+adv+verb+adv 	 You WILL be carried away
+pronoun+adv+verb+adv 	 I think
+pronoun+adv+verb+adv 	 I came
+pronoun+adv+verb+adv 	 I remember
+pronoun+adv+verb+adv 	 I remember feeling
+pronoun+adv+aux+adv+verb+adv 	 I'm rather easily carried
+pronoun+adv+aux+adv+verb+adv 	 I'm rather easily carried away
+pronoun+adv+aux+adv+verb+adv 	 I was carried
+pronoun+adv+aux+adv+verb+adv 	 I was carried away
+pronoun+adv+aux+adv+verb+adv 	 I can still see
+pronoun+adv+verb+adv 	 she took
+pronoun+adv+verb+adv 	 I've
+pronoun+adv+aux+adv+verb+adv 	 I could laugh
+pronoun+adv+verb+adv 	 I understand
+pronoun+adv+verb+adv 	 He arrives
+pronoun+adv+verb+adv 	 you did
+pronoun+adv+verb+adv 	 I forthwith expressed
+pronoun+adv+verb+adv 	 I somehow took
+pronoun+adv+verb+adv 	 I felt
+pronoun+adv+verb+adv 	 I suppose
+pronoun+adv+aux+adv+verb+adv 	 that could be fairly called
+pronoun+adv+aux+adv+verb+adv 	 nothing that could be fairly called
+pronoun+adv+verb+adv 	 I walked
+pronoun+adv+verb+adv 	 I found
+pronoun+adv+verb+adv 	 I reflected
+pronoun+adv+aux+adv+verb+adv 	 I could contrive
+pronoun+adv+aux+adv+verb+adv 	 arts I could contrive
+pronoun+adv+verb+adv 	 I spent
+pronoun+adv+verb+adv 	 I arranged
+pronoun+adv+aux+adv+verb+adv 	 who might show
+pronoun+adv+verb+adv 	 She showed
+pronoun+adv+verb+adv 	 our becoming
+pronoun+adv+aux+adv+verb+adv 	 I was struck
+pronoun+adv+verb+adv 	 that made
+pronoun+adv+verb+adv 	 me pause
+pronoun+adv+verb+adv 	 that made
+pronoun+adv+verb+adv 	 she asked
+pronoun+adv+verb+adv 	 I left
+pronoun+adv+verb+adv 	 I daresay
+pronoun+adv+aux+adv+verb+adv 	 it would now appear
+pronoun+adv+aux+adv+verb+adv 	 eyes it would now appear
+pronoun+adv+aux+adv+verb+adv 	 it would now appear sufficiently
+pronoun+adv+aux+adv+verb+adv 	 eyes it would now appear sufficiently
+pronoun+adv+verb+adv 	 I had
+pronoun+adv+aux+adv+verb+adv 	 I had fallen
+pronoun+adv+aux+adv+verb+adv 	 which I had fallen
+pronoun+adv+verb+adv 	 I had
+pronoun+adv+aux+adv+verb+adv 	 our being almost as lost
