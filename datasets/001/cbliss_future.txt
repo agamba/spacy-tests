@@ -1,0 +1,1139 @@
+[INPUT]:She will walk to school tomorrow morning.
+[OUTPUT]:{future}{She}{walk} to school tomorrow morning. 
+
+[INPUT]:They will play soccer in the park tomorrow.
+[OUTPUT]:{future}{They}{play} soccer in park tomorrow. 
+
+[INPUT]:He will visit his grandparents next weekend.
+[OUTPUT]:{future}{He}{visit} his grandparents next next weekend. 
+
+[INPUT]:We will cook dinner together tomorrow night.
+[OUTPUT]:{future}{We}{cook}together dinner tomorrow night. 
+
+[INPUT]:I will finish reading the book tomorrow.
+[OUTPUT]:{future}{I}{finish}{present}{read} book tomorrow. 
+
+[INPUT]:The sun will set beautifully tomorrow evening.
+[OUTPUT]:{future}{sun}{set}beautifully tomorrow evening. 
+
+[INPUT]:They will travel to Europe next summer.
+[OUTPUT]:{future}{They}{travel} to Europe summer next. 
+
+[INPUT]:She will dance at the party next Friday.
+[OUTPUT]:{future}{She}{dance} at party next next Friday. 
+
+[INPUT]:He will study hard for his exams next month.
+[OUTPUT]:{future}{He}{study}hard for his next exams next month. 
+
+[INPUT]:We will visit the museum next week.
+[OUTPUT]:{future}{We}{visit} museum week next. 
+
+[INPUT]:She is going to walk to school tomorrow morning.
+[OUTPUT]:{present progressive}{She}{be}{go} to{walk} to school tomorrow morning. 
+
+[INPUT]:They are going to play soccer in the park tomorrow.
+[OUTPUT]:{present progressive}{They}{be}{go} to{play} soccer in park tomorrow. 
+
+[INPUT]:He is going to visit his grandparents next weekend.
+[OUTPUT]:{present progressive}{He}{be}{go} to{visit} his grandparents next next weekend. 
+
+[INPUT]:We are going to cook dinner together tomorrow night.
+[OUTPUT]:{present progressive}{We}{be}{go} to{cook}together dinner tomorrow night. 
+
+[INPUT]:I am going to finish reading the book tomorrow.
+[OUTPUT]:{present progressive}{I}{be}{go} to{finish}{present}{read} book tomorrow. 
+
+[INPUT]:The sun is going to set beautifully tomorrow evening.
+[OUTPUT]:{present progressive}{sun}{be}{go} to{set}beautifully tomorrow evening. 
+
+[INPUT]:They are going to travel to Europe next summer.
+[OUTPUT]:{present progressive}{They}{be}{go} to{travel} to Europe summer next. 
+
+[INPUT]:She is going to dance at the party next Friday.
+[OUTPUT]:{present progressive}{She}{be}{go} to{dance} at party next next Friday. 
+
+[INPUT]:He is going to study hard for his exams next month.
+[OUTPUT]:{present progressive}{He}{be}{go} to{study}hard for his next exams next month. 
+
+[INPUT]:We are going to visit the museum next week.
+[OUTPUT]:{present progressive}{We}{be}{go} to{visit} museum week next. 
+
+[INPUT]:She will eat breakfast tomorrow morning.
+[OUTPUT]:{future}{She}{eat} breakfast tomorrow morning. 
+
+[INPUT]:They will go to the beach next summer.
+[OUTPUT]:{future}{They}{go} to beach summer next. 
+
+[INPUT]:He will finish his homework before dinner.
+[OUTPUT]:{future}{He}{finish} his homework before dinner. 
+
+[INPUT]:We will watch a movie together tomorrow night.
+[OUTPUT]:{future}{We}{watch}together movie tomorrow night. 
+
+[INPUT]:I will visit my friend next weekend.
+[OUTPUT]:{future}{I}{visit} my friend weekend next. 
+
+[INPUT]:The dog will chase the cat around the yard.
+[OUTPUT]:{future}{dog}{chase} cat around yard. 
+
+[INPUT]:They will play soccer after school.
+[OUTPUT]:{future}{They}{play} soccer after school. 
+
+[INPUT]:She will sing a beautiful song at the concert.
+[OUTPUT]:{future}{She}{sing} song beautiful at concert. 
+
+[INPUT]:He will cook dinner for his family.
+[OUTPUT]:{future}{He}{cook} dinner for his family. 
+
+[INPUT]:We will travel to Europe next year.
+[OUTPUT]:{future}{We}{travel} to Europe year next. 
+
+[INPUT]:She is going to eat breakfast tomorrow morning.
+[OUTPUT]:{present progressive}{She}{be}{go} to{eat} breakfast tomorrow morning. 
+
+[INPUT]:They are going to go to the beach next summer.
+[OUTPUT]:{present progressive}{They}{be}{go} to{go} to beach summer next. 
+
+[INPUT]:He is going to finish his homework before dinner.
+[OUTPUT]:{present progressive}{He}{be}{go} to{finish} his homework before dinner. 
+
+[INPUT]:We are going to watch a movie together tomorrow night.
+[OUTPUT]:{present progressive}{We}{be}{go} to{watch}together movie tomorrow night. 
+
+[INPUT]:I am going to visit my friend next weekend.
+[OUTPUT]:{present progressive}{I}{be}{go} to{visit} my friend weekend next. 
+
+[INPUT]:The dog is going to chase the cat around the yard.
+[OUTPUT]:{present progressive}{dog}{be}{go} to{chase} cat around yard. 
+
+[INPUT]:They are going to play soccer after school.
+[OUTPUT]:{present progressive}{They}{be}{go} to{play} soccer after school. 
+
+[INPUT]:She is going to sing a beautiful song at the concert.
+[OUTPUT]:{present progressive}{She}{be}{go} to{sing} song beautiful at concert. 
+
+[INPUT]:He is going to cook dinner for his family.
+[OUTPUT]:{present progressive}{He}{be}{go} to{cook} dinner for his family. 
+
+[INPUT]:We are going to travel to Europe next year.
+[OUTPUT]:{present progressive}{We}{be}{go} to{travel} to Europe year next. 
+
+[INPUT]:She will walk to school tomorrow.
+[OUTPUT]:{future}{She}{walk} to school tomorrow. 
+
+[INPUT]:They will play soccer in the park tomorrow.
+[OUTPUT]:{future}{They}{play} soccer in park tomorrow. 
+
+[INPUT]:He will visit his grandparents next weekend.
+[OUTPUT]:{future}{He}{visit} his grandparents next next weekend. 
+
+[INPUT]:We will cook dinner together tomorrow night.
+[OUTPUT]:{future}{We}{cook}together dinner tomorrow night. 
+
+[INPUT]:I will finish reading the book tomorrow.
+[OUTPUT]:{future}{I}{finish}{present}{read} book tomorrow. 
+
+[INPUT]:The sun will rise early tomorrow morning.
+[OUTPUT]:{future}{sun}{rise} tomorrow morning. 
+
+[INPUT]:They are going to travel to Europe next summer.
+[OUTPUT]:{present progressive}{They}{be}{go} to{travel} to Europe summer next. 
+
+[INPUT]:She is going to dance at the party next Friday.
+[OUTPUT]:{present progressive}{She}{be}{go} to{dance} at party next next Friday. 
+
+[INPUT]:He is going to study hard for his exams next month.
+[OUTPUT]:{present progressive}{He}{be}{go} to{study}hard for his next exams next month. 
+
+[INPUT]:We are going to visit the museum next week.
+[OUTPUT]:{present progressive}{We}{be}{go} to{visit} museum week next. 
+
+[INPUT]:She will wake up early tomorrow morning.
+[OUTPUT]:{future}{She}{wake} up tomorrow morning early. 
+
+[INPUT]:They will play basketball tomorrow.
+[OUTPUT]:{future}{They}{play} basketball tomorrow. 
+
+[INPUT]:He will visit his grandparents next week.
+[OUTPUT]:{future}{He}{visit} his grandparents next next week. 
+
+[INPUT]:We will finish our project by next month.
+[OUTPUT]:{future}{We}{finish} our project by month next. 
+
+[INPUT]:I will travel to Paris next summer.
+[OUTPUT]:{future}{I}{travel} to Paris next next summer. 
+
+[INPUT]:The sun will set beautifully tomorrow evening.
+[OUTPUT]:{future}{sun}{set}beautifully tomorrow evening. 
+
+[INPUT]:They will dance at the party next Friday.
+[OUTPUT]:{future}{They}{dance} at party next next Friday. 
+
+[INPUT]:She will study hard for her exams next month.
+[OUTPUT]:{future}{She}{study}hard for her exams next next month. 
+
+[INPUT]:He will cook dinner for his family tomorrow.
+[OUTPUT]:{future}{He}{cook} dinner for his family tomorrow. 
+
+[INPUT]:We will go camping next year.
+[OUTPUT]:{future}{We}{go} camping year next. 
+
+[INPUT]:She is going to wake up early tomorrow morning.
+[OUTPUT]:{present progressive}{She}{be}{go} to{wake} up tomorrow morning early. 
+
+[INPUT]:They are going to play soccer in the park tomorrow.
+[OUTPUT]:{present progressive}{They}{be}{go} to{play} soccer in park tomorrow. 
+
+[INPUT]:He is going to visit his grandparents next weekend.
+[OUTPUT]:{present progressive}{He}{be}{go} to{visit} his grandparents next next weekend. 
+
+[INPUT]:We are going to cook dinner together tomorrow night.
+[OUTPUT]:{present progressive}{We}{be}{go} to{cook}together dinner tomorrow night. 
+
+[INPUT]:I am going to finish reading the book tomorrow.
+[OUTPUT]:{present progressive}{I}{be}{go} to{finish}{present}{read} book tomorrow. 
+
+[INPUT]:The sun is going to shine brightly tomorrow.
+[OUTPUT]:{present progressive}{sun}{be}{go} to{shine}brightly tomorrow. 
+
+[INPUT]:They are going to travel to Europe next summer.
+[OUTPUT]:{present progressive}{They}{be}{go} to{travel} to Europe summer next. 
+
+[INPUT]:She is going to dance at the party next Friday.
+[OUTPUT]:{present progressive}{She}{be}{go} to{dance} at party next next Friday. 
+
+[INPUT]:He is going to study hard for his exams next month.
+[OUTPUT]:{present progressive}{He}{be}{go} to{study}hard for his next exams next month. 
+
+[INPUT]:We are going to visit the museum next week.
+[OUTPUT]:{present progressive}{We}{be}{go} to{visit} museum week next. 
+
+[INPUT]:She will study at the library tomorrow.
+[OUTPUT]:{future}{She}{study} at library tomorrow. 
+
+[INPUT]:They will go for a hike next weekend.
+[OUTPUT]:{future}{They}{go} for hike weekend next. 
+
+[INPUT]:He will finish his dinner early tomorrow night.
+[OUTPUT]:{future}{He}{finish} his dinner tomorrow night early. 
+
+[INPUT]:We will visit the zoo next month.
+[OUTPUT]:{future}{We}{visit} zoo month next. 
+
+[INPUT]:I will cook spaghetti for dinner tomorrow.
+[OUTPUT]:{future}{I}{cook} spaghetti for dinner tomorrow. 
+
+[INPUT]:The movie will premiere next week.
+[OUTPUT]:{future}{movie}{premiere} week next. 
+
+[INPUT]:They are planning to travel to Japan next summer.
+[OUTPUT]:{present progressive}{They}{be}{plan} to{travel} to Japan summer next. 
+
+[INPUT]:She will dance at the party next Friday.
+[OUTPUT]:{future}{She}{dance} at party next next Friday. 
+
+[INPUT]:He will play the piano at the concert next week.
+[OUTPUT]:{future}{He}{play} piano at concert week next. 
+
+[INPUT]:We will solve the puzzle tomorrow.
+[OUTPUT]:{future}{We}{solve} puzzle tomorrow. 
+
+[INPUT]:She is going to wake up early tomorrow morning.
+[OUTPUT]:{present progressive}{She}{be}{go} to{wake} up tomorrow morning early. 
+
+[INPUT]:They are going to play basketball at the park next weekend.
+[OUTPUT]:{present progressive}{They}{be}{go} to{play} basketball at park weekend next. 
+
+[INPUT]:He is going to visit his aunt next week.
+[OUTPUT]:{present progressive}{He}{be}{go} to{visit} his aunt week next. 
+
+[INPUT]:We are going to clean the house tomorrow.
+[OUTPUT]:{present progressive}{We}{be}{go} to{clean} house tomorrow. 
+
+[INPUT]:I am going to watch a movie with my friends tomorrow evening.
+[OUTPUT]:{present progressive}{I}{be}{go} to{watch} movie with my friends tomorrow evening. 
+
+[INPUT]:The sun is going to set beautifully tomorrow.
+[OUTPUT]:{present progressive}{sun}{be}{go} to{set}beautifully tomorrow. 
+
+[INPUT]:They are going to have a barbecue in their backyard next weekend.
+[OUTPUT]:{present progressive}{They}{be}{go} to{have} in barbecue their backyard next next weekend. 
+
+[INPUT]:She is going to finish her homework tomorrow.
+[OUTPUT]:{present progressive}{She}{be}{go} to{finish} her homework tomorrow. 
+
+[INPUT]:He is going to go for a run tomorrow morning.
+[OUTPUT]:{present progressive}{He}{be}{go} to{go} for run tomorrow morning. 
+
+[INPUT]:We are going to attend a party next weekend.
+[OUTPUT]:{present progressive}{We}{be}{go} to{attend} party weekend next. 
+
+[INPUT]:She will wake up early tomorrow morning.
+[OUTPUT]:{future}{She}{wake} up tomorrow morning early. 
+
+[INPUT]:They will play basketball at the park tomorrow.
+[OUTPUT]:{future}{They}{play} basketball at park tomorrow. 
+
+[INPUT]:He will visit his aunt tomorrow.
+[OUTPUT]:{future}{He}{visit} his aunt tomorrow. 
+
+[INPUT]:We will clean the house tomorrow.
+[OUTPUT]:{future}{We}{clean} house tomorrow. 
+
+[INPUT]:I will watch a movie with my friends tomorrow evening.
+[OUTPUT]:{future}{I}{watch} movie with my friends tomorrow evening. 
+
+[INPUT]:The sun will set beautifully tomorrow.
+[OUTPUT]:{future}{sun}{set}beautifully tomorrow. 
+
+[INPUT]:They will have a barbecue in their backyard tomorrow.
+[OUTPUT]:{future}{They}{have} barbecue in their backyard tomorrow. 
+
+[INPUT]:She will finish her homework tomorrow.
+[OUTPUT]:{future}{She}{finish} her homework tomorrow. 
+
+[INPUT]:He will go for a run tomorrow morning.
+[OUTPUT]:{future}{He}{go} for run tomorrow morning. 
+
+[INPUT]:We will attend a party tomorrow night.
+[OUTPUT]:{future}{We}{attend} party tomorrow night. 
+
+[INPUT]:She is going to wake up early tomorrow morning.
+[OUTPUT]:{present progressive}{She}{be}{go} to{wake} up tomorrow morning early. 
+
+[INPUT]:They are going to play basketball at the park tomorrow.
+[OUTPUT]:{present progressive}{They}{be}{go} to{play} basketball at park tomorrow. 
+
+[INPUT]:He is going to visit his aunt tomorrow.
+[OUTPUT]:{present progressive}{He}{be}{go} to{visit} his aunt tomorrow. 
+
+[INPUT]:We are going to clean the house tomorrow.
+[OUTPUT]:{present progressive}{We}{be}{go} to{clean} house tomorrow. 
+
+[INPUT]:I am going to watch a movie with my friends tomorrow evening.
+[OUTPUT]:{present progressive}{I}{be}{go} to{watch} movie with my friends tomorrow evening. 
+
+[INPUT]:The sun is going to set beautifully tomorrow.
+[OUTPUT]:{present progressive}{sun}{be}{go} to{set}beautifully tomorrow. 
+
+[INPUT]:They are going to have a barbecue in their backyard tomorrow.
+[OUTPUT]:{present progressive}{They}{be}{go} to{have} in barbecue their backyard tomorrow. 
+
+[INPUT]:She is going to finish her homework tomorrow.
+[OUTPUT]:{present progressive}{She}{be}{go} to{finish} her homework tomorrow. 
+
+[INPUT]:He is going to go for a run tomorrow morning.
+[OUTPUT]:{present progressive}{He}{be}{go} to{go} for run tomorrow morning. 
+
+[INPUT]:We are going to attend a party tomorrow night.
+[OUTPUT]:{present progressive}{We}{be}{go} to{attend} party tomorrow night. 
+
+[INPUT]:She will wake up early tomorrow morning.
+[OUTPUT]:{future}{She}{wake} up tomorrow morning early. 
+
+[INPUT]:They will play basketball at the park tomorrow.
+[OUTPUT]:{future}{They}{play} basketball at park tomorrow. 
+
+[INPUT]:He will visit his aunt tomorrow.
+[OUTPUT]:{future}{He}{visit} his aunt tomorrow. 
+
+[INPUT]:We will clean the house tomorrow.
+[OUTPUT]:{future}{We}{clean} house tomorrow. 
+
+[INPUT]:I will watch a movie with my friends tomorrow evening.
+[OUTPUT]:{future}{I}{watch} movie with my friends tomorrow evening. 
+
+[INPUT]:The sun will set beautifully tomorrow.
+[OUTPUT]:{future}{sun}{set}beautifully tomorrow. 
+
+[INPUT]:They will have a barbecue in their backyard tomorrow.
+[OUTPUT]:{future}{They}{have} barbecue in their backyard tomorrow. 
+
+[INPUT]:She will finish her homework tomorrow.
+[OUTPUT]:{future}{She}{finish} her homework tomorrow. 
+
+[INPUT]:He will go for a run tomorrow morning.
+[OUTPUT]:{future}{He}{go} for run tomorrow morning. 
+
+[INPUT]:We will attend a party tomorrow night.
+[OUTPUT]:{future}{We}{attend} party tomorrow night. 
+
+[INPUT]:She will wake up early tomorrow morning.
+[OUTPUT]:{future}{She}{wake} up tomorrow morning early. 
+
+[INPUT]:They will play basketball at the park tomorrow.
+[OUTPUT]:{future}{They}{play} basketball at park tomorrow. 
+
+[INPUT]:He will visit his aunt tomorrow.
+[OUTPUT]:{future}{He}{visit} his aunt tomorrow. 
+
+[INPUT]:We will clean the house tomorrow.
+[OUTPUT]:{future}{We}{clean} house tomorrow. 
+
+[INPUT]:I will watch a movie with my friends tomorrow evening.
+[OUTPUT]:{future}{I}{watch} movie with my friends tomorrow evening. 
+
+[INPUT]:The sun will set beautifully tomorrow.
+[OUTPUT]:{future}{sun}{set}beautifully tomorrow. 
+
+[INPUT]:They will have a barbecue in their backyard tomorrow.
+[OUTPUT]:{future}{They}{have} barbecue in their backyard tomorrow. 
+
+[INPUT]:She will finish her homework tomorrow.
+[OUTPUT]:{future}{She}{finish} her homework tomorrow. 
+
+[INPUT]:He will go for a run tomorrow morning.
+[OUTPUT]:{future}{He}{go} for run tomorrow morning. 
+
+[INPUT]:We will attend a party tomorrow night.
+[OUTPUT]:{future}{We}{attend} party tomorrow night. 
+
+[INPUT]:She will walk to school tomorrow.
+[OUTPUT]:{future}{She}{walk} to school tomorrow. 
+
+[INPUT]:He will eat breakfast early tomorrow morning.
+[OUTPUT]:{future}{He}{eat} breakfast tomorrow morning. 
+
+[INPUT]:They will watch a movie tomorrow night.
+[OUTPUT]:{future}{They}{watch} movie tomorrow night. 
+
+[INPUT]:I will visit my grandparents next weekend.
+[OUTPUT]:{future}{I}{visit} my grandparents next next weekend. 
+
+[INPUT]:We will play soccer after school tomorrow.
+[OUTPUT]:{future}{We}{play} soccer after school tomorrow. 
+
+[INPUT]:The sun will shine brightly tomorrow.
+[OUTPUT]:{future}{sun}{shine}brightly tomorrow. 
+
+[INPUT]:He will finish his homework before dinner tomorrow.
+[OUTPUT]:{future}{He}{finish} his homework before dinner tomorrow. 
+
+[INPUT]:They will go swimming at the beach next summer.
+[OUTPUT]:{future}{They}{go}{present}{swim} at beach summer next. 
+
+[INPUT]:She will cook dinner for her family tomorrow.
+[OUTPUT]:{future}{She}{cook} dinner for her family tomorrow. 
+
+[INPUT]:The cat will sleep all day tomorrow.
+[OUTPUT]:{future}{cat}{sleep} day tomorrow. 
+
+[INPUT]:He will run five miles tomorrow morning.
+[OUTPUT]:{future}{He}{run} five miles tomorrow morning. 
+
+[INPUT]:They will clean the house next weekend.
+[OUTPUT]:{future}{They}{clean} house weekend next. 
+
+[INPUT]:I will read a book before going to bed tomorrow night.
+[OUTPUT]:{future}{I}{read} book before{present}{go} to bed tomorrow night. 
+
+[INPUT]:We will visit the museum next month.
+[OUTPUT]:{future}{We}{visit} museum month next. 
+
+[INPUT]:She will buy a new dress next week.
+[OUTPUT]:{future}{She}{buy} dress new week next. 
+
+[INPUT]:He will ride his bike to work tomorrow.
+[OUTPUT]:{future}{He}{ride} his bike to{work} tomorrow. 
+
+[INPUT]:They will dance at the party tomorrow night.
+[OUTPUT]:{future}{They}{dance} at party tomorrow night. 
+
+[INPUT]:I will graduate from college in the future.
+[OUTPUT]:{future}{I}{graduate} from college in future. 
+
+[INPUT]:We will go on a road trip next summer.
+[OUTPUT]:{future}{We}{go} on road trip next next summer. 
+
+[INPUT]:She will paint a beautiful picture tomorrow night.
+[OUTPUT]:{future}{She}{paint} picture beautiful tomorrow night. 
+
+[INPUT]:He will fix the broken window next weekend.
+[OUTPUT]:{future}{He}{fix} window broken next next weekend. 
+
+[INPUT]:They will sing songs around the campfire tomorrow night.
+[OUTPUT]:{future}{They}{sing} songs around campfire tomorrow night. 
+
+[INPUT]:I will wake up early tomorrow morning.
+[OUTPUT]:{future}{I}{wake} up tomorrow morning early. 
+
+[INPUT]:We will play board games all night tomorrow night.
+[OUTPUT]:{future}{We}{play} board games night tomorrow night. 
+
+[INPUT]:She will bake cookies for her friends tomorrow.
+[OUTPUT]:{future}{She}{bake} cookies for her friends tomorrow. 
+
+[INPUT]:He will travel to Europe next summer.
+[OUTPUT]:{future}{He}{travel} to Europe summer next. 
+
+[INPUT]:They will attend a concert tomorrow night.
+[OUTPUT]:{future}{They}{attend} concert tomorrow night. 
+
+[INPUT]:I will finish reading the book next week.
+[OUTPUT]:{future}{I}{finish}{present}{read} book week next. 
+
+[INPUT]:We will go fishing at the lake next weekend.
+[OUTPUT]:{future}{We}{go}{present}{fish} at lake weekend next. 
+
+[INPUT]:She will practice the piano for hours tomorrow.
+[OUTPUT]:{future}{She}{practice} piano for hours tomorrow. 
+
+[INPUT]:He will clean his room tomorrow.
+[OUTPUT]:{future}{He}{clean} his room tomorrow. 
+
+[INPUT]:They will plant flowers in the garden next spring.
+[OUTPUT]:{future}{They}{plant} flowers in garden next next spring. 
+
+[INPUT]:I will watch a documentary on TV tomorrow night.
+[OUTPUT]:{future}{I}{watch} on documentary TV tomorrow night. 
+
+[INPUT]:We will have a barbecue in the backyard next weekend.
+[OUTPUT]:{future}{We}{have} barbecue in backyard next next weekend. 
+
+[INPUT]:She will study for her exams next week.
+[OUTPUT]:{future}{She}{study} for her exams next next week. 
+
+[INPUT]:He will fix the leaky faucet next weekend.
+[OUTPUT]:{future}{He}{fix} faucet leaky weekend next. 
+
+[INPUT]:They will walk in the park tomorrow.
+[OUTPUT]:{future}{They}{walk} in park tomorrow. 
+
+[INPUT]:I will play basketball with my friends tomorrow night.
+[OUTPUT]:{future}{I}{play} basketball with my friends tomorrow night. 
+
+[INPUT]:We will visit the zoo next weekend.
+[OUTPUT]:{future}{We}{visit} zoo weekend next. 
+
+[INPUT]:She will write a letter to her pen pal tomorrow.
+[OUTPUT]:{future}{She}{write} letter to her pen pal tomorrow. 
+
+[INPUT]:He will mow the lawn next week.
+[OUTPUT]:{future}{He}{mow} lawn week next. 
+
+[INPUT]:They will go shopping at the mall next weekend.
+[OUTPUT]:{future}{They}{go}{present}{shop} at mall weekend next. 
+
+[INPUT]:I will go for a run tomorrow morning.
+[OUTPUT]:{future}{I}{go} for run tomorrow morning. 
+
+[INPUT]:We will watch the sunset at the beach tomorrow night.
+[OUTPUT]:{future}{We}{watch} sunset at beach tomorrow night. 
+
+[INPUT]:She will finish knitting a sweater next week.
+[OUTPUT]:{future}{She}{finish}{present}{knit} sweater week next. 
+
+[INPUT]:He will cook dinner for his family tomorrow.
+[OUTPUT]:{future}{He}{cook} dinner for his family tomorrow. 
+
+[INPUT]:They will hike in the mountains next weekend.
+[OUTPUT]:{future}{They}{hike} in mountains next next weekend. 
+
+[INPUT]:I will clean out the garage next weekend.
+[OUTPUT]:{future}{I}{clean} out garage weekend next. 
+
+[INPUT]:We will have a picnic in the park next weekend.
+[OUTPUT]:{future}{We}{have} in picnic park weekend next. 
+
+[INPUT]:She will paint her nails tomorrow.
+[OUTPUT]:{future}{She}{paint} her nails tomorrow. 
+
+[INPUT]:He will read a book in the garden tomorrow.
+[OUTPUT]:{future}{He}{read} book in garden tomorrow. 
+
+[INPUT]:They will play soccer in the park tomorrow.
+[OUTPUT]:{future}{They}{play} soccer in park tomorrow. 
+
+[INPUT]:I will attend a party next weekend.
+[OUTPUT]:{future}{I}{attend} party weekend next. 
+
+[INPUT]:We will ride bikes around the neighborhood next weekend.
+[OUTPUT]:{future}{We}{ride} around bikes neighborhood next next weekend. 
+
+[INPUT]:She will watch a movie with her friends tomorrow night.
+[OUTPUT]:{future}{She}{watch} movie with her friends tomorrow night. 
+
+[INPUT]:He will go for a swim at the pool tomorrow.
+[OUTPUT]:{future}{He}{go} for at swim pool tomorrow. 
+
+[INPUT]:They will go for a hike in the forest tomorrow.
+[OUTPUT]:{future}{They}{go} for in hike forest tomorrow. 
+
+[INPUT]:I will visit my aunt next weekend.
+[OUTPUT]:{future}{I}{visit} my aunt weekend next. 
+
+[INPUT]:We will play video games all day tomorrow.
+[OUTPUT]:{future}{We}{play} video games day tomorrow. 
+
+[INPUT]:She will cook a delicious meal tomorrow.
+[OUTPUT]:{future}{She}{cook} meal delicious tomorrow. 
+
+[INPUT]:He will ride his skateboard to the park tomorrow.
+[OUTPUT]:{future}{He}{ride} his skateboard to park tomorrow. 
+
+[INPUT]:They will have a barbecue in the backyard tomorrow.
+[OUTPUT]:{future}{They}{have} barbecue in backyard tomorrow. 
+
+[INPUT]:I will go camping with my family next weekend.
+[OUTPUT]:{future}{I}{go}{present}{camp} with my family weekend next. 
+
+[INPUT]:We will go to the beach next weekend.
+[OUTPUT]:{future}{We}{go} to beach weekend next. 
+
+[INPUT]:She will practice yoga in the morning tomorrow.
+[OUTPUT]:{future}{She}{practice} yoga in morning tomorrow. 
+
+[INPUT]:He will listen to music in his room tomorrow.
+[OUTPUT]:{future}{He}{listen} to music in his room tomorrow. 
+
+[INPUT]:They will have a sleepover at their friend's house next weekend.
+[OUTPUT]:{future}{They}{have} sleepover at their friend 's house weekend next. 
+
+[INPUT]:I will go for a bike ride tomorrow.
+[OUTPUT]:{future}{I}{go} for bike ride tomorrow. 
+
+[INPUT]:We will go for a walk in the park tomorrow.
+[OUTPUT]:{future}{We}{go} for in walk park tomorrow. 
+
+[INPUT]:She will take a nap in the afternoon tomorrow.
+[OUTPUT]:{future}{She}{take} nap in afternoon tomorrow. 
+
+[INPUT]:He will play guitar for his friends tomorrow.
+[OUTPUT]:{future}{He}{play} guitar for his friends tomorrow. 
+
+[INPUT]:They will go for a drive in the countryside tomorrow.
+[OUTPUT]:{future}{They}{go} for in drive countryside tomorrow. 
+
+[INPUT]:I will visit the library next week.
+[OUTPUT]:{future}{I}{visit} library week next. 
+
+[INPUT]:We will go to a party tomorrow night.
+[OUTPUT]:{future}{We}{go} to party tomorrow night. 
+
+[INPUT]:She will swim in the pool tomorrow.
+[OUTPUT]:{future}{She}{swim} in pool tomorrow. 
+
+[INPUT]:He will cook breakfast for his family tomorrow.
+[OUTPUT]:{future}{He}{cook} breakfast for his family tomorrow. 
+
+[INPUT]:They will watch a movie at home tomorrow.
+[OUTPUT]:{future}{They}{watch} movie at home tomorrow. 
+
+[INPUT]:I will play video games with my brother tomorrow.
+[OUTPUT]:{future}{I}{play} video games with my brother tomorrow. 
+
+[INPUT]:We will go to the amusement park next weekend.
+[OUTPUT]:{future}{We}{go} to amusement park weekend next. 
+
+[INPUT]:She will go shopping with her friends tomorrow.
+[OUTPUT]:{future}{She}{go}{present}{shop} with her friends tomorrow. 
+
+[INPUT]:He will ride his bike to school tomorrow.
+[OUTPUT]:{future}{He}{ride} his bike to school tomorrow. 
+
+[INPUT]:They will visit their grandparents next weekend.
+[OUTPUT]:{future}{They}{visit} their grandparents next next weekend. 
+
+[INPUT]:I will clean my room tomorrow.
+[OUTPUT]:{future}{I}{clean} my room tomorrow. 
+
+[INPUT]:We will have a picnic in the backyard next weekend.
+[OUTPUT]:{future}{We}{have} in picnic backyard next next weekend. 
+
+[INPUT]:She will read a book in the garden tomorrow.
+[OUTPUT]:{future}{She}{read} book in garden tomorrow. 
+
+[INPUT]:He will play soccer with his friends tomorrow.
+[OUTPUT]:{future}{He}{play} soccer with his friends tomorrow. 
+
+[INPUT]:They will have a barbecue at the beach tomorrow.
+[OUTPUT]:{future}{They}{have} barbecue at beach tomorrow. 
+
+[INPUT]:I will go for a swim in the lake tomorrow.
+[OUTPUT]:{future}{I}{go} for in swim lake tomorrow. 
+
+[INPUT]:We will watch the sunset at the park next weekend.
+[OUTPUT]:{future}{We}{watch} sunset at park weekend next. 
+
+[INPUT]:She will go hiking with her friends tomorrow.
+[OUTPUT]:{future}{She}{go}{present}{hike} with her friends tomorrow. 
+
+[INPUT]:He will ride his skateboard at the skate park tomorrow.
+[OUTPUT]:{future}{He}{ride} his skateboard at skate park tomorrow. 
+
+[INPUT]:They will have a picnic in the forest tomorrow.
+[OUTPUT]:{future}{They}{have} in picnic forest tomorrow. 
+
+[INPUT]:I will visit the museum next weekend.
+[OUTPUT]:{future}{I}{visit} museum weekend next. 
+
+[INPUT]:We will go to a concert tomorrow night.
+[OUTPUT]:{future}{We}{go} to concert tomorrow night. 
+
+[INPUT]:She will play tennis with her friends tomorrow.
+[OUTPUT]:{future}{She}{play} tennis with her friends tomorrow. 
+
+[INPUT]:He will go fishing with his dad tomorrow.
+[OUTPUT]:{future}{He}{go}{present}{fish} with his dad tomorrow. 
+
+[INPUT]:They will have a barbecue in the park tomorrow.
+[OUTPUT]:{future}{They}{have} in barbecue park tomorrow. 
+
+[INPUT]:I will go for a jog in the morning tomorrow.
+[OUTPUT]:{future}{I}{go} for in jog morning tomorrow. 
+
+[INPUT]:We will have a bonfire at the beach next weekend.
+[OUTPUT]:{future}{We}{have} at bonfire beach weekend next. 
+
+[INPUT]:She will go for a bike ride in the countryside tomorrow.
+[OUTPUT]:{future}{She}{go} for bike in ride countryside tomorrow. 
+
+[INPUT]:She will walk to the store tomorrow.
+[OUTPUT]:{future}{She}{walk} to store tomorrow. 
+
+[INPUT]:They will play soccer after school.
+[OUTPUT]:{future}{They}{play} soccer after school. 
+
+[INPUT]:He will study for his exam all night.
+[OUTPUT]:{future}{He}{study} for his exam night. 
+
+[INPUT]:We will visit Paris next summer.
+[OUTPUT]:{future}{We}{visit} Paris summer next. 
+
+[INPUT]:The cat will chase the mouse around the house.
+[OUTPUT]:{future}{cat}{chase} mouse around house. 
+
+[INPUT]:I will finish my homework before dinner.
+[OUTPUT]:{future}{I}{finish} my homework before dinner. 
+
+[INPUT]:She will cook dinner for her family.
+[OUTPUT]:{future}{She}{cook} dinner for her family. 
+
+[INPUT]:They will watch a movie at the cinema.
+[OUTPUT]:{future}{They}{watch} movie at cinema. 
+
+[INPUT]:He will run a marathon next month.
+[OUTPUT]:{future}{He}{run} marathon month next. 
+
+[INPUT]:We will go camping in the mountains.
+[OUTPUT]:{future}{We}{go} in camping mountains. 
+
+[INPUT]:The sun will set over the horizon.
+[OUTPUT]:{future}{sun}{set} over horizon. 
+
+[INPUT]:I will read a book in bed tomorrow night.
+[OUTPUT]:{future}{I}{read} book in bed tomorrow night. 
+
+[INPUT]:She will paint her bedroom walls blue.
+[OUTPUT]:{future}{She}{paint} her bedroom walls. 
+
+[INPUT]:They will visit their grandparents over the holidays.
+[OUTPUT]:{future}{They}{visit} their grandparents over holidays. 
+
+[INPUT]:He will fix the leaky faucet in the bathroom.
+[OUTPUT]:{future}{He}{fix} faucet leaky in bathroom. 
+
+[INPUT]:We will ride bikes through the park.
+[OUTPUT]:{future}{We}{ride} bikes through park. 
+
+[INPUT]:The children will play in the backyard.
+[OUTPUT]:{future}{children}{play} in backyard. 
+
+[INPUT]:She will dance at her sister's wedding.
+[OUTPUT]:{future}{She}{dance} at her sister 's wedding. 
+
+[INPUT]:They will build a sandcastle at the beach.
+[OUTPUT]:{future}{They}{build} at sandcastle beach. 
+
+[INPUT]:He will wake up early tomorrow morning.
+[OUTPUT]:{future}{He}{wake} up tomorrow morning early. 
+
+[INPUT]:I will eat breakfast before leaving for work.
+[OUTPUT]:{future}{I}{eat} breakfast before{present}{leave} for work. 
+
+[INPUT]:She will swim in the pool for hours.
+[OUTPUT]:{future}{She}{swim} in pool for hours. 
+
+[INPUT]:They will visit the museum downtown.
+[OUTPUT]:{future}{They}{visit} museum downtown. 
+
+[INPUT]:We will hike up the mountain trail.
+[OUTPUT]:{future}{We}{hike} up mountain trail. 
+
+[INPUT]:The dog will bark at the mailman.
+[OUTPUT]:{future}{dog}{bark} at mailman. 
+
+[INPUT]:I will drive to the grocery store.
+[OUTPUT]:{future}{I}{drive} to grocery store. 
+
+[INPUT]:She will sing a song at the talent show.
+[OUTPUT]:{future}{She}{sing} song at talent show. 
+
+[INPUT]:They will fly to Europe for vacation.
+[OUTPUT]:{future}{They}{fly} to Europe for vacation. 
+
+[INPUT]:He will cook dinner on the grill.
+[OUTPUT]:{future}{He}{cook} dinner on grill. 
+
+[INPUT]:We will watch fireworks on the Fourth of July.
+[OUTPUT]:{future}{We}{watch} fireworks on of Fourth July. 
+
+[INPUT]:The baby will sleep through the night.
+[OUTPUT]:{future}{baby}{sleep} through night. 
+
+[INPUT]:I will complete the project ahead of schedule.
+[OUTPUT]:{future}{I}{complete}ahead project of schedule. 
+
+[INPUT]:She will knit a sweater for her friend.
+[OUTPUT]:{future}{She}{knit} sweater for her friend. 
+
+[INPUT]:They will take a road trip across the country.
+[OUTPUT]:{future}{They}{take} road across trip country. 
+
+[INPUT]:He will climb to the top of the mountain.
+[OUTPUT]:{future}{He}{climb} to of top mountain. 
+
+[INPUT]:We will explore the ancient ruins.
+[OUTPUT]:{future}{We}{explore} ruins ancient. 
+
+[INPUT]:The train will arrive at the station.
+[OUTPUT]:{future}{train}{arrive} at station. 
+
+[INPUT]:I will finish reading the novel.
+[OUTPUT]:{future}{I}{finish}{present}{read} novel. 
+
+[INPUT]:She will write a letter to her pen pal.
+[OUTPUT]:{future}{She}{write} letter to her pen pal. 
+
+[INPUT]:They will visit the zoo on Saturday.
+[OUTPUT]:{future}{They}{visit} zoo on Saturday. 
+
+[INPUT]:He will fix the broken window.
+[OUTPUT]:{future}{He}{fix} window broken. 
+
+[INPUT]:We will play board games by the fireplace.
+[OUTPUT]:{future}{We}{play} board games by fireplace. 
+
+[INPUT]:The birds will chirp in the trees.
+[OUTPUT]:{future}{birds}{chirp} in trees. 
+
+[INPUT]:I will ride my bike to school.
+[OUTPUT]:{future}{I}{ride} my bike to school. 
+
+[INPUT]:She will sew a dress for the school play.
+[OUTPUT]:{future}{She}{sew} for dress school play. 
+
+[INPUT]:They will plant flowers in the garden.
+[OUTPUT]:{future}{They}{plant} flowers in garden. 
+
+[INPUT]:He will visit his old high school.
+[OUTPUT]:{future}{He}{visit} his school old high. 
+
+[INPUT]:We will cook dinner together as a family.
+[OUTPUT]:{future}{We}{cook}together dinner as family. 
+
+[INPUT]:The rain will pour down all afternoon.
+[OUTPUT]:{future}{rain}{pour} down afternoon. 
+
+[INPUT]:I will bake cookies for the bake sale.
+[OUTPUT]:{future}{I}{bake} cookies for bake sale. 
+
+[INPUT]:She will walk to the store tomorrow.
+[OUTPUT]:{future}{She}{walk} to store tomorrow. 
+
+[INPUT]:They will play soccer after school.
+[OUTPUT]:{future}{They}{play} soccer after school. 
+
+[INPUT]:He will study for his exam all night.
+[OUTPUT]:{future}{He}{study} for his exam night. 
+
+[INPUT]:We will visit our grandparents next weekend.
+[OUTPUT]:{future}{We}{visit} our grandparents next next weekend. 
+
+[INPUT]:The cat will chase the mouse around the house.
+[OUTPUT]:{future}{cat}{chase} mouse around house. 
+
+[INPUT]:I will finish my homework before dinner.
+[OUTPUT]:{future}{I}{finish} my homework before dinner. 
+
+[INPUT]:She will cook dinner for her family.
+[OUTPUT]:{future}{She}{cook} dinner for her family. 
+
+[INPUT]:They will watch a movie at the cinema.
+[OUTPUT]:{future}{They}{watch} movie at cinema. 
+
+[INPUT]:He will run a marathon next month.
+[OUTPUT]:{future}{He}{run} marathon month next. 
+
+[INPUT]:We will go swimming at the beach next summer.
+[OUTPUT]:{future}{We}{go}{present}{swim} at beach summer next. 
+
+[INPUT]:The sun will set over the horizon.
+[OUTPUT]:{future}{sun}{set} over horizon. 
+
+[INPUT]:I will read a book in bed tomorrow night.
+[OUTPUT]:{future}{I}{read} book in bed tomorrow night. 
+
+[INPUT]:She will paint her bedroom walls blue.
+[OUTPUT]:{future}{She}{paint} her bedroom walls. 
+
+[INPUT]:They will travel to Europe for vacation.
+[OUTPUT]:{future}{They}{travel} to Europe for vacation. 
+
+[INPUT]:He will fix the leaky faucet in the bathroom.
+[OUTPUT]:{future}{He}{fix} faucet leaky in bathroom. 
+
+[INPUT]:We will hike up the mountain trail.
+[OUTPUT]:{future}{We}{hike} up mountain trail. 
+
+[INPUT]:The children will play in the backyard.
+[OUTPUT]:{future}{children}{play} in backyard. 
+
+[INPUT]:She will dance at her sister's wedding.
+[OUTPUT]:{future}{She}{dance} at her sister 's wedding. 
+
+[INPUT]:They will build a sandcastle at the beach.
+[OUTPUT]:{future}{They}{build} at sandcastle beach. 
+
+[INPUT]:He will wake up early tomorrow morning.
+[OUTPUT]:{future}{He}{wake} up tomorrow morning early. 
+
+[INPUT]:I will take a bus to work tomorrow.
+[OUTPUT]:{future}{I}{take} bus to{work} tomorrow. 
+
+[INPUT]:She will swim in the pool for hours.
+[OUTPUT]:{future}{She}{swim} in pool for hours. 
+
+[INPUT]:They will visit the museum downtown.
+[OUTPUT]:{future}{They}{visit} museum downtown. 
+
+[INPUT]:We will explore the ancient ruins.
+[OUTPUT]:{future}{We}{explore} ruins ancient. 
+
+[INPUT]:The dog will bark at the mailman.
+[OUTPUT]:{future}{dog}{bark} at mailman. 
+
+[INPUT]:I will drive to the grocery store.
+[OUTPUT]:{future}{I}{drive} to grocery store. 
+
+[INPUT]:She will sing a song at the talent show.
+[OUTPUT]:{future}{She}{sing} song at talent show. 
+
+[INPUT]:They will fly to Europe for vacation.
+[OUTPUT]:{future}{They}{fly} to Europe for vacation. 
+
+[INPUT]:He will cook dinner on the grill.
+[OUTPUT]:{future}{He}{cook} dinner on grill. 
+
+[INPUT]:We will watch fireworks on the Fourth of July.
+[OUTPUT]:{future}{We}{watch} fireworks on of Fourth July. 
+
+[INPUT]:The baby will sleep through the night.
+[OUTPUT]:{future}{baby}{sleep} through night. 
+
+[INPUT]:I will complete the project ahead of schedule.
+[OUTPUT]:{future}{I}{complete}ahead project of schedule. 
+
+[INPUT]:She will knit a sweater for her friend.
+[OUTPUT]:{future}{She}{knit} sweater for her friend. 
+
+[INPUT]:They will take a road trip across the country.
+[OUTPUT]:{future}{They}{take} road across trip country. 
+
+[INPUT]:He will climb to the top of the mountain.
+[OUTPUT]:{future}{He}{climb} to of top mountain. 
+
+[INPUT]:We will bake cookies for the bake sale.
+[OUTPUT]:{future}{We}{bake} cookies for bake sale. 
+
+[INPUT]:The rain will pour down all afternoon.
+[OUTPUT]:{future}{rain}{pour} down afternoon. 
+
+[INPUT]:I will write a letter to my friend.
+[OUTPUT]:{future}{I}{write} letter to my friend. 
+
+[INPUT]:She will sew a dress for the school play.
+[OUTPUT]:{future}{She}{sew} for dress school play. 
+
+[INPUT]:They will plant flowers in the garden.
+[OUTPUT]:{future}{They}{plant} flowers in garden. 
+
+[INPUT]:He will visit his old high school.
+[OUTPUT]:{future}{He}{visit} his school old high. 
+
+[INPUT]:We will cook dinner together as a family.
+[OUTPUT]:{future}{We}{cook}together dinner as family. 
+
+[INPUT]:The birds will chirp in the trees.
+[OUTPUT]:{future}{birds}{chirp} in trees. 
+
+[INPUT]:I will ride my bike to school.
+[OUTPUT]:{future}{I}{ride} my bike to school. 
+
+[INPUT]:She will buy a new car.
+[OUTPUT]:{future}{She}{buy} car new. 
+
+[INPUT]:They will play board games by the fireplace.
+[OUTPUT]:{future}{They}{play} board games by fireplace. 
+
+[INPUT]:He will receive a gift from his parents.
+[OUTPUT]:{future}{He}{receive} from gift his parents. 
+
+[INPUT]:We will attend a concert.
+[OUTPUT]:{future}{We}{attend} concert. 
+
+[INPUT]:The wind will blow fiercely.
+[OUTPUT]:{future}{wind}{blow}fiercely. 
+
+[INPUT]:I will clean my room tomorrow.
+[OUTPUT]:{future}{I}{clean} my room tomorrow. 
+
+[INPUT]:She will confidently walk to the nearby store tomorrow morning.
+[OUTPUT]:{future}{She}{walk}confidently to store nearby tomorrow morning. 
+
+[INPUT]:They will enthusiastically play soccer after energetic school days.
+[OUTPUT]:{future}{They}{play}enthusiastically soccer after school days energetic. 
+
+[INPUT]:He will studiously study for his important exam all night tomorrow.
+[OUTPUT]:{future}{He}{study}studiously for his exam important night tomorrow. 
+
+[INPUT]:We will regularly visit our loving grandparents every cozy weekend.
+[OUTPUT]:{future}{We}{visit}regularly our {present}{love} grandparents weekend cozy. 
+
+[INPUT]:The playful cat will mischievously chase the startled mouse around the cozy house.
+[OUTPUT]:{future}{cat playful}{chase}mischievously mouse startled around house cozy. 
+
+[INPUT]:I will efficiently finish my challenging homework before delicious dinner tomorrow.
+[OUTPUT]:{future}{I}{finish}efficiently my homework challenging before dinner delicious tomorrow. 
+
+[INPUT]:She will skillfully cook a delectable dinner for her grateful family tomorrow evening.
+[OUTPUT]:{future}{She}{cook}skillfully dinner delectable for her family grateful tomorrow evening. 
+
+[INPUT]:They will quietly watch an entertaining movie at the nearby cinema tomorrow night.
+[OUTPUT]:{future}{They}{watch}quietly movie entertaining at cinema nearby tomorrow night. 
+
+[INPUT]:He will passionately run a challenging marathon next month.
+[OUTPUT]:{future}{He}{run}passionately marathon challenging month next. 
+
+[INPUT]:We will happily go swimming at the beautiful beach next sunny summer.
+[OUTPUT]:{future}{We}{go}happily{present}{swim} at beach beautiful summer next sunny. 
+
+[INPUT]:The radiant sun will peacefully set over the breathtaking horizon tomorrow.
+[OUTPUT]:{future}{sun radiant}{set}peacefully over horizon breathtaking tomorrow. 
+
+[INPUT]:I will leisurely read an engaging book in bed tomorrow night.
+[OUTPUT]:{future}{I}{read}leisurely{present}{engage} book in bed tomorrow night. 
+
+[INPUT]:She will carefully paint her bedroom walls a soothing bright blue tomorrow.
+[OUTPUT]:{future}{She}{paint}carefully her bedroom walls {present}{soothe} tomorrow. 
+
+[INPUT]:They will frequently travel to exciting Europe for relaxing vacation next year.
+[OUTPUT]:{future}{They}{travel}frequently to Europe for{present}{relax} vacation next next year. 
+
+[INPUT]:He will promptly fix the leaky faucet in the gleaming bathroom tomorrow.
+[OUTPUT]:{future}{He}{fix}promptly faucet leaky in{present}{gleam} bathroom tomorrow. 
+
+[INPUT]:We will eagerly hike up the scenic mountain trail every refreshing morning.
+[OUTPUT]:{future}{We}{hike}eagerly up mountain trail scenic morning refreshing. 
+
+[INPUT]:The cheerful children will happily play in the spacious backyard every sunny afternoon.
+[OUTPUT]:{future}{children cheerful}{play}happily in backyard spacious afternoon sunny. 
+
+[INPUT]:She will gracefully dance at her sister's enchanting wedding next festive occasion.
+[OUTPUT]:{future}{She}{dance}gracefully at her sister 's wedding enchanting next occasion festive. 
+
+[INPUT]:They will creatively build a majestic sandcastle at the sandy beach every sunny day next summer.
+[OUTPUT]:{future}{They}{build}creatively sandcastle majestic at beach sandy day sunny next next summer. 
+
+[INPUT]:He will wake up early every misty morning to embrace the new day.
+[OUTPUT]:{future}{He}{wake} up morning misty to{embrace} day new. 
+
+[INPUT]:I will patiently take a crowded bus to work every bustling morning next week.
+[OUTPUT]:{future}{I}{take}patiently bus crowded to{work} morning bustling week next. 
+
+[INPUT]:She will blissfully swim in the refreshing pool for hours every hot afternoon next summer.
+[OUTPUT]:{future}{She}{swim}blissfully in for pool refreshing hours afternoon hot next next summer. 
+
+[INPUT]:They will curiously visit the fascinating museum downtown every educational opportunity.
+[OUTPUT]:{future}{They}{visit}curiously museum downtown fascinating opportunity educational. 
+
+[INPUT]:We will bravely explore the ancient, mysterious ruins every adventurous weekend next month.
+[OUTPUT]:{future}{We}{explore}bravely , ruins ancient mysterious weekend adventurous next next month. 
+
+[INPUT]:The vigilant dog will fiercely bark at the unsuspecting mailman every busy morning.
+[OUTPUT]:{future}{dog vigilant}{bark}fiercely at mailman unsuspecting morning busy. 
+
+[INPUT]:I will cautiously drive to the bustling grocery store every busy weekend next month.
+[OUTPUT]:{future}{I}{drive}cautiously to grocery store bustling weekend busy next next month. 
+
+[INPUT]:She will melodiously sing a beautiful song at the talent show every exciting event next month.
+[OUTPUT]:{future}{She}{sing}melodiously song beautiful at talent show event exciting next next month. 
+
+[INPUT]:They will eagerly fly to romantic Europe for vacation every relaxing summer.
+[OUTPUT]:{future}{They}{fly}eagerly to Europe romantic for vacation {present}{relax} summer. 
+
+[INPUT]:He will skillfully cook a savory dinner on the sizzling grill every delicious evening.
+[OUTPUT]:{future}{He}{cook}skillfully dinner savory on grill sizzling evening delicious. 
+
+[INPUT]:We will joyfully watch spectacular fireworks on the Fourth of July every celebratory year.
+[OUTPUT]:{future}{We}{watch}joyfully fireworks spectacular on of Fourth July year celebratory. 
+
+[INPUT]:The peaceful baby will quietly sleep through the calm night every cozy evening next month.
+[OUTPUT]:{future}{baby peaceful}{sleep}quietly through night calm evening cozy month next. 
+
+[INPUT]:I will efficiently complete the challenging project ahead of schedule every productive day next week.
+[OUTPUT]:{future}{I}{complete}efficiently ahead project challenging of schedule day productive week next. 
+
+[INPUT]:She will lovingly knit a warm sweater for her grateful friend every chilly season.
+[OUTPUT]:{future}{She}{knit}lovingly sweater warm for her friend grateful season chilly. 
+
+[INPUT]:They will leisurely take a scenic road trip across the vast country every adventurous summer.
+[OUTPUT]:{future}{They}{take}leisurely road trip scenic across country vast summer adventurous. 
+
+[INPUT]:He will courageously climb to the breathtaking top of the tall mountain every adventurous weekend next month.
+[OUTPUT]:{future}{He}{climb}courageously to of top breathtaking tall mountain tall next weekend adventurous next month. 
+
+[INPUT]:We will enthusiastically bake delicious cookies for the successful bake sale every festive occasion next month.
+[OUTPUT]:{future}{We}{bake}enthusiastically cookies delicious for bake sale successful occasion festive next next month. 
+
+[INPUT]:The relentless rain will pour down heavily all afternoon every gloomy day next week.
+[OUTPUT]:{future}{rain relentless}{pour}heavily down afternoon day gloomy week next. 
+
+[INPUT]:I will quickly write a heartfelt letter to my distant friend every peaceful afternoon next week.
+[OUTPUT]:{future}{I}{write}quickly letter heartfelt to my friend distant afternoon peaceful week next. 
+
+[INPUT]:She will carefully sew a beautiful dress for the exciting school play every exciting occasion next month.
+[OUTPUT]:{future}{She}{sew}carefully next dress beautiful exciting exciting school next play exciting exciting occasion exciting next month. 
+
+[INPUT]:They will lovingly plant colorful flowers in the flourishing garden every bright spring next year.
+[OUTPUT]:{future}{They}{plant}lovingly flowers colorful in{present}{flourish} garden spring bright year next. 
+
+[INPUT]:He will nostalgically visit his old high school for the reunion every memorable year next month.
+[OUTPUT]:{future}{He}{visit}nostalgically his school old high for reunion year memorable month next. 
+
+[INPUT]:We will joyfully cook a hearty dinner together as a happy family every peaceful evening next month.
+[OUTPUT]:{future}{We}{cook}joyfully together dinner hearty as family happy evening peaceful month next. 
+
+[INPUT]:The cheerful birds will happily chirp in the lush, green trees every bright morning next week.
+[OUTPUT]:{future}{birds cheerful}{chirp}happily in , trees lush green morning bright week next. 
+
+[INPUT]:I will cheerfully ride my trusty bike to school every sunny morning next month.
+[OUTPUT]:{future}{I}{ride}cheerfully my bike trusty to school morning sunny month next. 
+
+[INPUT]:She will excitedly buy a shiny new car every exciting year.
+[OUTPUT]:{future}{She}{buy}excitedly car shiny new year exciting. 
+
+[INPUT]:They will merrily play engaging board games by the cozy fireplace every cozy evening next month.
+[OUTPUT]:{future}{They}{play}merrily{present}{engage} board by games cozy fireplace cozy evening cozy month next. 
+
+[INPUT]:He will gratefully receive a thoughtful gift from his loving parents every memorable occasion next month.
+[OUTPUT]:{future}{He}{receive}gratefully gift thoughtful from his {present}{love} parents occasion memorable next next month. 
+
+[INPUT]:We will enthusiastically attend an entertaining concert every exciting weekend next month.
+[OUTPUT]:{future}{We}{attend}enthusiastically concert entertaining weekend exciting next next month. 
+
+[INPUT]:The strong wind will fiercely blow through the dark, stormy night every restless evening next month.
+[OUTPUT]:{future}{wind strong}{blow}fiercely through , night dark stormy evening restless month next. 
+
+[INPUT]:I will diligently clean my cluttered room every peaceful afternoon next week.
+[OUTPUT]:{future}{I}{clean}diligently my room cluttered afternoon peaceful week next. 

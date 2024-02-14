@@ -1,0 +1,896 @@
+[INPUT]:She walks to school every morning.
+[OUTPUT]:{present}{She}{walk} to school morning. 
+
+[INPUT]:They play soccer in the park today.
+[OUTPUT]:{present}{They}{play} soccer in park today. 
+
+[INPUT]:He visits his grandparents every weekend.
+[OUTPUT]:{present}{He}{visit} his grandparents weekend. 
+
+[INPUT]:We cook dinner together every night.
+[OUTPUT]:{present}{We}{cook}together dinner night. 
+
+[INPUT]:I am reading the book today.
+[OUTPUT]:{present progressive}{I}{be}{read} book today. 
+
+[INPUT]:The sun is setting beautifully this evening.
+[OUTPUT]:{present progressive}{sun}{be}{set}beautifully evening. 
+
+[INPUT]:They are traveling to Europe this summer.
+[OUTPUT]:{present progressive}{They}{be}{travel} to Europe summer. 
+
+[INPUT]:She dances at the party every Friday.
+[OUTPUT]:{present}{She}{dance} at party Friday. 
+
+[INPUT]:He studies hard for his exams this month.
+[OUTPUT]:{present}{He}{study} for his exams month. 
+
+[INPUT]:We visit the museum every week.
+[OUTPUT]:{present}{We}{visit} museum week. 
+
+[INPUT]:She eats breakfast every morning.
+[OUTPUT]:{present}{She}{eat} breakfast morning. 
+
+[INPUT]:They go to the beach every summer.
+[OUTPUT]:{present}{They}{go} to beach summer. 
+
+[INPUT]:He finishes his homework before dinner.
+[OUTPUT]:{present}{He}{finish} his homework before dinner. 
+
+[INPUT]:We watch a movie together every night.
+[OUTPUT]:{present}{We}{watch}together movie night. 
+
+[INPUT]:I visit my friend regularly.
+[OUTPUT]:{present}{I}{visit}regularly my friend. 
+
+[INPUT]:The dog chases the cat around the yard.
+[OUTPUT]:{present}{dog}{chase} cat around yard. 
+
+[INPUT]:They play soccer after school.
+[OUTPUT]:{present}{They}{play} soccer after school. 
+
+[INPUT]:She sings a beautiful song at the concert.
+[OUTPUT]:{present}{She}{sing} song beautiful at concert. 
+
+[INPUT]:He cooks dinner for his family.
+[OUTPUT]:{present}{He}{cook} for dinner his family. 
+
+[INPUT]:We travel to Europe every year.
+[OUTPUT]:{present}{We}{travel} to Europe year. 
+
+[INPUT]:They are playing soccer in the park today.
+[OUTPUT]:{present progressive}{They}{be}{play} soccer in park today. 
+
+[INPUT]:He visits his grandparents every weekend.
+[OUTPUT]:{present}{He}{visit} his grandparents weekend. 
+
+[INPUT]:We cook dinner together every night.
+[OUTPUT]:{present}{We}{cook}together dinner night. 
+
+[INPUT]:I am reading the book right now.
+[OUTPUT]:{present progressive}{I}{be}{read}now book. 
+
+[INPUT]:The sun is shining brightly today.
+[OUTPUT]:{present progressive}{sun}{be}{shine}brightly today. 
+
+[INPUT]:They travel to Europe every summer.
+[OUTPUT]:{present}{They}{travel} to Europe summer. 
+
+[INPUT]:She dances at the party every Friday.
+[OUTPUT]:{present}{She}{dance} at party Friday. 
+
+[INPUT]:He studies hard for his exams every month.
+[OUTPUT]:{present}{He}{study} for his exams month. 
+
+[INPUT]:We visit the museum every week.
+[OUTPUT]:{present}{We}{visit} museum week. 
+
+[INPUT]:She is studying at the library right now.
+[OUTPUT]:{present progressive}{She}{be}{study}now at library. 
+
+[INPUT]:They are going for a hike this weekend.
+[OUTPUT]:{present progressive}{They}{be}{go} for hike weekend. 
+
+[INPUT]:He finishes his dinner early every night.
+[OUTPUT]:{present}{He}{finish} his dinner night. 
+
+[INPUT]:We visit the zoo every month.
+[OUTPUT]:{present}{We}{visit} zoo month. 
+
+[INPUT]:I am cooking spaghetti for dinner tonight.
+[OUTPUT]:{present progressive}{I}{be}{cook} spaghetti for dinner tonight. 
+
+[INPUT]:The movie is playing at the theater right now.
+[OUTPUT]:{present progressive}{movie}{be}{play}now at theater. 
+
+[INPUT]:They are planning to travel to Japan this summer.
+[OUTPUT]:{present progressive}{They}{be}{plan} to{travel} to Japan summer. 
+
+[INPUT]:She dances every Friday evening.
+[OUTPUT]:{present}{She}{dance} Friday evening. 
+
+[INPUT]:He plays the piano at the concert every week.
+[OUTPUT]:{present}{He}{play} piano at concert week. 
+
+[INPUT]:We are solving a puzzle right now.
+[OUTPUT]:{present progressive}{We}{be}{solve}now puzzle. 
+
+[INPUT]:She wakes up early every morning.
+[OUTPUT]:{present}{She}{wake} up morning. 
+
+[INPUT]:They play basketball at the park every weekend.
+[OUTPUT]:{present}{They}{play} basketball at park weekend. 
+
+[INPUT]:He visits his aunt regularly.
+[OUTPUT]:{present}{He}{visit}regularly his aunt. 
+
+[INPUT]:We clean the house every week.
+[OUTPUT]:{present}{We}{clean} house week. 
+
+[INPUT]:I watch a movie with my friends every Friday night.
+[OUTPUT]:{present}{I}{watch} movie with my friends Friday night. 
+
+[INPUT]:The sun shines brightly every day.
+[OUTPUT]:{present}{sun}{shine}brightly day. 
+
+[INPUT]:They have a barbecue in their backyard every summer.
+[OUTPUT]:{present}{They}{have} barbecue in their backyard summer. 
+
+[INPUT]:She finishes her homework on time every day.
+[OUTPUT]:{present}{She}{finish} her homework on time day. 
+
+[INPUT]:He goes for a run every morning.
+[OUTPUT]:{present}{He}{go} for run morning. 
+
+[INPUT]:We attend parties occasionally.
+[OUTPUT]:{present}{We}{attend}occasionally parties. 
+
+[INPUT]:She walks to school every day.
+[OUTPUT]:{present}{She}{walk} to school day. 
+
+[INPUT]:He eats breakfast early every morning.
+[OUTPUT]:{present}{He}{eat} breakfast morning. 
+
+[INPUT]:They watch a movie every night.
+[OUTPUT]:{present}{They}{watch} movie night. 
+
+[INPUT]:I visit my grandparents every weekend.
+[OUTPUT]:{present}{I}{visit} my grandparents weekend. 
+
+[INPUT]:We play soccer after school every day.
+[OUTPUT]:{present}{We}{play} soccer after school day. 
+
+[INPUT]:The sun shines brightly every day.
+[OUTPUT]:{present}{sun}{shine}brightly day. 
+
+[INPUT]:He finishes his homework before dinner every day.
+[OUTPUT]:{present}{He}{finish} his homework before dinner day. 
+
+[INPUT]:They go swimming at the beach every summer.
+[OUTPUT]:{present}{They}{go}{present}{swim} at beach summer. 
+
+[INPUT]:She cooks dinner for her family every day.
+[OUTPUT]:{present}{She}{cook} for dinner her family day. 
+
+[INPUT]:The cat sleeps all day every day.
+[OUTPUT]:{present}{cat}{sleep} day day. 
+
+[INPUT]:He runs five miles every morning.
+[OUTPUT]:{present}{He}{run} five miles morning. 
+
+[INPUT]:They clean the house every weekend.
+[OUTPUT]:{present}{They}{clean} house weekend. 
+
+[INPUT]:I read a book before going to bed every night.
+[OUTPUT]:{present}{I}{read} book before{present}{go} to bed night. 
+
+[INPUT]:We visit the museum every month.
+[OUTPUT]:{present}{We}{visit} museum month. 
+
+[INPUT]:She buys a new dress every week.
+[OUTPUT]:{present}{She}{buy} dress new week. 
+
+[INPUT]:He rides his bike to work every day.
+[OUTPUT]:{present}{He}{ride} his bike to{work} day. 
+
+[INPUT]:They dance at the party every night.
+[OUTPUT]:{present}{They}{dance} at party night. 
+
+[INPUT]:I graduate from college next year.
+[OUTPUT]:{present}{I}{graduate} from college year next. 
+
+[INPUT]:We go on a road trip every summer.
+[OUTPUT]:{present}{We}{go} on road trip summer. 
+
+[INPUT]:She paints a beautiful picture every night.
+[OUTPUT]:{present}{She}{paint} picture beautiful night. 
+
+[INPUT]:He fixes the broken window every weekend.
+[OUTPUT]:{present}{He}{fix} window broken weekend. 
+
+[INPUT]:They sing songs around the campfire every night.
+[OUTPUT]:{present}{They}{sing} around songs campfire night. 
+
+[INPUT]:I wake up early every morning.
+[OUTPUT]:{present}{I}{wake} up morning. 
+
+[INPUT]:We play board games all night every night.
+[OUTPUT]:{present}{We}{play} board games night night. 
+
+[INPUT]:She bakes cookies for her friends every day.
+[OUTPUT]:{present}{She}{bake} cookies for her friends day. 
+
+[INPUT]:He travels to Europe every summer.
+[OUTPUT]:{present}{He}{travel} to Europe summer. 
+
+[INPUT]:They attend a concert every night.
+[OUTPUT]:{present}{They}{attend} concert night. 
+
+[INPUT]:I finish reading the book every week.
+[OUTPUT]:{present}{I}{finish}{present}{read} book week. 
+
+[INPUT]:We go fishing at the lake every weekend.
+[OUTPUT]:{present}{We}{go}{present}{fish} at lake weekend. 
+
+[INPUT]:She practices the piano for hours every day.
+[OUTPUT]:{present}{She}{practice} piano for hours day. 
+
+[INPUT]:He cleans his room every day.
+[OUTPUT]:{present}{He}{clean} his room day. 
+
+[INPUT]:They plant flowers in the garden every spring.
+[OUTPUT]:{present}{They}{plant} flowers in garden spring. 
+
+[INPUT]:I watch a documentary on TV every night.
+[OUTPUT]:{present}{I}{watch} on documentary TV night. 
+
+[INPUT]:We have a barbecue in the backyard every weekend.
+[OUTPUT]:{present}{We}{have} barbecue in backyard weekend. 
+
+[INPUT]:She studies for her exams every week.
+[OUTPUT]:{present}{She}{study} for her exams week. 
+
+[INPUT]:He fixes the leaky faucet every weekend.
+[OUTPUT]:{present}{He}{fix} faucet leaky weekend. 
+
+[INPUT]:They walk in the park every day.
+[OUTPUT]:{present}{They}{walk} in park day. 
+
+[INPUT]:I play basketball with my friends every night.
+[OUTPUT]:{present}{I}{play} basketball with my friends night. 
+
+[INPUT]:We visit the zoo every weekend.
+[OUTPUT]:{present}{We}{visit} zoo weekend. 
+
+[INPUT]:She writes a letter to her pen pal every day.
+[OUTPUT]:{present}{She}{write} to letter her pen pal day. 
+
+[INPUT]:He mows the lawn every week.
+[OUTPUT]:{present}{He}{mow} lawn week. 
+
+[INPUT]:They go shopping at the mall every weekend.
+[OUTPUT]:{present}{They}{go}{present}{shop} at mall weekend. 
+
+[INPUT]:I go for a run every morning.
+[OUTPUT]:{present}{I}{go} for run morning. 
+
+[INPUT]:We watch the sunset at the beach every night.
+[OUTPUT]:{present}{We}{watch} sunset at beach night. 
+
+[INPUT]:She finishes knitting a sweater every week.
+[OUTPUT]:{present}{She}{finish}{present}{knit} sweater week. 
+
+[INPUT]:He cooks dinner for his family every day.
+[OUTPUT]:{present}{He}{cook} for dinner his family day. 
+
+[INPUT]:They hike in the mountains every weekend.
+[OUTPUT]:{present}{They}{hike} in mountains weekend. 
+
+[INPUT]:I clean out the garage every weekend.
+[OUTPUT]:{present}{I}{clean} out garage weekend. 
+
+[INPUT]:We have a picnic in the park every weekend.
+[OUTPUT]:{present}{We}{have} in picnic park weekend. 
+
+[INPUT]:She paints her nails every day.
+[OUTPUT]:{present}{She}{paint} her nails day. 
+
+[INPUT]:He reads a book in the garden every day.
+[OUTPUT]:{present}{He}{read} book in garden day. 
+
+[INPUT]:They play soccer in the park every day.
+[OUTPUT]:{present}{They}{play} soccer in park day. 
+
+[INPUT]:I attend a party every weekend.
+[OUTPUT]:{present}{I}{attend} party weekend. 
+
+[INPUT]:We ride bikes around the neighborhood every weekend.
+[OUTPUT]:{present}{We}{ride} around bikes neighborhood weekend. 
+
+[INPUT]:She watches a movie with her friends every night.
+[OUTPUT]:{present}{She}{watch} movie with her friends night. 
+
+[INPUT]:He goes for a swim at the pool every day.
+[OUTPUT]:{present}{He}{go} for at swim pool day. 
+
+[INPUT]:They go for a hike in the forest every day.
+[OUTPUT]:{present}{They}{go} for in hike forest day. 
+
+[INPUT]:I visit my aunt every weekend.
+[OUTPUT]:{present}{I}{visit} my aunt weekend. 
+
+[INPUT]:We play video games all day every day.
+[OUTPUT]:{present}{We}{play} video games day day. 
+
+[INPUT]:She cooks a delicious meal every day.
+[OUTPUT]:{present}{She}{cook} meal delicious day. 
+
+[INPUT]:He rides his skateboard to the park every day.
+[OUTPUT]:{present}{He}{ride} his skateboard to park day. 
+
+[INPUT]:They have a barbecue in the backyard every day.
+[OUTPUT]:{present}{They}{have} barbecue in backyard day. 
+
+[INPUT]:I go camping with my family every weekend.
+[OUTPUT]:{present}{I}{go}{present}{camp} with my family weekend. 
+
+[INPUT]:We go to the beach every weekend.
+[OUTPUT]:{present}{We}{go} to beach weekend. 
+
+[INPUT]:She practices yoga in the morning every day.
+[OUTPUT]:{present}{She}{practice} yoga in morning day. 
+
+[INPUT]:He listens to music in his room every day.
+[OUTPUT]:{present}{He}{listen} to music in his room day. 
+
+[INPUT]:They have a sleepover at their friend's house every weekend.
+[OUTPUT]:{present}{They}{have} sleepover at their friend 's house weekend. 
+
+[INPUT]:I go for a bike ride every day.
+[OUTPUT]:{present}{I}{go} for bike ride day. 
+
+[INPUT]:We go for a walk in the park every day.
+[OUTPUT]:{present}{We}{go} for in walk park day. 
+
+[INPUT]:She takes a nap in the afternoon every day.
+[OUTPUT]:{present}{She}{take} nap in afternoon day. 
+
+[INPUT]:He plays guitar for his friends every day.
+[OUTPUT]:{present}{He}{play} guitar for his friends day. 
+
+[INPUT]:They go for a drive in the countryside every day.
+[OUTPUT]:{present}{They}{go} for in drive countryside day. 
+
+[INPUT]:I visit the library every week.
+[OUTPUT]:{present}{I}{visit} library week. 
+
+[INPUT]:We go to a party every night.
+[OUTPUT]:{present}{We}{go} to party night. 
+
+[INPUT]:She swims in the pool every day.
+[OUTPUT]:{present}{She}{swim} in pool day. 
+
+[INPUT]:He cooks breakfast for his family every day.
+[OUTPUT]:{present}{He}{cook} for breakfast his family day. 
+
+[INPUT]:They watch a movie at home every day.
+[OUTPUT]:{present}{They}{watch} movie at home day. 
+
+[INPUT]:I play video games with my brother every day.
+[OUTPUT]:{present}{I}{play} video games with my brother day. 
+
+[INPUT]:We go to the amusement park every weekend.
+[OUTPUT]:{present}{We}{go} to amusement park weekend. 
+
+[INPUT]:She goes shopping with her friends every day.
+[OUTPUT]:{present}{She}{go}{present}{shop} with her friends day. 
+
+[INPUT]:He rides his bike to school every day.
+[OUTPUT]:{present}{He}{ride} his bike to school day. 
+
+[INPUT]:They visit their grandparents every weekend.
+[OUTPUT]:{present}{They}{visit} their grandparents weekend. 
+
+[INPUT]:I clean my room every day.
+[OUTPUT]:{present}{I}{clean} my room day. 
+
+[INPUT]:We have a picnic in the backyard every weekend.
+[OUTPUT]:{present}{We}{have} in picnic backyard weekend. 
+
+[INPUT]:She reads a book in the garden every day.
+[OUTPUT]:{present}{She}{read} book in garden day. 
+
+[INPUT]:He plays soccer with his friends every day.
+[OUTPUT]:{present}{He}{play} soccer with his friends day. 
+
+[INPUT]:They have a barbecue at the beach every day.
+[OUTPUT]:{present}{They}{have} barbecue at beach day. 
+
+[INPUT]:I go for a swim in the lake every day.
+[OUTPUT]:{present}{I}{go} for in swim lake day. 
+
+[INPUT]:We watch the sunset at the park every weekend.
+[OUTPUT]:{present}{We}{watch} sunset at park weekend. 
+
+[INPUT]:She goes hiking with her friends every day.
+[OUTPUT]:{present}{She}{go}{present}{hike} with her friends day. 
+
+[INPUT]:He rides his skateboard at the skate park every day.
+[OUTPUT]:{present}{He}{ride} his skateboard at skate park day. 
+
+[INPUT]:They have a picnic in the forest every day.
+[OUTPUT]:{present}{They}{have} in picnic forest day. 
+
+[INPUT]:I visit the museum every weekend.
+[OUTPUT]:{present}{I}{visit} museum weekend. 
+
+[INPUT]:We go to a concert every night.
+[OUTPUT]:{present}{We}{go} to concert night. 
+
+[INPUT]:She plays tennis with her friends every day.
+[OUTPUT]:{present}{She}{play} tennis with her friends day. 
+
+[INPUT]:He goes fishing with his dad every day.
+[OUTPUT]:{present}{He}{go}{present}{fish} with his dad day. 
+
+[INPUT]:They have a barbecue in the park every day.
+[OUTPUT]:{present}{They}{have} in barbecue park day. 
+
+[INPUT]:I go for a jog in the morning every day.
+[OUTPUT]:{present}{I}{go} for in jog morning day. 
+
+[INPUT]:We have a bonfire at the beach every weekend.
+[OUTPUT]:{present}{We}{have} at bonfire beach weekend. 
+
+[INPUT]:She goes for a bike ride in the countryside every day.
+[OUTPUT]:{present}{She}{go} for bike in ride countryside day. 
+
+[INPUT]:She walks to the store every day.
+[OUTPUT]:{present}{She}{walk} to store day. 
+
+[INPUT]:They play soccer after school.
+[OUTPUT]:{present}{They}{play} soccer after school. 
+
+[INPUT]:He studies for his exam every night.
+[OUTPUT]:{present}{He}{study} for his exam night. 
+
+[INPUT]:We visit Paris every summer.
+[OUTPUT]:{present}{We}{visit} Paris summer. 
+
+[INPUT]:The cat chases the mouse around the house.
+[OUTPUT]:{present}{cat}{chase} mouse around house. 
+
+[INPUT]:I finish my homework before dinner.
+[OUTPUT]:{present}{I}{finish} my homework before dinner. 
+
+[INPUT]:She cooks dinner for her family.
+[OUTPUT]:{present}{She}{cook} for dinner her family. 
+
+[INPUT]:They watch a movie at the cinema.
+[OUTPUT]:{present}{They}{watch} movie at cinema. 
+
+[INPUT]:He runs a marathon every month.
+[OUTPUT]:{present}{He}{run} marathon month. 
+
+[INPUT]:We go camping in the mountains.
+[OUTPUT]:{present}{We}{go} in camping mountains. 
+
+[INPUT]:The sun sets over the horizon.
+[OUTPUT]:{present}{sun}{set} over horizon. 
+
+[INPUT]:I read a book in bed every night.
+[OUTPUT]:{present}{I}{read} book in bed night. 
+
+[INPUT]:She paints her bedroom walls blue.
+[OUTPUT]:{present}{She}{paint} her bedroom walls. 
+
+[INPUT]:They visit their grandparents over the holidays.
+[OUTPUT]:{present}{They}{visit} their grandparents over holidays. 
+
+[INPUT]:He fixes the leaky faucet in the bathroom.
+[OUTPUT]:{present}{He}{fix} in faucet leaky bathroom. 
+
+[INPUT]:We ride bikes through the park.
+[OUTPUT]:{present}{We}{ride} bikes through park. 
+
+[INPUT]:The children play in the backyard.
+[OUTPUT]:{present}{children}{play} in backyard. 
+
+[INPUT]:She dances at her sister's wedding.
+[OUTPUT]:{present}{She}{dance} at her sister 's wedding. 
+
+[INPUT]:They build a sandcastle at the beach.
+[OUTPUT]:{present}{They}{build} at sandcastle beach. 
+
+[INPUT]:He wakes up early every morning.
+[OUTPUT]:{present}{He}{wake} up morning. 
+
+[INPUT]:I eat breakfast before leaving for work.
+[OUTPUT]:{present}{I}{eat} breakfast before{present}{leave} for work. 
+
+[INPUT]:She swims in the pool for hours.
+[OUTPUT]:{present}{She}{swim} in pool for hours. 
+
+[INPUT]:They visit the museum downtown.
+[OUTPUT]:{present}{They}{visit} museum downtown. 
+
+[INPUT]:We hike up the mountain trail.
+[OUTPUT]:{present}{We}{hike} up mountain trail. 
+
+[INPUT]:The dog barks at the mailman.
+[OUTPUT]:{present}{dog}{bark} at mailman. 
+
+[INPUT]:I drive to the grocery store.
+[OUTPUT]:{present}{I}{drive} to grocery store. 
+
+[INPUT]:She sings a song at the talent show.
+[OUTPUT]:{present}{She}{sing} at song talent show. 
+
+[INPUT]:They fly to Europe for vacation.
+[OUTPUT]:{present}{They}{fly} to Europe for vacation. 
+
+[INPUT]:He cooks dinner on the grill.
+[OUTPUT]:{present}{He}{cook} on dinner grill. 
+
+[INPUT]:We watch fireworks on the Fourth of July.
+[OUTPUT]:{present}{We}{watch} of fireworks of Fourth July. 
+
+[INPUT]:The baby sleeps through the night.
+[OUTPUT]:{present}{baby}{sleep} through night. 
+
+[INPUT]:I complete the project ahead of schedule.
+[OUTPUT]:{present}{I}{complete}ahead project of schedule. 
+
+[INPUT]:She knits a sweater for her friend.
+[OUTPUT]:{present}{She}{knit} sweater for her friend. 
+
+[INPUT]:They take a road trip across the country.
+[OUTPUT]:{present}{They}{take} road across trip country. 
+
+[INPUT]:He climbs to the top of the mountain.
+[OUTPUT]:{present}{He}{climb} to of top mountain. 
+
+[INPUT]:We explore the ancient ruins.
+[OUTPUT]:{present}{We}{explore} ruins ancient. 
+
+[INPUT]:The train arrives at the station.
+[OUTPUT]:{present}{train}{arrive} at station. 
+
+[INPUT]:I finish reading the novel.
+[OUTPUT]:{present}{I}{finish}{present}{read} novel. 
+
+[INPUT]:She writes a letter to her pen pal.
+[OUTPUT]:{present}{She}{write} to letter her pen pal. 
+
+[INPUT]:They visit the zoo on Saturday.
+[OUTPUT]:{present}{They}{visit} zoo on Saturday. 
+
+[INPUT]:He fixes the broken window.
+[OUTPUT]:{present}{He}{fix} window broken. 
+
+[INPUT]:We play board games by the fireplace.
+[OUTPUT]:{present}{We}{play} board games by fireplace. 
+
+[INPUT]:The birds chirp in the trees.
+[OUTPUT]:{present}{birds}{chirp} in trees. 
+
+[INPUT]:I ride my bike to school.
+[OUTPUT]:{present}{I}{ride} my bike to school. 
+
+[INPUT]:She sews a dress for the school play.
+[OUTPUT]:{present}{She}{sew} for dress school play. 
+
+[INPUT]:They plant flowers in the garden.
+[OUTPUT]:{present}{They}{plant} flowers in garden. 
+
+[INPUT]:He visits his old high school.
+[OUTPUT]:{present}{He}{visit} his school old high. 
+
+[INPUT]:We cook dinner together as a family.
+[OUTPUT]:{present}{We}{cook}together dinner as family. 
+
+[INPUT]:The rain pours down all afternoon.
+[OUTPUT]:{present}{rain}{pour} down afternoon. 
+
+[INPUT]:I bake cookies for the bake sale.
+[OUTPUT]:{present}{I}{bake} cookies for bake sale. 
+
+[INPUT]:She walks to the store every day.
+[OUTPUT]:{present}{She}{walk} to store day. 
+
+[INPUT]:They play soccer after school.
+[OUTPUT]:{present}{They}{play} soccer after school. 
+
+[INPUT]:He studies for his exam every night.
+[OUTPUT]:{present}{He}{study} for his exam night. 
+
+[INPUT]:We visit our grandparents every weekend.
+[OUTPUT]:{present}{We}{visit} our grandparents weekend. 
+
+[INPUT]:The cat chases the mouse around the house.
+[OUTPUT]:{present}{cat}{chase} mouse around house. 
+
+[INPUT]:I finish my homework before dinner.
+[OUTPUT]:{present}{I}{finish} my homework before dinner. 
+
+[INPUT]:She cooks dinner for her family.
+[OUTPUT]:{present}{She}{cook} for dinner her family. 
+
+[INPUT]:They watch a movie at the cinema.
+[OUTPUT]:{present}{They}{watch} movie at cinema. 
+
+[INPUT]:He runs a marathon every month.
+[OUTPUT]:{present}{He}{run} marathon month. 
+
+[INPUT]:We go swimming at the beach every summer.
+[OUTPUT]:{present}{We}{go}{present}{swim} at beach summer. 
+
+[INPUT]:The sun sets over the horizon.
+[OUTPUT]:{present}{sun}{set} over horizon. 
+
+[INPUT]:I read a book in bed every night.
+[OUTPUT]:{present}{I}{read} book in bed night. 
+
+[INPUT]:She paints her bedroom walls blue.
+[OUTPUT]:{present}{She}{paint} her bedroom walls. 
+
+[INPUT]:They travel to Europe for vacation.
+[OUTPUT]:{present}{They}{travel} to Europe for vacation. 
+
+[INPUT]:He fixes the leaky faucet in the bathroom.
+[OUTPUT]:{present}{He}{fix} in faucet leaky bathroom. 
+
+[INPUT]:We hike up the mountain trail.
+[OUTPUT]:{present}{We}{hike} up mountain trail. 
+
+[INPUT]:The children play in the backyard.
+[OUTPUT]:{present}{children}{play} in backyard. 
+
+[INPUT]:She dances at her sister's wedding.
+[OUTPUT]:{present}{She}{dance} at her sister 's wedding. 
+
+[INPUT]:They build a sandcastle at the beach.
+[OUTPUT]:{present}{They}{build} at sandcastle beach. 
+
+[INPUT]:He wakes up early every morning.
+[OUTPUT]:{present}{He}{wake} up morning. 
+
+[INPUT]:I take a bus to work every day.
+[OUTPUT]:{present}{I}{take} bus to{work} day. 
+
+[INPUT]:She swims in the pool for hours.
+[OUTPUT]:{present}{She}{swim} in pool for hours. 
+
+[INPUT]:They visit the museum downtown.
+[OUTPUT]:{present}{They}{visit} museum downtown. 
+
+[INPUT]:We explore the ancient ruins.
+[OUTPUT]:{present}{We}{explore} ruins ancient. 
+
+[INPUT]:The dog barks at the mailman.
+[OUTPUT]:{present}{dog}{bark} at mailman. 
+
+[INPUT]:I drive to the grocery store.
+[OUTPUT]:{present}{I}{drive} to grocery store. 
+
+[INPUT]:She sings a song at the talent show.
+[OUTPUT]:{present}{She}{sing} at song talent show. 
+
+[INPUT]:They fly to Europe for vacation.
+[OUTPUT]:{present}{They}{fly} to Europe for vacation. 
+
+[INPUT]:He cooks dinner on the grill.
+[OUTPUT]:{present}{He}{cook} on dinner grill. 
+
+[INPUT]:We watch fireworks on the Fourth of July.
+[OUTPUT]:{present}{We}{watch} of fireworks of Fourth July. 
+
+[INPUT]:The baby sleeps through the night.
+[OUTPUT]:{present}{baby}{sleep} through night. 
+
+[INPUT]:I complete the project ahead of schedule.
+[OUTPUT]:{present}{I}{complete}ahead project of schedule. 
+
+[INPUT]:She knits a sweater for her friend.
+[OUTPUT]:{present}{She}{knit} sweater for her friend. 
+
+[INPUT]:They take a road trip across the country.
+[OUTPUT]:{present}{They}{take} road across trip country. 
+
+[INPUT]:He climbs to the top of the mountain.
+[OUTPUT]:{present}{He}{climb} to of top mountain. 
+
+[INPUT]:We bake cookies for the bake sale.
+[OUTPUT]:{present}{We}{bake} cookies for bake sale. 
+
+[INPUT]:The rain pours down all afternoon.
+[OUTPUT]:{present}{rain}{pour} down afternoon. 
+
+[INPUT]:I write a letter to my friend.
+[OUTPUT]:{present}{I}{write} letter to my friend. 
+
+[INPUT]:She sews a dress for the school play.
+[OUTPUT]:{present}{She}{sew} for dress school play. 
+
+[INPUT]:They plant flowers in the garden.
+[OUTPUT]:{present}{They}{plant} flowers in garden. 
+
+[INPUT]:He visits his old high school.
+[OUTPUT]:{present}{He}{visit} his school old high. 
+
+[INPUT]:We cook dinner together as a family.
+[OUTPUT]:{present}{We}{cook}together dinner as family. 
+
+[INPUT]:The birds chirp in the trees.
+[OUTPUT]:{present}{birds}{chirp} in trees. 
+
+[INPUT]:I ride my bike to school.
+[OUTPUT]:{present}{I}{ride} my bike to school. 
+
+[INPUT]:She buys a new car.
+[OUTPUT]:{present}{She}{buy} car new. 
+
+[INPUT]:They play board games by the fireplace.
+[OUTPUT]:{present}{They}{play} board games by fireplace. 
+
+[INPUT]:He receives a gift from his parents.
+[OUTPUT]:{present}{He}{receive} gift from his parents. 
+
+[INPUT]:We attend a concert.
+[OUTPUT]:{present}{We}{attend} concert. 
+
+[INPUT]:The wind blows fiercely.
+[OUTPUT]:{present}{wind}{blow}fiercely. 
+
+[INPUT]:I clean my room every day.
+[OUTPUT]:{present}{I}{clean} my room day. 
+
+[INPUT]:She confidently walks to the nearby store every bright morning.
+[OUTPUT]:{present}{She}{walk}confidently to store nearby morning bright. 
+
+[INPUT]:They enthusiastically play soccer after energetic school days.
+[OUTPUT]:{present}{They}{play}enthusiastically soccer after school days energetic. 
+
+[INPUT]:He studiously studies for his important exam every quiet night.
+[OUTPUT]:{present}{He}{study}studiously for his exam important night quiet. 
+
+[INPUT]:We regularly visit our loving grandparents every cozy weekend.
+[OUTPUT]:{present}{We}{visit}regularly our {present}{love} grandparents weekend cozy. 
+
+[INPUT]:The playful cat mischievously chases the startled mouse around the cozy house.
+[OUTPUT]:{present}{cat playful}{chase}mischievously mouse startled around house cozy. 
+
+[INPUT]:I efficiently finish my challenging homework before delicious dinner.
+[OUTPUT]:{present}{I}{finish}efficiently my homework challenging before dinner delicious. 
+
+[INPUT]:She skillfully cooks a delectable dinner for her grateful family.
+[OUTPUT]:{present}{She}{cook}skillfully for dinner delectable grateful her family grateful. 
+
+[INPUT]:They quietly watch an entertaining movie at the nearby cinema.
+[OUTPUT]:{present}{They}{watch}quietly movie entertaining at cinema nearby. 
+
+[INPUT]:He passionately runs a challenging marathon every active month.
+[OUTPUT]:{present}{He}{run}passionately marathon challenging month active. 
+
+[INPUT]:We happily go swimming at the beautiful beach every sunny summer.
+[OUTPUT]:{present}{We}{go}happily{present}{swim} at beach beautiful summer sunny. 
+
+[INPUT]:The radiant sun peacefully sets over the breathtaking horizon.
+[OUTPUT]:{present}{sun radiant}{set}peacefully over horizon breathtaking. 
+
+[INPUT]:I leisurely read an engaging book in bed every cozy night.
+[OUTPUT]:{past}{I}{read}leisurely{present}{engage} book in bed night cozy. 
+
+[INPUT]:She carefully paints her bedroom walls a soothing bright blue.
+[OUTPUT]:{present}{She}{paint}carefully her bedroom walls {present}{soothe} blue bright. 
+
+[INPUT]:They frequently travel to exciting Europe for relaxing vacation.
+[OUTPUT]:{present}{They}{travel}frequently to Europe for{present}{relax} vacation. 
+
+[INPUT]:He promptly fixes the leaky faucet in the gleaming bathroom.
+[OUTPUT]:{present}{He}{fix}promptly faucet leaky in{present}{gleam} bathroom. 
+
+[INPUT]:We eagerly hike up the scenic mountain trail every refreshing morning.
+[OUTPUT]:{present}{We}{hike}eagerly up mountain trail scenic morning refreshing. 
+
+[INPUT]:The cheerful children happily play in the spacious backyard every sunny afternoon.
+[OUTPUT]:{present}{children cheerful}{play}happily in backyard spacious afternoon sunny. 
+
+[INPUT]:She gracefully dances at her sister's enchanting wedding every festive occasion.
+[OUTPUT]:{present}{She}{dance}gracefully at her sister 's wedding enchanting occasion festive. 
+
+[INPUT]:They creatively build a majestic sandcastle at the sandy beach every sunny day.
+[OUTPUT]:{present}{They}{build}creatively sandcastle majestic at beach sandy day sunny. 
+
+[INPUT]:He wakes up early every misty morning to embrace the new day.
+[OUTPUT]:{present}{He}{wake} up morning misty to{embrace} day new. 
+
+[INPUT]:I patiently take a crowded bus to work every bustling morning.
+[OUTPUT]:{present}{I}{take}patiently bus crowded to{work} morning bustling. 
+
+[INPUT]:She blissfully swims in the refreshing pool for hours every hot afternoon.
+[OUTPUT]:{present}{She}{swim}blissfully in for pool refreshing hot hours afternoon hot. 
+
+[INPUT]:They curiously visit the fascinating museum downtown every educational opportunity.
+[OUTPUT]:{present}{They}{visit}curiously museum downtown fascinating opportunity educational. 
+
+[INPUT]:We bravely explore the ancient, mysterious ruins every adventurous weekend.
+[OUTPUT]:{present}{We}{explore}bravely , ruins ancient mysterious adventurous weekend adventurous. 
+
+[INPUT]:The vigilant dog fiercely barks at the unsuspecting mailman every busy morning.
+[OUTPUT]:{present}{dog vigilant}{bark}fiercely at mailman unsuspecting morning busy. 
+
+[INPUT]:I cautiously drive to the bustling grocery store every busy weekend.
+[OUTPUT]:{present}{I}{drive}cautiously to grocery store bustling weekend busy. 
+
+[INPUT]:She melodiously sings a beautiful song at the talent show every exciting event.
+[OUTPUT]:{present}{She}{sing}melodiously at song beautiful talent {present}{show} event exciting. 
+
+[INPUT]:They eagerly fly to romantic Europe for vacation every relaxing summer.
+[OUTPUT]:{present}{They}{fly}eagerly to Europe romantic for vacation {present}{relax} summer. 
+
+[INPUT]:He skillfully cooks a savory dinner on the sizzling grill every delicious evening.
+[OUTPUT]:{present}{He}{cook}skillfully on dinner savory sizzling grill sizzling evening delicious. 
+
+[INPUT]:We joyfully watch spectacular fireworks on the Fourth of July every celebratory year.
+[OUTPUT]:{present}{We}{watch}joyfully of fireworks spectacular of Fourth July year celebratory. 
+
+[INPUT]:The peaceful baby quietly sleeps through the calm night every cozy evening.
+[OUTPUT]:{present}{baby peaceful}{sleep}quietly through night calm evening cozy. 
+
+[INPUT]:I efficiently complete the challenging project ahead of schedule every productive day.
+[OUTPUT]:{present}{I}{complete}efficiently ahead project challenging of schedule day productive. 
+
+[INPUT]:She lovingly knits a warm sweater for her grateful friend every chilly season.
+[OUTPUT]:{present}{She}{knit}lovingly sweater warm for her friend grateful season chilly. 
+
+[INPUT]:They leisurely take a scenic road trip across the vast country every adventurous summer.
+[OUTPUT]:{present}{They}{take}leisurely road across trip scenic vast country vast summer adventurous. 
+
+[INPUT]:He courageously climbs to the breathtaking top of the tall mountain every adventurous weekend.
+[OUTPUT]:{present}{He}{climb}courageously to of top breathtaking tall mountain tall weekend adventurous. 
+
+[INPUT]:We enthusiastically bake delicious cookies for the successful bake sale every festive occasion.
+[OUTPUT]:{present}{We}{bake}enthusiastically cookies delicious for bake sale successful occasion festive. 
+
+[INPUT]:The relentless rain pours down heavily all afternoon every gloomy day.
+[OUTPUT]:{present}{rain relentless}{pour}heavily down afternoon day gloomy. 
+
+[INPUT]:I quickly write a heartfelt letter to my distant friend every peaceful afternoon.
+[OUTPUT]:{present}{I}{write}quickly letter heartfelt to my friend distant afternoon peaceful. 
+
+[INPUT]:She carefully sews a beautiful dress for the exciting school play every exciting occasion.
+[OUTPUT]:{present}{She}{sew}carefully for dress beautiful exciting exciting school play exciting exciting occasion exciting. 
+
+[INPUT]:They lovingly plant colorful flowers in the flourishing garden every bright spring.
+[OUTPUT]:{present}{They}{plant}lovingly flowers colorful in{present}{flourish} garden spring bright. 
+
+[INPUT]:He nostalgically visits his old high school for the reunion every memorable year.
+[OUTPUT]:{present}{He}{visit}nostalgically his school old high for reunion year memorable. 
+
+[INPUT]:We joyfully cook a hearty dinner together as a happy family every peaceful evening.
+[OUTPUT]:{present}{We}{cook}joyfully together dinner hearty as family happy evening peaceful. 
+
+[INPUT]:The cheerful birds happily chirp in the lush, green trees every bright morning.
+[OUTPUT]:{present}{birds cheerful}{chirp}happily in , trees lush green morning bright. 
+
+[INPUT]:I cheerfully ride my trusty bike to school every sunny morning.
+[OUTPUT]:{present}{I}{ride}cheerfully my bike trusty to school morning sunny. 
+
+[INPUT]:She excitedly buys a shiny new car every exciting year.
+[OUTPUT]:{present}{She}{buy}excitedly car shiny new year exciting. 
+
+[INPUT]:They merrily play engaging board games by the cozy fireplace every cozy evening.
+[OUTPUT]:{present}{They}{play}merrily{present}{engage} board by games cozy fireplace cozy evening cozy. 
+
+[INPUT]:He gratefully receives a thoughtful gift from his loving parents every memorable occasion.
+[OUTPUT]:{present}{He}{receive}gratefully gift thoughtful from his {present}{love} parents memorable occasion memorable. 
+
+[INPUT]:We enthusiastically attend an entertaining concert every exciting weekend.
+[OUTPUT]:{present}{We}{attend}enthusiastically concert entertaining weekend exciting. 
+
+[INPUT]:The strong wind fiercely blows through the dark, stormy night every restless evening.
+[OUTPUT]:{present}{wind strong}{blow}fiercely through , night dark stormy evening restless. 
+
+[INPUT]:I diligently clean my cluttered room every peaceful afternoon.
+[OUTPUT]:{present}{I}{clean}diligently my room cluttered afternoon peaceful.

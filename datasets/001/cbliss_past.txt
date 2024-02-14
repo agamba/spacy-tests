@@ -1,0 +1,869 @@
+[INPUT]:She walked to school every morning.
+[OUTPUT]:{past}{She}{walk} to school morning. 
+
+[INPUT]:They played soccer in the park yesterday.
+[OUTPUT]:{past}{They}{play} soccer in park yesterday. 
+
+[INPUT]:He visited his grandparents last weekend.
+[OUTPUT]:{past}{He}{visit} his grandparents weekend last. 
+
+[INPUT]:We cooked dinner together last night.
+[OUTPUT]:{past}{We}{cook}together dinner night last. 
+
+[INPUT]:I finished reading the book yesterday.
+[OUTPUT]:{past}{I}{finish}{present}{read} book yesterday. 
+
+[INPUT]:The sun set beautifully last evening.
+[OUTPUT]:{past}{sun}{set}beautifully evening last. 
+
+[INPUT]:They traveled to Europe last summer.
+[OUTPUT]:{past}{They}{travel} to Europe summer last. 
+
+[INPUT]:She danced at the party last Friday.
+[OUTPUT]:{past}{She}{dance} at party Friday last. 
+
+[INPUT]:He studied hard for his exams last month.
+[OUTPUT]:{past}{He}{study}hard for his exams month last. 
+
+[INPUT]:We visited the museum last week.
+[OUTPUT]:{past}{We}{visit} museum week last. 
+
+[INPUT]:She ate breakfast early yesterday.
+[OUTPUT]:{past}{She}{eat} breakfast yesterday early. 
+
+[INPUT]:They went to the beach last summer.
+[OUTPUT]:{past}{They}{go} to beach summer last. 
+
+[INPUT]:He finished his homework before dinner.
+[OUTPUT]:{past}{He}{finish} his homework before dinner. 
+
+[INPUT]:We watched a movie together last night.
+[OUTPUT]:{past}{We}{watch}together movie night last. 
+
+[INPUT]:I visited my friend yesterday.
+[OUTPUT]:{past}{I}{visit} my friend yesterday. 
+
+[INPUT]:The dog chased the cat around the yard.
+[OUTPUT]:{past}{dog}{chase} cat around yard. 
+
+[INPUT]:They played soccer after school.
+[OUTPUT]:{past}{They}{play} soccer after school. 
+
+[INPUT]:She sang a beautiful song at the concert.
+[OUTPUT]:{past}{She}{sing} song beautiful at concert. 
+
+[INPUT]:He cooked dinner for his family.
+[OUTPUT]:{past}{He}{cook} dinner for his family. 
+
+[INPUT]:We traveled to Europe last year.
+[OUTPUT]:{past}{We}{travel} to Europe year last. 
+
+[INPUT]:She studied at the library yesterday.
+[OUTPUT]:{past}{She}{study} at library yesterday. 
+
+[INPUT]:They went for a hike last weekend.
+[OUTPUT]:{past}{They}{go} for hike weekend last. 
+
+[INPUT]:He finished his dinner early last night.
+[OUTPUT]:{past}{He}{finish} his dinner night last. 
+
+[INPUT]:We visited the zoo last month.
+[OUTPUT]:{past}{We}{visit} zoo month last. 
+
+[INPUT]:I cooked spaghetti for dinner yesterday.
+[OUTPUT]:{past}{I}{cook} spaghetti for dinner yesterday. 
+
+[INPUT]:The movie ended late last evening.
+[OUTPUT]:{past}{movie}{end} evening last. 
+
+[INPUT]:They traveled to Japan last summer.
+[OUTPUT]:{past}{They}{travel} to Japan summer last. 
+
+[INPUT]:She danced at her sister's wedding last Friday.
+[OUTPUT]:{past}{She}{dance} at her sister 's wedding Friday last. 
+
+[INPUT]:He played the piano at the concert last week.
+[OUTPUT]:{past}{He}{play} piano at concert week last. 
+
+[INPUT]:We completed the puzzle yesterday.
+[OUTPUT]:{past}{We}{complete} puzzle yesterday. 
+
+[INPUT]:She woke up late yesterday morning.
+[OUTPUT]:{past}{She}{wake} up yesterday morning late. 
+
+[INPUT]:They played basketball at the park yesterday.
+[OUTPUT]:{past}{They}{play} basketball at park yesterday. 
+
+[INPUT]:He visited his aunt yesterday afternoon.
+[OUTPUT]:{past}{He}{visit} his aunt yesterday afternoon. 
+
+[INPUT]:We cleaned the house yesterday.
+[OUTPUT]:{past}{We}{clean} house yesterday. 
+
+[INPUT]:I watched a movie with my friends yesterday evening.
+[OUTPUT]:{past}{I}{watch} movie with my friends yesterday evening. 
+
+[INPUT]:The sun set beautifully yesterday.
+[OUTPUT]:{past}{sun}{set}beautifully yesterday. 
+
+[INPUT]:They had a barbecue in their backyard yesterday.
+[OUTPUT]:{past}{They}{have} barbecue in their backyard yesterday. 
+
+[INPUT]:She finished her homework yesterday.
+[OUTPUT]:{past}{She}{finish} her homework yesterday. 
+
+[INPUT]:He went for a run yesterday.
+[OUTPUT]:{past}{He}{go} for run yesterday. 
+
+[INPUT]:We attended a party yesterday night.
+[OUTPUT]:{past}{We}{attend} party yesterday night. 
+
+[INPUT]:She walked to school yesterday.
+[OUTPUT]:{past}{She}{walk} to school yesterday. 
+
+[INPUT]:He ate breakfast early this morning.
+[OUTPUT]:{past}{He}{eat} breakfast morning. 
+
+[INPUT]:They watched a movie last night.
+[OUTPUT]:{past}{They}{watch} movie night last. 
+
+[INPUT]:I visited my grandparents last weekend.
+[OUTPUT]:{past}{I}{visit} my grandparents weekend last. 
+
+[INPUT]:We played soccer after school yesterday.
+[OUTPUT]:{past}{We}{play} soccer after school yesterday. 
+
+[INPUT]:The sun shone brightly yesterday.
+[OUTPUT]:{past}{sun}{shine}brightly yesterday. 
+
+[INPUT]:He finished his homework before dinner.
+[OUTPUT]:{past}{He}{finish} his homework before dinner. 
+
+[INPUT]:They went swimming at the beach last summer.
+[OUTPUT]:{past}{They}{go}{present}{swim} at beach summer last. 
+
+[INPUT]:She cooked dinner for her family yesterday.
+[OUTPUT]:{past}{She}{cook} dinner for her family yesterday. 
+
+[INPUT]:The cat slept all day yesterday.
+[OUTPUT]:{past}{cat}{sleep} day yesterday. 
+
+[INPUT]:He ran five miles yesterday morning.
+[OUTPUT]:{past}{He}{run} five miles yesterday morning. 
+
+[INPUT]:They cleaned the house last weekend.
+[OUTPUT]:{past}{They}{clean} house weekend last. 
+
+[INPUT]:I read a book before going to bed last night.
+[OUTPUT]:{present}{I}{read} book before{present}{go} to bed night last. 
+
+[INPUT]:We visited the museum last month.
+[OUTPUT]:{past}{We}{visit} museum month last. 
+
+[INPUT]:She bought a new dress last week.
+[OUTPUT]:{past}{She}{buy} dress new week last. 
+
+[INPUT]:He rode his bike to work yesterday.
+[OUTPUT]:{past}{He}{ride} his bike to{work} yesterday. 
+
+[INPUT]:They danced at the party last night.
+[OUTPUT]:{past}{They}{dance} at party night last. 
+
+[INPUT]:I graduated from college last year.
+[OUTPUT]:{past}{I}{graduate} from college year last. 
+
+[INPUT]:We went on a road trip last summer.
+[OUTPUT]:{past}{We}{go} on road trip summer last. 
+
+[INPUT]:She painted a beautiful picture last night.
+[OUTPUT]:{past}{She}{paint} picture beautiful night last. 
+
+[INPUT]:He fixed the broken window last weekend.
+[OUTPUT]:{past}{He}{fix} window broken weekend last. 
+
+[INPUT]:They sang songs around the campfire last night.
+[OUTPUT]:{past}{They}{sing} around songs campfire night last. 
+
+[INPUT]:I woke up early this morning.
+[OUTPUT]:{past}{I}{wake} up morning. 
+
+[INPUT]:We played board games all night yesterday.
+[OUTPUT]:{past}{We}{play} board games night yesterday. 
+
+[INPUT]:She baked cookies for her friends yesterday.
+[OUTPUT]:{past}{She}{bake} cookies for her friends yesterday. 
+
+[INPUT]:He traveled to Europe last summer.
+[OUTPUT]:{past}{He}{travel} to Europe summer last. 
+
+[INPUT]:They attended a concert last night.
+[OUTPUT]:{past}{They}{attend} concert night last. 
+
+[INPUT]:I finished reading the book last week.
+[OUTPUT]:{past}{I}{finish}{present}{read} book week last. 
+
+[INPUT]:We went fishing at the lake last weekend.
+[OUTPUT]:{past}{We}{go}{present}{fish} at lake weekend last. 
+
+[INPUT]:She practiced the piano for hours yesterday.
+[OUTPUT]:{past}{She}{practice} piano for hours yesterday. 
+
+[INPUT]:He cleaned his room yesterday.
+[OUTPUT]:{past}{He}{clean} his room yesterday. 
+
+[INPUT]:They planted flowers in the garden last spring.
+[OUTPUT]:{past}{They}{plant} flowers in garden spring last. 
+
+[INPUT]:I watched a documentary on TV last night.
+[OUTPUT]:{past}{I}{watch} on documentary TV night last. 
+
+[INPUT]:We had a barbecue in the backyard last weekend.
+[OUTPUT]:{past}{We}{have} barbecue in backyard weekend last. 
+
+[INPUT]:She studied for her exams last week.
+[OUTPUT]:{past}{She}{study} for her exams week last. 
+
+[INPUT]:He fixed the leaky faucet last weekend.
+[OUTPUT]:{past}{He}{fix} faucet leaky weekend last. 
+
+[INPUT]:They walked in the park yesterday.
+[OUTPUT]:{past}{They}{walk} in park yesterday. 
+
+[INPUT]:I played basketball with my friends last night.
+[OUTPUT]:{past}{I}{play} basketball with my friends night last. 
+
+[INPUT]:We visited the zoo last weekend.
+[OUTPUT]:{past}{We}{visit} zoo weekend last. 
+
+[INPUT]:She wrote a letter to her pen pal yesterday.
+[OUTPUT]:{past}{She}{write} to letter her pen pal yesterday. 
+
+[INPUT]:He mowed the lawn yesterday.
+[OUTPUT]:{past}{He}{mow} lawn yesterday. 
+
+[INPUT]:They went shopping at the mall last weekend.
+[OUTPUT]:{past}{They}{go}{present}{shop} at mall weekend last. 
+
+[INPUT]:I went for a run yesterday morning.
+[OUTPUT]:{past}{I}{go} for run yesterday morning. 
+
+[INPUT]:We watched the sunset at the beach last night.
+[OUTPUT]:{past}{We}{watch} sunset at beach night last. 
+
+[INPUT]:She finished knitting a sweater last week.
+[OUTPUT]:{past}{She}{finish}{present}{knit} sweater week last. 
+
+[INPUT]:He cooked dinner for his family yesterday.
+[OUTPUT]:{past}{He}{cook} dinner for his family yesterday. 
+
+[INPUT]:They hiked in the mountains last weekend.
+[OUTPUT]:{past}{They}{hike} in mountains weekend last. 
+
+[INPUT]:I cleaned out the garage yesterday.
+[OUTPUT]:{past}{I}{clean} out garage yesterday. 
+
+[INPUT]:We had a picnic in the park last weekend.
+[OUTPUT]:{past}{We}{have} in picnic park weekend last. 
+
+[INPUT]:She painted her nails yesterday.
+[OUTPUT]:{past}{She}{paint} her nails yesterday. 
+
+[INPUT]:He read a book in the garden yesterday.
+[OUTPUT]:{past}{He}{read} book in garden yesterday. 
+
+[INPUT]:They played soccer in the park yesterday.
+[OUTPUT]:{past}{They}{play} soccer in park yesterday. 
+
+[INPUT]:I attended a party last night.
+[OUTPUT]:{past}{I}{attend} party night last. 
+
+[INPUT]:We rode bikes around the neighborhood last weekend.
+[OUTPUT]:{past}{We}{ride} around bikes neighborhood weekend last. 
+
+[INPUT]:She watched a movie with her friends last night.
+[OUTPUT]:{past}{She}{watch} movie with her friends night last. 
+
+[INPUT]:He went for a swim at the pool yesterday.
+[OUTPUT]:{past}{He}{go} for at swim pool yesterday. 
+
+[INPUT]:They went for a hike in the forest yesterday.
+[OUTPUT]:{past}{They}{go} for in hike forest yesterday. 
+
+[INPUT]:I visited my aunt last weekend.
+[OUTPUT]:{past}{I}{visit} my aunt weekend last. 
+
+[INPUT]:We played video games all day yesterday.
+[OUTPUT]:{past}{We}{play} video games day yesterday. 
+
+[INPUT]:She cooked a delicious meal yesterday.
+[OUTPUT]:{past}{She}{cook} meal delicious yesterday. 
+
+[INPUT]:He rode his skateboard to the park yesterday.
+[OUTPUT]:{past}{He}{ride} his skateboard to park yesterday. 
+
+[INPUT]:They had a barbecue in the backyard yesterday.
+[OUTPUT]:{past}{They}{have} barbecue in backyard yesterday. 
+
+[INPUT]:I went camping with my family last weekend.
+[OUTPUT]:{past}{I}{go}{present}{camp} with my family weekend last. 
+
+[INPUT]:We went to the beach last weekend.
+[OUTPUT]:{past}{We}{go} to beach weekend last. 
+
+[INPUT]:She practiced yoga in the morning yesterday.
+[OUTPUT]:{past}{She}{practice} yoga in morning yesterday. 
+
+[INPUT]:He listened to music in his room yesterday.
+[OUTPUT]:{past}{He}{listen} to in music his room yesterday. 
+
+[INPUT]:They had a sleepover at their friend's house last weekend.
+[OUTPUT]:{past}{They}{have} sleepover at their friend 's house weekend last. 
+
+[INPUT]:I went for a bike ride yesterday.
+[OUTPUT]:{past}{I}{go} for bike ride yesterday. 
+
+[INPUT]:We went for a walk in the park yesterday.
+[OUTPUT]:{past}{We}{go} for in walk park yesterday. 
+
+[INPUT]:She took a nap in the afternoon yesterday.
+[OUTPUT]:{past}{She}{take} nap in afternoon yesterday. 
+
+[INPUT]:He played guitar for his friends yesterday.
+[OUTPUT]:{past}{He}{play} guitar for his friends yesterday. 
+
+[INPUT]:They went for a drive in the countryside yesterday.
+[OUTPUT]:{past}{They}{go} for in drive countryside yesterday. 
+
+[INPUT]:I visited the library last week.
+[OUTPUT]:{past}{I}{visit} library week last. 
+
+[INPUT]:We went to a party last night.
+[OUTPUT]:{past}{We}{go} to party night last. 
+
+[INPUT]:She swam in the pool yesterday.
+[OUTPUT]:{past}{She}{swim} in pool yesterday. 
+
+[INPUT]:He cooked breakfast for his family yesterday.
+[OUTPUT]:{past}{He}{cook} breakfast for his family yesterday. 
+
+[INPUT]:They watched a movie at home yesterday.
+[OUTPUT]:{past}{They}{watch} movie at home yesterday. 
+
+[INPUT]:I played video games with my brother yesterday.
+[OUTPUT]:{past}{I}{play} video games with my brother yesterday. 
+
+[INPUT]:We went to the amusement park last weekend.
+[OUTPUT]:{past}{We}{go} to amusement park weekend last. 
+
+[INPUT]:She went shopping with her friends yesterday.
+[OUTPUT]:{past}{She}{go}{present}{shop} with her friends yesterday. 
+
+[INPUT]:He rode his bike to school yesterday.
+[OUTPUT]:{past}{He}{ride} his bike to school yesterday. 
+
+[INPUT]:They visited their grandparents last weekend.
+[OUTPUT]:{past}{They}{visit} their grandparents weekend last. 
+
+[INPUT]:I cleaned my room yesterday.
+[OUTPUT]:{past}{I}{clean} my room yesterday. 
+
+[INPUT]:We had a picnic in the backyard last weekend.
+[OUTPUT]:{past}{We}{have} in picnic backyard weekend last. 
+
+[INPUT]:She read a book in the garden yesterday.
+[OUTPUT]:{past}{She}{read} book in garden yesterday. 
+
+[INPUT]:He played soccer with his friends yesterday.
+[OUTPUT]:{past}{He}{play} soccer with his friends yesterday. 
+
+[INPUT]:They had a barbecue at the beach yesterday.
+[OUTPUT]:{past}{They}{have} barbecue at beach yesterday. 
+
+[INPUT]:I went for a swim in the lake yesterday.
+[OUTPUT]:{past}{I}{go} for in swim lake yesterday. 
+
+[INPUT]:We watched the sunset at the park last weekend.
+[OUTPUT]:{past}{We}{watch} sunset at park weekend last. 
+
+[INPUT]:She went hiking with her friends yesterday.
+[OUTPUT]:{past}{She}{go}{present}{hike} with her friends yesterday. 
+
+[INPUT]:He rode his skateboard at the skate park yesterday.
+[OUTPUT]:{past}{He}{ride} his skateboard at skate park yesterday. 
+
+[INPUT]:They had a picnic in the forest yesterday.
+[OUTPUT]:{past}{They}{have} in picnic forest yesterday. 
+
+[INPUT]:I visited the museum last weekend.
+[OUTPUT]:{past}{I}{visit} museum weekend last. 
+
+[INPUT]:We went to a concert last night.
+[OUTPUT]:{past}{We}{go} to concert night last. 
+
+[INPUT]:She played tennis with her friends yesterday.
+[OUTPUT]:{past}{She}{play} tennis with her friends yesterday. 
+
+[INPUT]:He went fishing with his dad yesterday.
+[OUTPUT]:{past}{He}{go}{present}{fish} with his dad yesterday. 
+
+[INPUT]:They had a barbecue in the park yesterday.
+[OUTPUT]:{past}{They}{have} in barbecue park yesterday. 
+
+[INPUT]:I went for a jog in the morning yesterday.
+[OUTPUT]:{past}{I}{go} for in jog morning yesterday. 
+
+[INPUT]:We had a bonfire at the beach last weekend.
+[OUTPUT]:{past}{We}{have} at bonfire beach weekend last. 
+
+[INPUT]:She went for a bike ride in the countryside yesterday.
+[OUTPUT]:{past}{She}{go} for bike in ride countryside yesterday. 
+
+[INPUT]:She walked to the store yesterday.
+[OUTPUT]:{past}{She}{walk} to store yesterday. 
+
+[INPUT]:They played soccer after school.
+[OUTPUT]:{past}{They}{play} soccer after school. 
+
+[INPUT]:He studied for his exam all night.
+[OUTPUT]:{past}{He}{study} for his exam night. 
+
+[INPUT]:We visited Paris last summer.
+[OUTPUT]:{past}{We}{visit} Paris summer last. 
+
+[INPUT]:The cat chased the mouse around the house.
+[OUTPUT]:{past}{cat}{chase} mouse around house. 
+
+[INPUT]:I finished my homework before dinner.
+[OUTPUT]:{past}{I}{finish} my homework before dinner. 
+
+[INPUT]:She cooked dinner for her family.
+[OUTPUT]:{past}{She}{cook} dinner for her family. 
+
+[INPUT]:They watched a movie at the cinema.
+[OUTPUT]:{past}{They}{watch} movie at cinema. 
+
+[INPUT]:He ran a marathon last month.
+[OUTPUT]:{past}{He}{run} marathon month last. 
+
+[INPUT]:We went camping in the mountains.
+[OUTPUT]:{past}{We}{go} in camping mountains. 
+
+[INPUT]:The sun set over the horizon.
+[OUTPUT]:{past}{sun}{set} over horizon. 
+
+[INPUT]:I read a book in bed last night.
+[OUTPUT]:{present}{I}{read} book in bed night last. 
+
+[INPUT]:She painted her bedroom walls blue.
+[OUTPUT]:{past}{She}{paint} her bedroom walls. 
+
+[INPUT]:They visited their grandparents over the holidays.
+[OUTPUT]:{past}{They}{visit} their grandparents over holidays. 
+
+[INPUT]:He fixed the leaky faucet in the bathroom.
+[OUTPUT]:{past}{He}{fix} faucet leaky in bathroom. 
+
+[INPUT]:We rode bikes through the park.
+[OUTPUT]:{past}{We}{ride} bikes through park. 
+
+[INPUT]:The children played in the backyard.
+[OUTPUT]:{past}{children}{play} in backyard. 
+
+[INPUT]:She danced at her sister's wedding.
+[OUTPUT]:{past}{She}{dance} at her sister 's wedding. 
+
+[INPUT]:They built a sandcastle at the beach.
+[OUTPUT]:{past}{They}{build} sandcastle at beach. 
+
+[INPUT]:He woke up early this morning.
+[OUTPUT]:{past}{He}{wake} up morning. 
+
+[INPUT]:I ate breakfast before leaving for work.
+[OUTPUT]:{past}{I}{eat} breakfast before{present}{leave} for work. 
+
+[INPUT]:She swam in the pool for hours.
+[OUTPUT]:{past}{She}{swim} in pool for hours. 
+
+[INPUT]:They visited the museum downtown.
+[OUTPUT]:{past}{They}{visit} museum downtown. 
+
+[INPUT]:We hiked up the mountain trail.
+[OUTPUT]:{past}{We}{hike} up mountain trail. 
+
+[INPUT]:The dog barked at the mailman.
+[OUTPUT]:{past}{dog}{bark} at mailman. 
+
+[INPUT]:I drove to the grocery store.
+[OUTPUT]:{past}{I}{drive} to grocery store. 
+
+[INPUT]:She sang a song at the talent show.
+[OUTPUT]:{past}{She}{sing} song at talent show. 
+
+[INPUT]:They flew to Europe for vacation.
+[OUTPUT]:{past}{They}{fly} to Europe for vacation. 
+
+[INPUT]:He cooked dinner on the grill.
+[OUTPUT]:{past}{He}{cook} dinner on grill. 
+
+[INPUT]:We watched fireworks on the Fourth of July.
+[OUTPUT]:{past}{We}{watch} of fireworks of Fourth July. 
+
+[INPUT]:The baby slept through the night.
+[OUTPUT]:{past}{baby}{sleep} through night. 
+
+[INPUT]:I completed the project ahead of schedule.
+[OUTPUT]:{past}{I}{complete}ahead project of schedule. 
+
+[INPUT]:She knitted a sweater for her friend.
+[OUTPUT]:{past}{She}{knit} sweater for her friend. 
+
+[INPUT]:They took a road trip across the country.
+[OUTPUT]:{past}{They}{take} road across trip country. 
+
+[INPUT]:He climbed to the top of the mountain.
+[OUTPUT]:{past}{He}{climb} to of top mountain. 
+
+[INPUT]:We explored the ancient ruins.
+[OUTPUT]:{past}{We}{explore} ruins ancient. 
+
+[INPUT]:The train arrived at the station.
+[OUTPUT]:{past}{train}{arrive} at station. 
+
+[INPUT]:I finished reading the novel.
+[OUTPUT]:{past}{I}{finish}{present}{read} novel. 
+
+[INPUT]:She wrote a letter to her pen pal.
+[OUTPUT]:{past}{She}{write} letter to her pen pal. 
+
+[INPUT]:They visited the zoo on Saturday.
+[OUTPUT]:{past}{They}{visit} zoo on Saturday. 
+
+[INPUT]:He fixed the broken window.
+[OUTPUT]:{past}{He}{fix} window broken. 
+
+[INPUT]:We played board games by the fireplace.
+[OUTPUT]:{past}{We}{play} board games by fireplace. 
+
+[INPUT]:The birds chirped in the trees.
+[OUTPUT]:{past}{birds}{chirp} in trees. 
+
+[INPUT]:I rode my bike to school.
+[OUTPUT]:{past}{I}{ride} my bike to school. 
+
+[INPUT]:She sewed a dress for the school play.
+[OUTPUT]:{past}{She}{sew} for dress school play. 
+
+[INPUT]:They planted flowers in the garden.
+[OUTPUT]:{past}{They}{plant} flowers in garden. 
+
+[INPUT]:He visited his old high school.
+[OUTPUT]:{past}{He}{visit} his school old high. 
+
+[INPUT]:We cooked dinner together as a family.
+[OUTPUT]:{past}{We}{cook}together dinner as family. 
+
+[INPUT]:The rain poured down all afternoon.
+[OUTPUT]:{past}{rain}{pour} down afternoon. 
+
+[INPUT]:I baked cookies for the bake sale.
+[OUTPUT]:{past}{I}{bake} cookies for bake sale. 
+
+[INPUT]:She ate an apple yesterday.
+[OUTPUT]:{past}{She}{eat} apple yesterday. 
+
+[INPUT]:They walked to the park last night.
+[OUTPUT]:{past}{They}{walk} to park night last. 
+
+[INPUT]:He finished his homework before dinner.
+[OUTPUT]:{past}{He}{finish} his homework before dinner. 
+
+[INPUT]:We visited our grandparents last weekend.
+[OUTPUT]:{past}{We}{visit} our grandparents weekend last. 
+
+[INPUT]:The cat chased the mouse around the house.
+[OUTPUT]:{past}{cat}{chase} mouse around house. 
+
+[INPUT]:I played basketball with my friends yesterday.
+[OUTPUT]:{past}{I}{play} basketball with my friends yesterday. 
+
+[INPUT]:She cooked dinner for her family.
+[OUTPUT]:{past}{She}{cook} dinner for her family. 
+
+[INPUT]:They watched a movie at the cinema.
+[OUTPUT]:{past}{They}{watch} movie at cinema. 
+
+[INPUT]:He ran a marathon last month.
+[OUTPUT]:{past}{He}{run} marathon month last. 
+
+[INPUT]:We went swimming at the beach last summer.
+[OUTPUT]:{past}{We}{go}{present}{swim} at beach summer last. 
+
+[INPUT]:The sun set over the horizon.
+[OUTPUT]:{past}{sun}{set} over horizon. 
+
+[INPUT]:I read a book in bed last night.
+[OUTPUT]:{present}{I}{read} book in bed night last. 
+
+[INPUT]:She painted her bedroom walls blue.
+[OUTPUT]:{past}{She}{paint} her bedroom walls. 
+
+[INPUT]:They traveled to Europe for vacation.
+[OUTPUT]:{past}{They}{travel} to Europe for vacation. 
+
+[INPUT]:He fixed the leaky faucet in the bathroom.
+[OUTPUT]:{past}{He}{fix} faucet leaky in bathroom. 
+
+[INPUT]:We hiked up the mountain trail.
+[OUTPUT]:{past}{We}{hike} up mountain trail. 
+
+[INPUT]:The children played in the backyard.
+[OUTPUT]:{past}{children}{play} in backyard. 
+
+[INPUT]:She danced at her sister's wedding.
+[OUTPUT]:{past}{She}{dance} at her sister 's wedding. 
+
+[INPUT]:They built a sandcastle at the beach.
+[OUTPUT]:{past}{They}{build} sandcastle at beach. 
+
+[INPUT]:He woke up early this morning.
+[OUTPUT]:{past}{He}{wake} up morning. 
+
+[INPUT]:I took a bus to work yesterday.
+[OUTPUT]:{past}{I}{take} bus to{work} yesterday. 
+
+[INPUT]:She swam in the pool for hours.
+[OUTPUT]:{past}{She}{swim} in pool for hours. 
+
+[INPUT]:They visited the museum downtown.
+[OUTPUT]:{past}{They}{visit} museum downtown. 
+
+[INPUT]:We explored the ancient ruins.
+[OUTPUT]:{past}{We}{explore} ruins ancient. 
+
+[INPUT]:The dog barked at the mailman.
+[OUTPUT]:{past}{dog}{bark} at mailman. 
+
+[INPUT]:I drove to the grocery store.
+[OUTPUT]:{past}{I}{drive} to grocery store. 
+
+[INPUT]:She sang a song at the talent show.
+[OUTPUT]:{past}{She}{sing} song at talent show. 
+
+[INPUT]:They flew to Europe for vacation.
+[OUTPUT]:{past}{They}{fly} to Europe for vacation. 
+
+[INPUT]:He cooked dinner on the grill.
+[OUTPUT]:{past}{He}{cook} dinner on grill. 
+
+[INPUT]:We watched fireworks on the Fourth of July.
+[OUTPUT]:{past}{We}{watch} of fireworks of Fourth July. 
+
+[INPUT]:The baby slept through the night.
+[OUTPUT]:{past}{baby}{sleep} through night. 
+
+[INPUT]:I completed the project ahead of schedule.
+[OUTPUT]:{past}{I}{complete}ahead project of schedule. 
+
+[INPUT]:She knitted a sweater for her friend.
+[OUTPUT]:{past}{She}{knit} sweater for her friend. 
+
+[INPUT]:They took a road trip across the country.
+[OUTPUT]:{past}{They}{take} road across trip country. 
+
+[INPUT]:He climbed to the top of the mountain.
+[OUTPUT]:{past}{He}{climb} to of top mountain. 
+
+[INPUT]:We baked cookies for the bake sale.
+[OUTPUT]:{past}{We}{bake} cookies for bake sale. 
+
+[INPUT]:The rain poured down all afternoon.
+[OUTPUT]:{past}{rain}{pour} down afternoon. 
+
+[INPUT]:I wrote a letter to my friend yesterday.
+[OUTPUT]:{past}{I}{write} to letter my friend yesterday. 
+
+[INPUT]:She sewed a dress for the school play.
+[OUTPUT]:{past}{She}{sew} for dress school play. 
+
+[INPUT]:They planted flowers in the garden.
+[OUTPUT]:{past}{They}{plant} flowers in garden. 
+
+[INPUT]:He visited his old high school.
+[OUTPUT]:{past}{He}{visit} his school old high. 
+
+[INPUT]:We cooked dinner together as a family.
+[OUTPUT]:{past}{We}{cook}together dinner as family. 
+
+[INPUT]:The birds chirped in the trees.
+[OUTPUT]:{past}{birds}{chirp} in trees. 
+
+[INPUT]:I rode my bike to school.
+[OUTPUT]:{past}{I}{ride} my bike to school. 
+
+[INPUT]:She bought a new car last month.
+[OUTPUT]:{past}{She}{buy} car new month last. 
+
+[INPUT]:They played board games by the fireplace.
+[OUTPUT]:{past}{They}{play} board games by fireplace. 
+
+[INPUT]:He received a gift from his parents.
+[OUTPUT]:{past}{He}{receive} gift from his parents. 
+
+[INPUT]:We attended a concert last night.
+[OUTPUT]:{past}{We}{attend} concert night last. 
+
+[INPUT]:The wind blew fiercely last night.
+[OUTPUT]:{past}{wind}{blow}fiercely night last. 
+
+[INPUT]:I cleaned my room yesterday.
+[OUTPUT]:{past}{I}{clean} my room yesterday. 
+
+[INPUT]:She quickly ate a juicy apple yesterday.
+[OUTPUT]:{past}{She}{eat}quickly apple juicy yesterday. 
+
+[INPUT]:They happily walked to the park last night.
+[OUTPUT]:{past}{They}{walk}happily to park night last. 
+
+[INPUT]:He diligently finished his difficult homework before dinner.
+[OUTPUT]:{past}{He}{finish}diligently his homework difficult before dinner. 
+
+[INPUT]:We joyfully visited our beloved grandparents last weekend.
+[OUTPUT]:{past}{We}{visit}joyfully our grandparents beloved weekend last. 
+
+[INPUT]:The agile cat playfully chased the frightened mouse around the house.
+[OUTPUT]:{past}{cat agile}{chase}playfully mouse frightened around house. 
+
+[INPUT]:I enthusiastically played basketball with my friends yesterday.
+[OUTPUT]:{past}{I}{play}enthusiastically basketball with my friends yesterday. 
+
+[INPUT]:She skillfully cooked a delicious dinner for her family.
+[OUTPUT]:{past}{She}{cook}skillfully dinner delicious for her family. 
+
+[INPUT]:They quietly watched a thrilling movie at the cinema.
+[OUTPUT]:{past}{They}{watch}quietly at movie thrilling cinema. 
+
+[INPUT]:He proudly ran a challenging marathon last month.
+[OUTPUT]:{past}{He}{run}proudly marathon challenging month last. 
+
+[INPUT]:We peacefully went swimming at the serene beach last summer.
+[OUTPUT]:{past}{We}{go}peacefully{present}{swim} at beach serene summer last. 
+
+[INPUT]:The radiant sun peacefully set over the picturesque horizon.
+[OUTPUT]:{past}{sun radiant}{set}peacefully over horizon picturesque. 
+
+[INPUT]:I leisurely read an intriguing book in bed last night.
+[OUTPUT]:{past}{I}{read}leisurely book intriguing in bed night last. 
+
+[INPUT]:She carefully painted her bedroom walls bright blue.
+[OUTPUT]:{past}{She}{paint}carefully her bedroom walls. 
+
+[INPUT]:They excitedly traveled to beautiful Europe for vacation.
+[OUTPUT]:{past}{They}{travel}excitedly to Europe beautiful for vacation. 
+
+[INPUT]:He efficiently fixed the leaky faucet in the bathroom.
+[OUTPUT]:{past}{He}{fix}efficiently faucet leaky in bathroom. 
+
+[INPUT]:We eagerly hiked up the scenic mountain trail.
+[OUTPUT]:{past}{We}{hike}eagerly up mountain trail scenic. 
+
+[INPUT]:The cheerful children happily played in the spacious backyard.
+[OUTPUT]:{past}{children cheerful}{play}happily in backyard spacious. 
+
+[INPUT]:She gracefully danced at her sister's enchanting wedding.
+[OUTPUT]:{past}{She}{dance}gracefully at her sister 's wedding enchanting. 
+
+[INPUT]:They creatively built a majestic sandcastle at the sandy beach.
+[OUTPUT]:{past}{They}{build}creatively sandcastle majestic at beach sandy. 
+
+[INPUT]:He woke up early this misty morning.
+[OUTPUT]:{past}{He}{wake} up morning misty. 
+
+[INPUT]:I patiently took a crowded bus to work yesterday.
+[OUTPUT]:{past}{I}{take}patiently bus crowded to{work} yesterday. 
+
+[INPUT]:She blissfully swam in the refreshing pool for hours.
+[OUTPUT]:{present}{She}{swam}blissfully in for pool refreshing hours. 
+
+[INPUT]:They curiously visited the fascinating museum downtown.
+[OUTPUT]:{past}{They}{visit}curiously museum downtown fascinating. 
+
+[INPUT]:We bravely explored the ancient, mysterious ruins.
+[OUTPUT]:{past}{We}{explore}bravely , ruins ancient mysterious. 
+
+[INPUT]:The vigilant dog fiercely barked at the unsuspecting mailman.
+[OUTPUT]:{past}{dog vigilant}{bark}fiercely at mailman unsuspecting. 
+
+[INPUT]:I cautiously drove to the busy grocery store.
+[OUTPUT]:{past}{I}{drive}cautiously to grocery store busy. 
+
+[INPUT]:She melodiously sang a beautiful song at the talent show.
+[OUTPUT]:{past}{She}{sing}melodiously song beautiful at talent show. 
+
+[INPUT]:They eagerly flew to romantic Europe for vacation.
+[OUTPUT]:{past}{They}{fly}eagerly to Europe romantic for vacation. 
+
+[INPUT]:He skillfully cooked a savory dinner on the sizzling grill.
+[OUTPUT]:{past}{He}{cook}skillfully dinner savory on grill sizzling. 
+
+[INPUT]:We joyfully watched spectacular fireworks on the Fourth of July.
+[OUTPUT]:{past}{We}{watch}joyfully of fireworks spectacular of Fourth July. 
+
+[INPUT]:The peaceful baby quietly slept through the calm night.
+[OUTPUT]:{past}{baby peaceful}{sleep}quietly through night calm. 
+
+[INPUT]:I efficiently completed the challenging project ahead of schedule.
+[OUTPUT]:{past}{I}{complete}efficiently ahead project challenging of schedule. 
+
+[INPUT]:She lovingly knitted a warm sweater for her grateful friend.
+[OUTPUT]:{past}{She}{knit}lovingly sweater warm for her friend grateful. 
+
+[INPUT]:They leisurely took a scenic road trip across the vast country.
+[OUTPUT]:{past}{They}{take}leisurely road trip scenic across country vast. 
+
+[INPUT]:He courageously climbed to the breathtaking top of the tall mountain.
+[OUTPUT]:{past}{He}{climb}courageously to of top breathtaking tall mountain tall. 
+
+[INPUT]:We enthusiastically baked delicious cookies for the successful bake sale.
+[OUTPUT]:{past}{We}{bake}enthusiastically cookies delicious for bake sale successful. 
+
+[INPUT]:The relentless rain poured down heavily all afternoon.
+[OUTPUT]:{past}{rain relentless}{pour}heavily down afternoon. 
+
+[INPUT]:I quickly wrote a heartfelt letter to my distant friend yesterday.
+[OUTPUT]:{past}{I}{write}quickly letter heartfelt to my friend distant yesterday. 
+
+[INPUT]:She carefully sewed a beautiful dress for the exciting school play.
+[OUTPUT]:{past}{She}{sew}carefully for dress beautiful exciting school play exciting. 
+
+[INPUT]:They lovingly planted colorful flowers in the flourishing garden.
+[OUTPUT]:{past}{They}{plant}lovingly flowers colorful in{present}{flourish} garden. 
+
+[INPUT]:He nostalgically visited his old high school for the reunion.
+[OUTPUT]:{past}{He}{visit}nostalgically his for school old high reunion. 
+
+[INPUT]:We joyfully cooked a hearty dinner together as a happy family.
+[OUTPUT]:{past}{We}{cook}joyfully together dinner hearty as family happy. 
+
+[INPUT]:The cheerful birds happily chirped in the lush, green trees.
+[OUTPUT]:{past}{birds cheerful}{chirp}happily in , trees lush green. 
+
+[INPUT]:I cheerfully rode my trusty bike to school every sunny morning.
+[OUTPUT]:{past}{I}{ride}cheerfully my bike trusty to school morning sunny. 
+
+[INPUT]:She excitedly bought a shiny new car last month.
+[OUTPUT]:{past}{She}{buy}excitedly car shiny new month last. 
+
+[INPUT]:They merrily played engaging board games by the cozy fireplace.
+[OUTPUT]:{past}{They}{play}merrily{present}{engage} board by games cozy fireplace cozy. 
+
+[INPUT]:He gratefully received a thoughtful gift from his loving parents.
+[OUTPUT]:{past}{He}{receive}gratefully gift thoughtful from his {present}{love} parents. 
+
+[INPUT]:We enthusiastically attended an entertaining concert last night.
+[OUTPUT]:{past}{We}{attend}enthusiastically concert entertaining night last. 
+
+[INPUT]:The strong wind fiercely blew through the dark, stormy night.
+[OUTPUT]:{past}{wind strong}{blow}fiercely through , night dark stormy. 
+
+[INPUT]:I diligently cleaned my cluttered room yesterday afternoon.
+[OUTPUT]:{past}{I}{clean}diligently my room cluttered yesterday afternoon. 
