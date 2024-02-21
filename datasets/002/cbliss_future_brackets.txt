@@ -1,0 +1,1135 @@
+
+
+[original]:She will walk to school tomorrow morning.
+[bliss]:{future}: {She} {walk} {to} {school} {tomorrow} {morning} {.} 
+
+[original]:They will play soccer in the park tomorrow.
+[bliss]:{future}: {They} {play} {soccer} {in} {park} {tomorrow} {.} 
+
+[original]:He will visit his grandparents next weekend.
+[bliss]:{future}: {He} {visit} {his} {grandparents} {weekend} {next} {.} 
+
+[original]:We will cook dinner together tomorrow night.
+[bliss]:{future}: {We} {cook} {together} {dinner} {tomorrow} {night} {.} 
+
+[original]:I will finish reading the book tomorrow.
+[bliss]:{future}: {I} {finish} {read} {book} {tomorrow} {.} 
+
+[original]:The sun will set beautifully tomorrow evening.
+[bliss]:{future}: {sun} {set} {beautifully} {tomorrow} {evening} {.} 
+
+[original]:They will travel to Europe next summer.
+[bliss]:{future}: {They} {travel} {to} {Europe} {summer} {next} {.} 
+
+[original]:She will dance at the party next Friday.
+[bliss]:{future}: {She} {dance} {at} {party} {Friday} {next} {.} 
+
+[original]:He will study hard for his exams next month.
+[bliss]:{future}: {He} {study} {hard} {for} {his} {exams} {month} {next} {.} 
+
+[original]:We will visit the museum next week.
+[bliss]:{future}: {We} {visit} {museum} {week} {next} {.} 
+
+[original]:She is going to walk to school tomorrow morning.
+[bliss]:{future}: {She} {walk} {to} {school} {tomorrow} {morning} {.} 
+
+[original]:They are going to play soccer in the park tomorrow.
+[bliss]:{future}: {They} {play} {soccer} {in} {park} {tomorrow} {.} 
+
+[original]:He is going to visit his grandparents next weekend.
+[bliss]:{future}: {He} {visit} {his} {grandparents} {weekend} {next} {.} 
+
+[original]:We are going to cook dinner together tomorrow night.
+[bliss]:{future}: {We} {cook} {dinner} {tomorrow} {night} {.} 
+
+[original]:I am going to finish reading the book tomorrow.
+[bliss]:{future}: {I} {finish} {read} {book} {tomorrow} {.} 
+
+[original]:The sun is going to set beautifully tomorrow evening.
+[bliss]:{future}: {sun} {set} {tomorrow} {evening} {.} 
+
+[original]:They are going to travel to Europe next summer.
+[bliss]:{future}: {They} {travel} {to} {Europe} {summer} {next} {.} 
+
+[original]:She is going to dance at the party next Friday.
+[bliss]:{future}: {She} {dance} {at} {party} {Friday} {next} {.} 
+
+[original]:He is going to study hard for his exams next month.
+[bliss]:{future}: {He} {study} {for} {his} {exams} {month} {next} {.} 
+
+[original]:We are going to visit the museum next week.
+[bliss]:{future}: {We} {visit} {museum} {week} {next} {.} 
+
+[original]:She will eat breakfast tomorrow morning.
+[bliss]:{future}: {She} {eat} {breakfast} {tomorrow} {morning} {.} 
+
+[original]:They will go to the beach next summer.
+[bliss]:{future}: {They} {go} {to} {beach} {summer} {next} {.} 
+
+[original]:He will finish his homework before dinner.
+[bliss]:{future}: {He} {finish} {his} {homework} {before} {dinner} {.} 
+
+[original]:We will watch a movie together tomorrow night.
+[bliss]:{future}: {We} {watch} {together} {movie} {tomorrow} {night} {.} 
+
+[original]:I will visit my friend next weekend.
+[bliss]:{future}: {I} {visit} {my} {friend} {weekend} {next} {.} 
+
+[original]:The dog will chase the cat around the yard.
+[bliss]:{future}: {dog} {chase} {cat} {around} {yard} {.} 
+
+[original]:They will play soccer after school.
+[bliss]:{future}: {They} {play} {soccer} {after} {school} {.} 
+
+[original]:She will sing a beautiful song at the concert.
+[bliss]:{future}: {She} {sing} {song} {beautiful} {at} {concert} {.} 
+
+[original]:He will cook dinner for his family.
+[bliss]:{future}: {He} {cook} {dinner} {for} {his} {family} {.} 
+
+[original]:We will travel to Europe next year.
+[bliss]:{future}: {We} {travel} {to} {Europe} {year} {next} {.} 
+
+[original]:She is going to eat breakfast tomorrow morning.
+[bliss]:{future}: {She} {eat} {breakfast} {tomorrow} {morning} {.} 
+
+[original]:They are going to go to the beach next summer.
+[bliss]:{future}: {They} {go} {to} {beach} {summer} {next} {.} 
+
+[original]:He is going to finish his homework before dinner.
+[bliss]:{future}: {He} {finish} {his} {homework} {before} {dinner} {.} 
+
+[original]:We are going to watch a movie together tomorrow night.
+[bliss]:{future}: {We} {watch} {movie} {tomorrow} {night} {.} 
+
+[original]:I am going to visit my friend next weekend.
+[bliss]:{future}: {I} {visit} {my} {friend} {weekend} {next} {.} 
+
+[original]:The dog is going to chase the cat around the yard.
+[bliss]:{future}: {dog} {chase} {cat} {around} {yard} {.} 
+
+[original]:They are going to play soccer after school.
+[bliss]:{future}: {They} {play} {soccer} {after} {school} {.} 
+
+[original]:She is going to sing a beautiful song at the concert.
+[bliss]:{future}: {She} {sing} {song} {beautiful} {at} {concert} {.} 
+
+[original]:He is going to cook dinner for his family.
+[bliss]:{future}: {He} {cook} {dinner} {for} {his} {family} {.} 
+
+[original]:We are going to travel to Europe next year.
+[bliss]:{future}: {We} {travel} {to} {Europe} {year} {next} {.} 
+
+[original]:She will walk to school tomorrow.
+[bliss]:{future}: {She} {walk} {to} {school} {tomorrow} {.} 
+
+[original]:They will play soccer in the park tomorrow.
+[bliss]:{future}: {They} {play} {soccer} {in} {park} {tomorrow} {.} 
+
+[original]:He will visit his grandparents next weekend.
+[bliss]:{future}: {He} {visit} {his} {grandparents} {weekend} {next} {.} 
+
+[original]:We will cook dinner together tomorrow night.
+[bliss]:{future}: {We} {cook} {together} {dinner} {tomorrow} {night} {.} 
+
+[original]:I will finish reading the book tomorrow.
+[bliss]:{future}: {I} {finish} {read} {book} {tomorrow} {.} 
+
+[original]:The sun will rise early tomorrow morning.
+[bliss]:{future}: {sun} {rise} {tomorrow} {morning} {.} 
+
+[original]:They are going to travel to Europe next summer.
+[bliss]:{future}: {They} {travel} {to} {Europe} {summer} {next} {.} 
+
+[original]:She is going to dance at the party next Friday.
+[bliss]:{future}: {She} {dance} {at} {party} {Friday} {next} {.} 
+
+[original]:He is going to study hard for his exams next month.
+[bliss]:{future}: {He} {study} {for} {his} {exams} {month} {next} {.} 
+
+[original]:We are going to visit the museum next week.
+[bliss]:{future}: {We} {visit} {museum} {week} {next} {.} 
+
+[original]:She will wake up early tomorrow morning.
+[bliss]:{future}: {She} {wake} {up} {tomorrow} {morning} {early} {.} 
+
+[original]:They will play basketball tomorrow.
+[bliss]:{future}: {They} {play} {basketball} {tomorrow} {.} 
+
+[original]:He will visit his grandparents next week.
+[bliss]:{future}: {He} {visit} {his} {grandparents} {week} {next} {.} 
+
+[original]:We will finish our project by next month.
+[bliss]:{future}: {We} {finish} {our} {project} {by} {month} {next} {.} 
+
+[original]:I will travel to Paris next summer.
+[bliss]:{future}: {I} {travel} {to} {Paris} {summer} {next} {.} 
+
+[original]:The sun will set beautifully tomorrow evening.
+[bliss]:{future}: {sun} {set} {beautifully} {tomorrow} {evening} {.} 
+
+[original]:They will dance at the party next Friday.
+[bliss]:{future}: {They} {dance} {at} {party} {Friday} {next} {.} 
+
+[original]:She will study hard for her exams next month.
+[bliss]:{future}: {She} {study} {hard} {for} {her} {exams} {month} {next} {.} 
+
+[original]:He will cook dinner for his family tomorrow.
+[bliss]:{future}: {He} {cook} {dinner} {for} {his} {family} {tomorrow} {.} 
+
+[original]:We will go camping next year.
+[bliss]:{future}: {We} {go} {camping} {year} {next} {.} 
+
+[original]:She is going to wake up early tomorrow morning.
+[bliss]:{future}: {She} {wake} {up} {tomorrow} {morning} {early} {.} 
+
+[original]:They are going to play soccer in the park tomorrow.
+[bliss]:{future}: {They} {play} {soccer} {in} {park} {tomorrow} {.} 
+
+[original]:He is going to visit his grandparents next weekend.
+[bliss]:{future}: {He} {visit} {his} {grandparents} {weekend} {next} {.} 
+
+[original]:We are going to cook dinner together tomorrow night.
+[bliss]:{future}: {We} {cook} {dinner} {tomorrow} {night} {.} 
+
+[original]:I am going to finish reading the book tomorrow.
+[bliss]:{future}: {I} {finish} {read} {book} {tomorrow} {.} 
+
+[original]:The sun is going to shine brightly tomorrow.
+[bliss]:{future}: {sun} {shine} {tomorrow} {.} 
+
+[original]:They are going to travel to Europe next summer.
+[bliss]:{future}: {They} {travel} {to} {Europe} {summer} {next} {.} 
+
+[original]:She is going to dance at the party next Friday.
+[bliss]:{future}: {She} {dance} {at} {party} {Friday} {next} {.} 
+
+[original]:He is going to study hard for his exams next month.
+[bliss]:{future}: {He} {study} {for} {his} {exams} {month} {next} {.} 
+
+[original]:We are going to visit the museum next week.
+[bliss]:{future}: {We} {visit} {museum} {week} {next} {.} 
+
+[original]:She will study at the library tomorrow.
+[bliss]:{future}: {She} {study} {at} {library} {tomorrow} {.} 
+
+[original]:They will go for a hike next weekend.
+[bliss]:{future}: {They} {go} {for} {hike} {weekend} {next} {.} 
+
+[original]:He will finish his dinner early tomorrow night.
+[bliss]:{future}: {He} {finish} {his} {dinner} {tomorrow} {night} {early} {.} 
+
+[original]:We will visit the zoo next month.
+[bliss]:{future}: {We} {visit} {zoo} {month} {next} {.} 
+
+[original]:I will cook spaghetti for dinner tomorrow.
+[bliss]:{future}: {I} {cook} {spaghetti} {for} {dinner} {tomorrow} {.} 
+
+[original]:The movie will premiere next week.
+[bliss]:{future}: {movie} {premiere} {week} {next} {.} 
+
+[original]:They are planning to travel to Japan next summer.
+[bliss]:{presentprogressive}: {They} {be} {plan} {to} {travel} {to} {Japan} {summer} {next} {.} 
+
+[original]:She will dance at the party next Friday.
+[bliss]:{future}: {She} {dance} {at} {party} {Friday} {next} {.} 
+
+[original]:He will play the piano at the concert next week.
+[bliss]:{future}: {He} {play} {piano} {at} {concert} {week} {next} {.} 
+
+[original]:We will solve the puzzle tomorrow.
+[bliss]:{future}: {We} {solve} {puzzle} {tomorrow} {.} 
+
+[original]:She is going to wake up early tomorrow morning.
+[bliss]:{future}: {She} {wake} {up} {tomorrow} {morning} {early} {.} 
+
+[original]:They are going to play basketball at the park next weekend.
+[bliss]:{future}: {They} {play} {basketball} {at} {park} {weekend} {next} {.} 
+
+[original]:He is going to visit his aunt next week.
+[bliss]:{future}: {He} {visit} {his} {aunt} {week} {next} {.} 
+
+[original]:We are going to clean the house tomorrow.
+[bliss]:{future}: {We} {clean} {house} {tomorrow} {.} 
+
+[original]:I am going to watch a movie with my friends tomorrow evening.
+[bliss]:{future}: {I} {watch} {movie} {with} {my} {friends} {tomorrow} {evening} {.} 
+
+[original]:The sun is going to set beautifully tomorrow.
+[bliss]:{future}: {sun} {set} {tomorrow} {.} 
+
+[original]:They are going to have a barbecue in their backyard next weekend.
+[bliss]:{future}: {They} {have} {in} {barbecue} {their} {backyard} {weekend} {next} {.} 
+
+[original]:She is going to finish her homework tomorrow.
+[bliss]:{future}: {She} {finish} {her} {homework} {tomorrow} {.} 
+
+[original]:He is going to go for a run tomorrow morning.
+[bliss]:{future}: {He} {go} {for} {run} {tomorrow} {morning} {.} 
+
+[original]:We are going to attend a party next weekend.
+[bliss]:{future}: {We} {attend} {party} {weekend} {next} {.} 
+
+[original]:She will wake up early tomorrow morning.
+[bliss]:{future}: {She} {wake} {up} {tomorrow} {morning} {early} {.} 
+
+[original]:They will play basketball at the park tomorrow.
+[bliss]:{future}: {They} {play} {basketball} {at} {park} {tomorrow} {.} 
+
+[original]:He will visit his aunt tomorrow.
+[bliss]:{future}: {He} {visit} {his} {aunt} {tomorrow} {.} 
+
+[original]:We will clean the house tomorrow.
+[bliss]:{future}: {We} {clean} {house} {tomorrow} {.} 
+
+[original]:I will watch a movie with my friends tomorrow evening.
+[bliss]:{future}: {I} {watch} {movie} {with} {my} {friends} {tomorrow} {evening} {.} 
+
+[original]:The sun will set beautifully tomorrow.
+[bliss]:{future}: {sun} {set} {beautifully} {tomorrow} {.} 
+
+[original]:They will have a barbecue in their backyard tomorrow.
+[bliss]:{future}: {They} {have} {barbecue} {in} {their} {backyard} {tomorrow} {.} 
+
+[original]:She will finish her homework tomorrow.
+[bliss]:{future}: {She} {finish} {her} {homework} {tomorrow} {.} 
+
+[original]:He will go for a run tomorrow morning.
+[bliss]:{future}: {He} {go} {for} {run} {tomorrow} {morning} {.} 
+
+[original]:We will attend a party tomorrow night.
+[bliss]:{future}: {We} {attend} {party} {tomorrow} {night} {.} 
+
+[original]:She is going to wake up early tomorrow morning.
+[bliss]:{future}: {She} {wake} {up} {tomorrow} {morning} {early} {.} 
+
+[original]:They are going to play basketball at the park tomorrow.
+[bliss]:{future}: {They} {play} {basketball} {at} {park} {tomorrow} {.} 
+
+[original]:He is going to visit his aunt tomorrow.
+[bliss]:{future}: {He} {visit} {his} {aunt} {tomorrow} {.} 
+
+[original]:We are going to clean the house tomorrow.
+[bliss]:{future}: {We} {clean} {house} {tomorrow} {.} 
+
+[original]:I am going to watch a movie with my friends tomorrow evening.
+[bliss]:{future}: {I} {watch} {movie} {with} {my} {friends} {tomorrow} {evening} {.} 
+
+[original]:The sun is going to set beautifully tomorrow.
+[bliss]:{future}: {sun} {set} {tomorrow} {.} 
+
+[original]:They are going to have a barbecue in their backyard tomorrow.
+[bliss]:{future}: {They} {have} {in} {barbecue} {their} {backyard} {tomorrow} {.} 
+
+[original]:She is going to finish her homework tomorrow.
+[bliss]:{future}: {She} {finish} {her} {homework} {tomorrow} {.} 
+
+[original]:He is going to go for a run tomorrow morning.
+[bliss]:{future}: {He} {go} {for} {run} {tomorrow} {morning} {.} 
+
+[original]:We are going to attend a party tomorrow night.
+[bliss]:{future}: {We} {attend} {party} {tomorrow} {night} {.} 
+
+[original]:She will wake up early tomorrow morning.
+[bliss]:{future}: {She} {wake} {up} {tomorrow} {morning} {early} {.} 
+
+[original]:They will play basketball at the park tomorrow.
+[bliss]:{future}: {They} {play} {basketball} {at} {park} {tomorrow} {.} 
+
+[original]:He will visit his aunt tomorrow.
+[bliss]:{future}: {He} {visit} {his} {aunt} {tomorrow} {.} 
+
+[original]:We will clean the house tomorrow.
+[bliss]:{future}: {We} {clean} {house} {tomorrow} {.} 
+
+[original]:I will watch a movie with my friends tomorrow evening.
+[bliss]:{future}: {I} {watch} {movie} {with} {my} {friends} {tomorrow} {evening} {.} 
+
+[original]:The sun will set beautifully tomorrow.
+[bliss]:{future}: {sun} {set} {beautifully} {tomorrow} {.} 
+
+[original]:They will have a barbecue in their backyard tomorrow.
+[bliss]:{future}: {They} {have} {barbecue} {in} {their} {backyard} {tomorrow} {.} 
+
+[original]:She will finish her homework tomorrow.
+[bliss]:{future}: {She} {finish} {her} {homework} {tomorrow} {.} 
+
+[original]:He will go for a run tomorrow morning.
+[bliss]:{future}: {He} {go} {for} {run} {tomorrow} {morning} {.} 
+
+[original]:We will attend a party tomorrow night.
+[bliss]:{future}: {We} {attend} {party} {tomorrow} {night} {.} 
+
+[original]:She will wake up early tomorrow morning.
+[bliss]:{future}: {She} {wake} {up} {tomorrow} {morning} {early} {.} 
+
+[original]:They will play basketball at the park tomorrow.
+[bliss]:{future}: {They} {play} {basketball} {at} {park} {tomorrow} {.} 
+
+[original]:He will visit his aunt tomorrow.
+[bliss]:{future}: {He} {visit} {his} {aunt} {tomorrow} {.} 
+
+[original]:We will clean the house tomorrow.
+[bliss]:{future}: {We} {clean} {house} {tomorrow} {.} 
+
+[original]:I will watch a movie with my friends tomorrow evening.
+[bliss]:{future}: {I} {watch} {movie} {with} {my} {friends} {tomorrow} {evening} {.} 
+
+[original]:The sun will set beautifully tomorrow.
+[bliss]:{future}: {sun} {set} {beautifully} {tomorrow} {.} 
+
+[original]:They will have a barbecue in their backyard tomorrow.
+[bliss]:{future}: {They} {have} {barbecue} {in} {their} {backyard} {tomorrow} {.} 
+
+[original]:She will finish her homework tomorrow.
+[bliss]:{future}: {She} {finish} {her} {homework} {tomorrow} {.} 
+
+[original]:He will go for a run tomorrow morning.
+[bliss]:{future}: {He} {go} {for} {run} {tomorrow} {morning} {.} 
+
+[original]:We will attend a party tomorrow night.
+[bliss]:{future}: {We} {attend} {party} {tomorrow} {night} {.} 
+
+[original]:She will walk to school tomorrow.
+[bliss]:{future}: {She} {walk} {to} {school} {tomorrow} {.} 
+
+[original]:He will eat breakfast early tomorrow morning.
+[bliss]:{future}: {He} {eat} {breakfast} {tomorrow} {morning} {.} 
+
+[original]:They will watch a movie tomorrow night.
+[bliss]:{future}: {They} {watch} {movie} {tomorrow} {night} {.} 
+
+[original]:I will visit my grandparents next weekend.
+[bliss]:{future}: {I} {visit} {my} {grandparents} {weekend} {next} {.} 
+
+[original]:We will play soccer after school tomorrow.
+[bliss]:{future}: {We} {play} {soccer} {after} {school} {tomorrow} {.} 
+
+[original]:The sun will shine brightly tomorrow.
+[bliss]:{future}: {sun} {shine} {brightly} {tomorrow} {.} 
+
+[original]:He will finish his homework before dinner tomorrow.
+[bliss]:{future}: {He} {finish} {his} {homework} {before} {dinner} {tomorrow} {.} 
+
+[original]:They will go swimming at the beach next summer.
+[bliss]:{future}: {They} {go} {swim} {at} {beach} {summer} {next} {.} 
+
+[original]:She will cook dinner for her family tomorrow.
+[bliss]:{future}: {She} {cook} {dinner} {for} {her} {family} {tomorrow} {.} 
+
+[original]:The cat will sleep all day tomorrow.
+[bliss]:{future}: {cat} {sleep} {day} {tomorrow} {.} 
+
+[original]:He will run five miles tomorrow morning.
+[bliss]:{future}: {He} {run} {miles} {tomorrow} {morning} {.} 
+
+[original]:They will clean the house next weekend.
+[bliss]:{future}: {They} {clean} {house} {weekend} {next} {.} 
+
+[original]:I will read a book before going to bed tomorrow night.
+[bliss]:{future}: {I} {read} {book} {before} {go} {to} {bed} {tomorrow} {night} {.} 
+
+[original]:We will visit the museum next month.
+[bliss]:{future}: {We} {visit} {museum} {month} {next} {.} 
+
+[original]:She will buy a new dress next week.
+[bliss]:{future}: {She} {buy} {dress} {new} {week} {next} {.} 
+
+[original]:He will ride his bike to work tomorrow.
+[bliss]:{future}: {He} {ride} {his} {bike} {to} {work} {tomorrow} {.} 
+
+[original]:They will dance at the party tomorrow night.
+[bliss]:{future}: {They} {dance} {at} {party} {tomorrow} {night} {.} 
+
+[original]:I will graduate from college in the future.
+[bliss]:{future}: {I} {graduate} {from} {college} {in} {future} {.} 
+
+[original]:We will go on a road trip next summer.
+[bliss]:{future}: {We} {go} {on} {road} {trip} {summer} {next} {.} 
+
+[original]:She will paint a beautiful picture tomorrow night.
+[bliss]:{future}: {She} {paint} {picture} {beautiful} {tomorrow} {night} {.} 
+
+[original]:He will fix the broken window next weekend.
+[bliss]:{future}: {He} {fix} {window} {broken} {weekend} {next} {.} 
+
+[original]:They will sing songs around the campfire tomorrow night.
+[bliss]:{future}: {They} {sing} {songs} {around} {campfire} {tomorrow} {night} {.} 
+
+[original]:I will wake up early tomorrow morning.
+[bliss]:{future}: {I} {wake} {up} {tomorrow} {morning} {early} {.} 
+
+[original]:We will play board games all night tomorrow night.
+[bliss]:{future}: {We} {play} {board} {games} {night} {tomorrow} {night} {.} 
+
+[original]:She will bake cookies for her friends tomorrow.
+[bliss]:{future}: {She} {bake} {cookies} {for} {her} {friends} {tomorrow} {.} 
+
+[original]:He will travel to Europe next summer.
+[bliss]:{future}: {He} {travel} {to} {Europe} {summer} {next} {.} 
+
+[original]:They will attend a concert tomorrow night.
+[bliss]:{future}: {They} {attend} {concert} {tomorrow} {night} {.} 
+
+[original]:I will finish reading the book next week.
+[bliss]:{future}: {I} {finish} {read} {book} {week} {next} {.} 
+
+[original]:We will go fishing at the lake next weekend.
+[bliss]:{future}: {We} {go} {fish} {at} {lake} {weekend} {next} {.} 
+
+[original]:She will practice the piano for hours tomorrow.
+[bliss]:{future}: {She} {practice} {piano} {for} {hours} {tomorrow} {.} 
+
+[original]:He will clean his room tomorrow.
+[bliss]:{future}: {He} {clean} {his} {room} {tomorrow} {.} 
+
+[original]:They will plant flowers in the garden next spring.
+[bliss]:{future}: {They} {plant} {flowers} {in} {garden} {spring} {next} {.} 
+
+[original]:I will watch a documentary on TV tomorrow night.
+[bliss]:{future}: {I} {watch} {on} {documentary} {TV} {tomorrow} {night} {.} 
+
+[original]:We will have a barbecue in the backyard next weekend.
+[bliss]:{future}: {We} {have} {barbecue} {in} {backyard} {weekend} {next} {.} 
+
+[original]:She will study for her exams next week.
+[bliss]:{future}: {She} {study} {for} {her} {exams} {week} {next} {.} 
+
+[original]:He will fix the leaky faucet next weekend.
+[bliss]:{future}: {He} {fix} {faucet} {leaky} {weekend} {next} {.} 
+
+[original]:They will walk in the park tomorrow.
+[bliss]:{future}: {They} {walk} {in} {park} {tomorrow} {.} 
+
+[original]:I will play basketball with my friends tomorrow night.
+[bliss]:{future}: {I} {play} {basketball} {with} {my} {friends} {tomorrow} {night} {.} 
+
+[original]:We will visit the zoo next weekend.
+[bliss]:{future}: {We} {visit} {zoo} {weekend} {next} {.} 
+
+[original]:She will write a letter to her pen pal tomorrow.
+[bliss]:{future}: {She} {write} {letter} {to} {her} {pen} {pal} {tomorrow} {.} 
+
+[original]:He will mow the lawn next week.
+[bliss]:{future}: {He} {mow} {lawn} {week} {next} {.} 
+
+[original]:They will go shopping at the mall next weekend.
+[bliss]:{future}: {They} {go} {shop} {at} {mall} {weekend} {next} {.} 
+
+[original]:I will go for a run tomorrow morning.
+[bliss]:{future}: {I} {go} {for} {run} {tomorrow} {morning} {.} 
+
+[original]:We will watch the sunset at the beach tomorrow night.
+[bliss]:{future}: {We} {watch} {sunset} {at} {beach} {tomorrow} {night} {.} 
+
+[original]:She will finish knitting a sweater next week.
+[bliss]:{future}: {She} {finish} {knit} {sweater} {week} {next} {.} 
+
+[original]:He will cook dinner for his family tomorrow.
+[bliss]:{future}: {He} {cook} {dinner} {for} {his} {family} {tomorrow} {.} 
+
+[original]:They will hike in the mountains next weekend.
+[bliss]:{future}: {They} {hike} {in} {mountains} {weekend} {next} {.} 
+
+[original]:I will clean out the garage next weekend.
+[bliss]:{future}: {I} {clean} {out} {garage} {weekend} {next} {.} 
+
+[original]:We will have a picnic in the park next weekend.
+[bliss]:{future}: {We} {have} {in} {picnic} {park} {weekend} {next} {.} 
+
+[original]:She will paint her nails tomorrow.
+[bliss]:{future}: {She} {paint} {her} {nails} {tomorrow} {.} 
+
+[original]:He will read a book in the garden tomorrow.
+[bliss]:{future}: {He} {read} {book} {in} {garden} {tomorrow} {.} 
+
+[original]:They will play soccer in the park tomorrow.
+[bliss]:{future}: {They} {play} {soccer} {in} {park} {tomorrow} {.} 
+
+[original]:I will attend a party next weekend.
+[bliss]:{future}: {I} {attend} {party} {weekend} {next} {.} 
+
+[original]:We will ride bikes around the neighborhood next weekend.
+[bliss]:{future}: {We} {ride} {around} {bikes} {neighborhood} {weekend} {next} {.} 
+
+[original]:She will watch a movie with her friends tomorrow night.
+[bliss]:{future}: {She} {watch} {movie} {with} {her} {friends} {tomorrow} {night} {.} 
+
+[original]:He will go for a swim at the pool tomorrow.
+[bliss]:{future}: {He} {go} {for} {at} {swim} {pool} {tomorrow} {.} 
+
+[original]:They will go for a hike in the forest tomorrow.
+[bliss]:{future}: {They} {go} {for} {in} {hike} {forest} {tomorrow} {.} 
+
+[original]:I will visit my aunt next weekend.
+[bliss]:{future}: {I} {visit} {my} {aunt} {weekend} {next} {.} 
+
+[original]:We will play video games all day tomorrow.
+[bliss]:{future}: {We} {play} {video} {games} {day} {tomorrow} {.} 
+
+[original]:She will cook a delicious meal tomorrow.
+[bliss]:{future}: {She} {cook} {meal} {delicious} {tomorrow} {.} 
+
+[original]:He will ride his skateboard to the park tomorrow.
+[bliss]:{future}: {He} {ride} {his} {skateboard} {to} {park} {tomorrow} {.} 
+
+[original]:They will have a barbecue in the backyard tomorrow.
+[bliss]:{future}: {They} {have} {barbecue} {in} {backyard} {tomorrow} {.} 
+
+[original]:I will go camping with my family next weekend.
+[bliss]:{future}: {I} {go} {camp} {with} {my} {family} {weekend} {next} {.} 
+
+[original]:We will go to the beach next weekend.
+[bliss]:{future}: {We} {go} {to} {beach} {weekend} {next} {.} 
+
+[original]:She will practice yoga in the morning tomorrow.
+[bliss]:{future}: {She} {practice} {yoga} {in} {morning} {tomorrow} {.} 
+
+[original]:He will listen to music in his room tomorrow.
+[bliss]:{future}: {He} {listen} {to} {music} {in} {his} {room} {tomorrow} {.} 
+
+[original]:They will have a sleepover at their friend's house next weekend.
+[bliss]:{future}: {They} {have} {sleepover} {at} {their} {friend} {house} {weekend} {next} {.} 
+
+[original]:I will go for a bike ride tomorrow.
+[bliss]:{future}: {I} {go} {for} {bike} {ride} {tomorrow} {.} 
+
+[original]:We will go for a walk in the park tomorrow.
+[bliss]:{future}: {We} {go} {for} {in} {walk} {park} {tomorrow} {.} 
+
+[original]:She will take a nap in the afternoon tomorrow.
+[bliss]:{future}: {She} {take} {nap} {in} {afternoon} {tomorrow} {.} 
+
+[original]:He will play guitar for his friends tomorrow.
+[bliss]:{future}: {He} {play} {guitar} {for} {his} {friends} {tomorrow} {.} 
+
+[original]:They will go for a drive in the countryside tomorrow.
+[bliss]:{future}: {They} {go} {for} {in} {drive} {countryside} {tomorrow} {.} 
+
+[original]:I will visit the library next week.
+[bliss]:{future}: {I} {visit} {library} {week} {next} {.} 
+
+[original]:We will go to a party tomorrow night.
+[bliss]:{future}: {We} {go} {to} {party} {tomorrow} {night} {.} 
+
+[original]:She will swim in the pool tomorrow.
+[bliss]:{future}: {She} {swim} {in} {pool} {tomorrow} {.} 
+
+[original]:He will cook breakfast for his family tomorrow.
+[bliss]:{future}: {He} {cook} {breakfast} {for} {his} {family} {tomorrow} {.} 
+
+[original]:They will watch a movie at home tomorrow.
+[bliss]:{future}: {They} {watch} {movie} {at} {home} {tomorrow} {.} 
+
+[original]:I will play video games with my brother tomorrow.
+[bliss]:{future}: {I} {play} {video} {games} {with} {my} {brother} {tomorrow} {.} 
+
+[original]:We will go to the amusement park next weekend.
+[bliss]:{future}: {We} {go} {to} {amusement} {park} {weekend} {next} {.} 
+
+[original]:She will go shopping with her friends tomorrow.
+[bliss]:{future}: {She} {go} {shop} {with} {her} {friends} {tomorrow} {.} 
+
+[original]:He will ride his bike to school tomorrow.
+[bliss]:{future}: {He} {ride} {his} {bike} {to} {school} {tomorrow} {.} 
+
+[original]:They will visit their grandparents next weekend.
+[bliss]:{future}: {They} {visit} {their} {grandparents} {weekend} {next} {.} 
+
+[original]:I will clean my room tomorrow.
+[bliss]:{future}: {I} {clean} {my} {room} {tomorrow} {.} 
+
+[original]:We will have a picnic in the backyard next weekend.
+[bliss]:{future}: {We} {have} {in} {picnic} {backyard} {weekend} {next} {.} 
+
+[original]:She will read a book in the garden tomorrow.
+[bliss]:{future}: {She} {read} {book} {in} {garden} {tomorrow} {.} 
+
+[original]:He will play soccer with his friends tomorrow.
+[bliss]:{future}: {He} {play} {soccer} {with} {his} {friends} {tomorrow} {.} 
+
+[original]:They will have a barbecue at the beach tomorrow.
+[bliss]:{future}: {They} {have} {barbecue} {at} {beach} {tomorrow} {.} 
+
+[original]:I will go for a swim in the lake tomorrow.
+[bliss]:{future}: {I} {go} {for} {in} {swim} {lake} {tomorrow} {.} 
+
+[original]:We will watch the sunset at the park next weekend.
+[bliss]:{future}: {We} {watch} {sunset} {at} {park} {weekend} {next} {.} 
+
+[original]:She will go hiking with her friends tomorrow.
+[bliss]:{future}: {She} {go} {hike} {with} {her} {friends} {tomorrow} {.} 
+
+[original]:He will ride his skateboard at the skate park tomorrow.
+[bliss]:{future}: {He} {ride} {his} {skateboard} {at} {skate} {park} {tomorrow} {.} 
+
+[original]:They will have a picnic in the forest tomorrow.
+[bliss]:{future}: {They} {have} {in} {picnic} {forest} {tomorrow} {.} 
+
+[original]:I will visit the museum next weekend.
+[bliss]:{future}: {I} {visit} {museum} {weekend} {next} {.} 
+
+[original]:We will go to a concert tomorrow night.
+[bliss]:{future}: {We} {go} {to} {concert} {tomorrow} {night} {.} 
+
+[original]:She will play tennis with her friends tomorrow.
+[bliss]:{future}: {She} {play} {tennis} {with} {her} {friends} {tomorrow} {.} 
+
+[original]:He will go fishing with his dad tomorrow.
+[bliss]:{future}: {He} {go} {fish} {with} {his} {dad} {tomorrow} {.} 
+
+[original]:They will have a barbecue in the park tomorrow.
+[bliss]:{future}: {They} {have} {in} {barbecue} {park} {tomorrow} {.} 
+
+[original]:I will go for a jog in the morning tomorrow.
+[bliss]:{future}: {I} {go} {for} {in} {jog} {morning} {tomorrow} {.} 
+
+[original]:We will have a bonfire at the beach next weekend.
+[bliss]:{future}: {We} {have} {at} {bonfire} {beach} {weekend} {next} {.} 
+
+[original]:She will go for a bike ride in the countryside tomorrow.
+[bliss]:{future}: {She} {go} {for} {bike} {in} {ride} {countryside} {tomorrow} {.} 
+
+[original]:She will walk to the store tomorrow.
+[bliss]:{future}: {She} {walk} {to} {store} {tomorrow} {.} 
+
+[original]:They will play soccer after school.
+[bliss]:{future}: {They} {play} {soccer} {after} {school} {.} 
+
+[original]:He will study for his exam all night.
+[bliss]:{future}: {He} {study} {for} {his} {exam} {night} {.} 
+
+[original]:We will visit Paris next summer.
+[bliss]:{future}: {We} {visit} {Paris} {summer} {next} {.} 
+
+[original]:The cat will chase the mouse around the house.
+[bliss]:{future}: {cat} {chase} {mouse} {around} {house} {.} 
+
+[original]:I will finish my homework before dinner.
+[bliss]:{future}: {I} {finish} {my} {homework} {before} {dinner} {.} 
+
+[original]:She will cook dinner for her family.
+[bliss]:{future}: {She} {cook} {dinner} {for} {her} {family} {.} 
+
+[original]:They will watch a movie at the cinema.
+[bliss]:{future}: {They} {watch} {movie} {at} {cinema} {.} 
+
+[original]:He will run a marathon next month.
+[bliss]:{future}: {He} {run} {marathon} {month} {next} {.} 
+
+[original]:We will go camping in the mountains.
+[bliss]:{future}: {We} {go} {in} {camping} {mountains} {.} 
+
+[original]:The sun will set over the horizon.
+[bliss]:{future}: {sun} {set} {over} {horizon} {.} 
+
+[original]:I will read a book in bed tomorrow night.
+[bliss]:{future}: {I} {read} {book} {in} {bed} {tomorrow} {night} {.} 
+
+[original]:She will paint her bedroom walls blue.
+[bliss]:{future}: {She} {paint} {her} {bedroom} {walls} {.} 
+
+[original]:They will visit their grandparents over the holidays.
+[bliss]:{future}: {They} {visit} {their} {grandparents} {over} {holidays} {.} 
+
+[original]:He will fix the leaky faucet in the bathroom.
+[bliss]:{future}: {He} {fix} {faucet} {leaky} {in} {bathroom} {.} 
+
+[original]:We will ride bikes through the park.
+[bliss]:{future}: {We} {ride} {bikes} {through} {park} {.} 
+
+[original]:The children will play in the backyard.
+[bliss]:{future}: {children} {play} {in} {backyard} {.} 
+
+[original]:She will dance at her sister's wedding.
+[bliss]:{future}: {She} {dance} {at} {her} {sister} {wedding} {.} 
+
+[original]:They will build a sandcastle at the beach.
+[bliss]:{future}: {They} {build} {at} {sandcastle} {beach} {.} 
+
+[original]:He will wake up early tomorrow morning.
+[bliss]:{future}: {He} {wake} {up} {tomorrow} {morning} {early} {.} 
+
+[original]:I will eat breakfast before leaving for work.
+[bliss]:{future}: {I} {eat} {breakfast} {before} {leave} {for} {work} {.} 
+
+[original]:She will swim in the pool for hours.
+[bliss]:{future}: {She} {swim} {in} {pool} {for} {hours} {.} 
+
+[original]:They will visit the museum downtown.
+[bliss]:{future}: {They} {visit} {museum} {downtown} {.} 
+
+[original]:We will hike up the mountain trail.
+[bliss]:{future}: {We} {hike} {up} {mountain} {trail} {.} 
+
+[original]:The dog will bark at the mailman.
+[bliss]:{future}: {dog} {bark} {at} {mailman} {.} 
+
+[original]:I will drive to the grocery store.
+[bliss]:{future}: {I} {drive} {to} {grocery} {store} {.} 
+
+[original]:She will sing a song at the talent show.
+[bliss]:{future}: {She} {sing} {song} {at} {talent} {show} {.} 
+
+[original]:They will fly to Europe for vacation.
+[bliss]:{future}: {They} {fly} {to} {Europe} {for} {vacation} {.} 
+
+[original]:He will cook dinner on the grill.
+[bliss]:{future}: {He} {cook} {dinner} {on} {grill} {.} 
+
+[original]:We will watch fireworks on the Fourth of July.
+[bliss]:{future}: {We} {watch} {fireworks} {on} {of} {Fourth} {July} {.} 
+
+[original]:The baby will sleep through the night.
+[bliss]:{future}: {baby} {sleep} {through} {night} {.} 
+
+[original]:I will complete the project ahead of schedule.
+[bliss]:{future}: {I} {complete} {ahead} {project} {of} {schedule} {.} 
+
+[original]:She will knit a sweater for her friend.
+[bliss]:{future}: {She} {knit} {sweater} {for} {her} {friend} {.} 
+
+[original]:They will take a road trip across the country.
+[bliss]:{future}: {They} {take} {road} {across} {trip} {country} {.} 
+
+[original]:He will climb to the top of the mountain.
+[bliss]:{future}: {He} {climb} {to} {of} {top} {mountain} {.} 
+
+[original]:We will explore the ancient ruins.
+[bliss]:{future}: {We} {explore} {ruins} {ancient} {.} 
+
+[original]:The train will arrive at the station.
+[bliss]:{future}: {train} {arrive} {at} {station} {.} 
+
+[original]:I will finish reading the novel.
+[bliss]:{future}: {I} {finish} {read} {novel} {.} 
+
+[original]:She will write a letter to her pen pal.
+[bliss]:{future}: {She} {write} {letter} {to} {her} {pen} {pal} {.} 
+
+[original]:They will visit the zoo on Saturday.
+[bliss]:{future}: {They} {visit} {zoo} {on} {Saturday} {.} 
+
+[original]:He will fix the broken window.
+[bliss]:{future}: {He} {fix} {window} {broken} {.} 
+
+[original]:We will play board games by the fireplace.
+[bliss]:{future}: {We} {play} {board} {games} {by} {fireplace} {.} 
+
+[original]:The birds will chirp in the trees.
+[bliss]:{future}: {birds} {chirp} {in} {trees} {.} 
+
+[original]:I will ride my bike to school.
+[bliss]:{future}: {I} {ride} {my} {bike} {to} {school} {.} 
+
+[original]:She will sew a dress for the school play.
+[bliss]:{future}: {She} {sew} {for} {dress} {school} {play} {.} 
+
+[original]:They will plant flowers in the garden.
+[bliss]:{future}: {They} {plant} {flowers} {in} {garden} {.} 
+
+[original]:He will visit his old high school.
+[bliss]:{future}: {He} {visit} {his} {school} {old} {high} {.} 
+
+[original]:We will cook dinner together as a family.
+[bliss]:{future}: {We} {cook} {together} {dinner} {as} {family} {.} 
+
+[original]:The rain will pour down all afternoon.
+[bliss]:{future}: {rain} {pour} {down} {afternoon} {.} 
+
+[original]:I will bake cookies for the bake sale.
+[bliss]:{future}: {I} {bake} {cookies} {for} {bake} {sale} {.} 
+
+[original]:She will walk to the store tomorrow.
+[bliss]:{future}: {She} {walk} {to} {store} {tomorrow} {.} 
+
+[original]:They will play soccer after school.
+[bliss]:{future}: {They} {play} {soccer} {after} {school} {.} 
+
+[original]:He will study for his exam all night.
+[bliss]:{future}: {He} {study} {for} {his} {exam} {night} {.} 
+
+[original]:We will visit our grandparents next weekend.
+[bliss]:{future}: {We} {visit} {our} {grandparents} {weekend} {next} {.} 
+
+[original]:The cat will chase the mouse around the house.
+[bliss]:{future}: {cat} {chase} {mouse} {around} {house} {.} 
+
+[original]:I will finish my homework before dinner.
+[bliss]:{future}: {I} {finish} {my} {homework} {before} {dinner} {.} 
+
+[original]:She will cook dinner for her family.
+[bliss]:{future}: {She} {cook} {dinner} {for} {her} {family} {.} 
+
+[original]:They will watch a movie at the cinema.
+[bliss]:{future}: {They} {watch} {movie} {at} {cinema} {.} 
+
+[original]:He will run a marathon next month.
+[bliss]:{future}: {He} {run} {marathon} {month} {next} {.} 
+
+[original]:We will go swimming at the beach next summer.
+[bliss]:{future}: {We} {go} {swim} {at} {beach} {summer} {next} {.} 
+
+[original]:The sun will set over the horizon.
+[bliss]:{future}: {sun} {set} {over} {horizon} {.} 
+
+[original]:I will read a book in bed tomorrow night.
+[bliss]:{future}: {I} {read} {book} {in} {bed} {tomorrow} {night} {.} 
+
+[original]:She will paint her bedroom walls blue.
+[bliss]:{future}: {She} {paint} {her} {bedroom} {walls} {.} 
+
+[original]:They will travel to Europe for vacation.
+[bliss]:{future}: {They} {travel} {to} {Europe} {for} {vacation} {.} 
+
+[original]:He will fix the leaky faucet in the bathroom.
+[bliss]:{future}: {He} {fix} {faucet} {leaky} {in} {bathroom} {.} 
+
+[original]:We will hike up the mountain trail.
+[bliss]:{future}: {We} {hike} {up} {mountain} {trail} {.} 
+
+[original]:The children will play in the backyard.
+[bliss]:{future}: {children} {play} {in} {backyard} {.} 
+
+[original]:She will dance at her sister's wedding.
+[bliss]:{future}: {She} {dance} {at} {her} {sister} {wedding} {.} 
+
+[original]:They will build a sandcastle at the beach.
+[bliss]:{future}: {They} {build} {at} {sandcastle} {beach} {.} 
+
+[original]:He will wake up early tomorrow morning.
+[bliss]:{future}: {He} {wake} {up} {tomorrow} {morning} {early} {.} 
+
+[original]:I will take a bus to work tomorrow.
+[bliss]:{future}: {I} {take} {bus} {to} {work} {tomorrow} {.} 
+
+[original]:She will swim in the pool for hours.
+[bliss]:{future}: {She} {swim} {in} {pool} {for} {hours} {.} 
+
+[original]:They will visit the museum downtown.
+[bliss]:{future}: {They} {visit} {museum} {downtown} {.} 
+
+[original]:We will explore the ancient ruins.
+[bliss]:{future}: {We} {explore} {ruins} {ancient} {.} 
+
+[original]:The dog will bark at the mailman.
+[bliss]:{future}: {dog} {bark} {at} {mailman} {.} 
+
+[original]:I will drive to the grocery store.
+[bliss]:{future}: {I} {drive} {to} {grocery} {store} {.} 
+
+[original]:She will sing a song at the talent show.
+[bliss]:{future}: {She} {sing} {song} {at} {talent} {show} {.} 
+
+[original]:They will fly to Europe for vacation.
+[bliss]:{future}: {They} {fly} {to} {Europe} {for} {vacation} {.} 
+
+[original]:He will cook dinner on the grill.
+[bliss]:{future}: {He} {cook} {dinner} {on} {grill} {.} 
+
+[original]:We will watch fireworks on the Fourth of July.
+[bliss]:{future}: {We} {watch} {fireworks} {on} {of} {Fourth} {July} {.} 
+
+[original]:The baby will sleep through the night.
+[bliss]:{future}: {baby} {sleep} {through} {night} {.} 
+
+[original]:I will complete the project ahead of schedule.
+[bliss]:{future}: {I} {complete} {ahead} {project} {of} {schedule} {.} 
+
+[original]:She will knit a sweater for her friend.
+[bliss]:{future}: {She} {knit} {sweater} {for} {her} {friend} {.} 
+
+[original]:They will take a road trip across the country.
+[bliss]:{future}: {They} {take} {road} {across} {trip} {country} {.} 
+
+[original]:He will climb to the top of the mountain.
+[bliss]:{future}: {He} {climb} {to} {of} {top} {mountain} {.} 
+
+[original]:We will bake cookies for the bake sale.
+[bliss]:{future}: {We} {bake} {cookies} {for} {bake} {sale} {.} 
+
+[original]:The rain will pour down all afternoon.
+[bliss]:{future}: {rain} {pour} {down} {afternoon} {.} 
+
+[original]:I will write a letter to my friend.
+[bliss]:{future}: {I} {write} {letter} {to} {my} {friend} {.} 
+
+[original]:She will sew a dress for the school play.
+[bliss]:{future}: {She} {sew} {for} {dress} {school} {play} {.} 
+
+[original]:They will plant flowers in the garden.
+[bliss]:{future}: {They} {plant} {flowers} {in} {garden} {.} 
+
+[original]:He will visit his old high school.
+[bliss]:{future}: {He} {visit} {his} {school} {old} {high} {.} 
+
+[original]:We will cook dinner together as a family.
+[bliss]:{future}: {We} {cook} {together} {dinner} {as} {family} {.} 
+
+[original]:The birds will chirp in the trees.
+[bliss]:{future}: {birds} {chirp} {in} {trees} {.} 
+
+[original]:I will ride my bike to school.
+[bliss]:{future}: {I} {ride} {my} {bike} {to} {school} {.} 
+
+[original]:She will buy a new car.
+[bliss]:{future}: {She} {buy} {car} {new} {.} 
+
+[original]:They will play board games by the fireplace.
+[bliss]:{future}: {They} {play} {board} {games} {by} {fireplace} {.} 
+
+[original]:He will receive a gift from his parents.
+[bliss]:{future}: {He} {receive} {from} {gift} {his} {parents} {.} 
+
+[original]:We will attend a concert.
+[bliss]:{future}: {We} {attend} {concert} {.} 
+
+[original]:The wind will blow fiercely.
+[bliss]:{future}: {wind} {blow} {fiercely} {.} 
+
+[original]:I will clean my room tomorrow.
+[bliss]:{future}: {I} {clean} {my} {room} {tomorrow} {.} 
+
+[original]:She will confidently walk to the nearby store tomorrow morning.
+[bliss]:{future}: {She} {walk} {confidently} {to} {store} {nearby} {tomorrow} {morning} {.} 
+
+[original]:They will enthusiastically play soccer after energetic school days.
+[bliss]:{future}: {They} {play} {enthusiastically} {soccer} {after} {school} {days} {energetic} {.} 
+
+[original]:He will studiously study for his important exam all night tomorrow.
+[bliss]:{future}: {He} {study} {studiously} {for} {his} {exam} {important} {night} {tomorrow} {.} 
+
+[original]:We will regularly visit our loving grandparents every cozy weekend.
+[bliss]:{future}: {We} {visit} {regularly} {our} {love} {grandparents} {weekend} {cozy} {.} 
+
+[original]:The playful cat will mischievously chase the startled mouse around the cozy house.
+[bliss]:{future}: {cat} {playful} {chase} {mischievously} {mouse} {startled} {around} {house} {cozy} {.} 
+
+[original]:I will efficiently finish my challenging homework before delicious dinner tomorrow.
+[bliss]:{future}: {I} {finish} {efficiently} {my} {homework} {challenging} {before} {dinner} {delicious} {tomorrow} {.} 
+
+[original]:She will skillfully cook a delectable dinner for her grateful family tomorrow evening.
+[bliss]:{future}: {She} {cook} {skillfully} {dinner} {delectable} {for} {her} {family} {grateful} {tomorrow} {evening} {.} 
+
+[original]:They will quietly watch an entertaining movie at the nearby cinema tomorrow night.
+[bliss]:{future}: {They} {watch} {quietly} {movie} {entertaining} {at} {cinema} {nearby} {tomorrow} {night} {.} 
+
+[original]:He will passionately run a challenging marathon next month.
+[bliss]:{future}: {He} {run} {passionately} {marathon} {challenging} {month} {next} {.} 
+
+[original]:We will happily go swimming at the beautiful beach next sunny summer.
+[bliss]:{future}: {We} {go} {happily} {swim} {at} {beach} {beautiful} {summer} {next} {sunny} {.} 
+
+[original]:The radiant sun will peacefully set over the breathtaking horizon tomorrow.
+[bliss]:{future}: {sun} {radiant} {set} {peacefully} {over} {horizon} {breathtaking} {tomorrow} {.} 
+
+[original]:I will leisurely read an engaging book in bed tomorrow night.
+[bliss]:{future}: {I} {read} {leisurely} {engage} {book} {in} {bed} {tomorrow} {night} {.} 
+
+[original]:She will carefully paint her bedroom walls a soothing bright blue tomorrow.
+[bliss]:{future}: {She} {paint} {carefully} {her} {bedroom} {walls} {soothe} {tomorrow} {.} 
+
+[original]:He will promptly fix the leaky faucet in the gleaming bathroom tomorrow.
+[bliss]:{future}: {He} {fix} {promptly} {faucet} {leaky} {in} {gleam} {bathroom} {tomorrow} {.} 
+
+[original]:We will eagerly hike up the scenic mountain trail every refreshing morning.
+[bliss]:{future}: {We} {hike} {eagerly} {up} {mountain} {trail} {scenic} {morning} {refreshing} {.} 
+
+[original]:The cheerful children will happily play in the spacious backyard every sunny afternoon.
+[bliss]:{future}: {children} {cheerful} {play} {happily} {in} {backyard} {spacious} {afternoon} {sunny} {.} 
+
+[original]:She will gracefully dance at her sister's enchanting wedding next festive occasion.
+[bliss]:{future}: {She} {dance} {gracefully} {at} {her} {sister} {wedding} {enchanting} {next} {occasion} {festive} {.} 
+
+[original]:They will creatively build a majestic sandcastle at the sandy beach every sunny day next summer.
+[bliss]:{future}: {They} {build} {creatively} {sandcastle} {majestic} {at} {beach} {sandy} {day} {sunny} {summer} {next} {.} 
+
+[original]:He will wake up early every misty morning to embrace the new day.
+[bliss]:{future}: {He} {wake} {up} {morning} {misty} {to} {embrace} {day} {new} {.} 
+
+[original]:I will patiently take a crowded bus to work every bustling morning next week.
+[bliss]:{future}: {I} {take} {patiently} {bus} {crowded} {to} {work} {morning} {bustling} {week} {next} {.} 
+
+[original]:She will blissfully swim in the refreshing pool for hours every hot afternoon next summer.
+[bliss]:{future}: {She} {swim} {blissfully} {in} {for} {pool} {refreshing} {hours} {afternoon} {hot} {summer} {next} {.} 
+
+[original]:They will curiously visit the fascinating museum downtown every educational opportunity.
+[bliss]:{future}: {They} {visit} {curiously} {museum} {downtown} {fascinating} {opportunity} {educational} {.} 
+
+[original]:We will bravely explore the ancient, mysterious ruins every adventurous weekend next month.
+[bliss]:{future}: {We} {explore} {bravely} {ruins} {ancient} {mysterious} {weekend} {adventurous} {month} {next} {.} 
+
+[original]:The vigilant dog will fiercely bark at the unsuspecting mailman every busy morning.
+[bliss]:{future}: {dog} {vigilant} {bark} {fiercely} {at} {mailman} {unsuspecting} {morning} {busy} {.} 
+
+[original]:I will cautiously drive to the bustling grocery store every busy weekend next month.
+[bliss]:{future}: {I} {drive} {cautiously} {to} {grocery} {store} {bustling} {weekend} {busy} {month} {next} {.} 
+
+[original]:She will melodiously sing a beautiful song at the talent show every exciting event next month.
+[bliss]:{future}: {She} {sing} {melodiously} {song} {beautiful} {at} {talent} {show} {event} {exciting} {month} {next} {.} 
+
+[original]:He will skillfully cook a savory dinner on the sizzling grill every delicious evening.
+[bliss]:{future}: {He} {cook} {skillfully} {dinner} {savory} {on} {grill} {sizzling} {evening} {delicious} {.} 
+
+[original]:We will joyfully watch spectacular fireworks on the Fourth of July every celebratory year.
+[bliss]:{future}: {We} {watch} {joyfully} {fireworks} {spectacular} {on} {of} {Fourth} {July} {year} {celebratory} {.} 
+
+[original]:The peaceful baby will quietly sleep through the calm night every cozy evening next month.
+[bliss]:{future}: {baby} {peaceful} {sleep} {quietly} {through} {night} {calm} {evening} {cozy} {month} {next} {.} 
+
+[original]:I will efficiently complete the challenging project ahead of schedule every productive day next week.
+[bliss]:{future}: {I} {complete} {efficiently} {ahead} {project} {challenging} {of} {schedule} {day} {productive} {week} {next} {.} 
+
+[original]:She will lovingly knit a warm sweater for her grateful friend every chilly season.
+[bliss]:{future}: {She} {knit} {lovingly} {sweater} {warm} {for} {her} {friend} {grateful} {season} {chilly} {.} 
+
+[original]:They will leisurely take a scenic road trip across the vast country every adventurous summer.
+[bliss]:{future}: {They} {take} {leisurely} {road} {trip} {scenic} {across} {country} {vast} {summer} {adventurous} {.} 
+
+[original]:He will courageously climb to the breathtaking top of the tall mountain every adventurous weekend next month.
+[bliss]:{future}: {He} {climb} {courageously} {to} {of} {top} {breathtaking} {tall} {mountain} {tall} {weekend} {adventurous} {month} {next} {.} 
+
+[original]:We will enthusiastically bake delicious cookies for the successful bake sale every festive occasion next month.
+[bliss]:{future}: {We} {bake} {enthusiastically} {cookies} {delicious} {for} {bake} {sale} {successful} {occasion} {festive} {month} {next} {.} 
+
+[original]:The relentless rain will pour down heavily all afternoon every gloomy day next week.
+[bliss]:{future}: {rain} {relentless} {pour} {heavily} {down} {afternoon} {day} {gloomy} {week} {next} {.} 
+
+[original]:I will quickly write a heartfelt letter to my distant friend every peaceful afternoon next week.
+[bliss]:{future}: {I} {write} {quickly} {letter} {heartfelt} {to} {my} {friend} {distant} {afternoon} {peaceful} {week} {next} {.} 
+
+[original]:She will carefully sew a beautiful dress for the exciting school play every exciting occasion next month.
+[bliss]:{future}: {She} {sew} {carefully} {for} {dress} {beautiful} {exciting} {exciting} {school} {play} {exciting} {exciting} {occasion} {exciting} {month} {next} {.} 
+
+[original]:They will lovingly plant colorful flowers in the flourishing garden every bright spring next year.
+[bliss]:{future}: {They} {plant} {lovingly} {flowers} {colorful} {in} {flourish} {garden} {spring} {bright} {year} {next} {.} 
+
+[original]:He will nostalgically visit his old high school for the reunion every memorable year next month.
+[bliss]:{future}: {He} {visit} {nostalgically} {his} {school} {old} {high} {for} {reunion} {year} {memorable} {month} {next} {.} 
+
+[original]:We will joyfully cook a hearty dinner together as a happy family every peaceful evening next month.
+[bliss]:{future}: {We} {cook} {joyfully} {together} {dinner} {hearty} {as} {family} {happy} {evening} {peaceful} {month} {next} {.} 
+
+[original]:The cheerful birds will happily chirp in the lush, green trees every bright morning next week.
+[bliss]:{future}: {birds} {cheerful} {chirp} {happily} {in} {trees} {lush} {green} {morning} {bright} {week} {next} {.} 
+
+[original]:I will cheerfully ride my trusty bike to school every sunny morning next month.
+[bliss]:{future}: {I} {ride} {cheerfully} {my} {bike} {trusty} {to} {school} {morning} {sunny} {month} {next} {.} 
+
+[original]:She will excitedly buy a shiny new car every exciting year.
+[bliss]:{future}: {She} {buy} {excitedly} {car} {shiny} {new} {year} {exciting} {.} 
+
+[original]:They will merrily play engaging board games by the cozy fireplace every cozy evening next month.
+[bliss]:{future}: {They} {play} {merrily} {engage} {board} {by} {games} {cozy} {fireplace} {cozy} {evening} {cozy} {month} {next} {.} 
+
+[original]:He will gratefully receive a thoughtful gift from his loving parents every memorable occasion next month.
+[bliss]:{future}: {He} {receive} {gratefully} {gift} {thoughtful} {from} {his} {love} {parents} {occasion} {memorable} {month} {next} {.} 
+
+[original]:We will enthusiastically attend an entertaining concert every exciting weekend next month.
+[bliss]:{future}: {We} {attend} {enthusiastically} {concert} {entertaining} {weekend} {exciting} {month} {next} {.} 
+
+[original]:The strong wind will fiercely blow through the dark, stormy night every restless evening next month.
+[bliss]:{future}: {wind} {strong} {blow} {fiercely} {through} {night} {dark} {stormy} {evening} {restless} {month} {next} {.} 
+
+[original]:I will diligently clean my cluttered room every peaceful afternoon next week.
+[bliss]:{future}: {I} {clean} {diligently} {my} {room} {cluttered} {afternoon} {peaceful} {week} {next} {.} 

@@ -1,0 +1,898 @@
+
+
+[original]:She walks to school every morning.
+[bliss]:{present}: {She} {walk} {to} {school} {morning} {.} 
+
+[original]:They play soccer in the park today.
+[bliss]:{present}: {They} {play} {soccer} {in} {park} {today} {.} 
+
+[original]:He visits his grandparents every weekend.
+[bliss]:{present}: {He} {visit} {his} {grandparents} {weekend} {.} 
+
+[original]:We cook dinner together every night.
+[bliss]:{present}: {We} {cook} {together} {dinner} {night} {.} 
+
+[original]:I am reading the book today.
+[bliss]:{presentprogressive}: {I} {be} {read} {book} {today} {.} 
+
+[original]:The sun is setting beautifully this evening.
+[bliss]:{presentprogressive}: {sun} {be} {set}beautifully {evening} {.} 
+
+[original]:They are traveling to Europe this summer.
+[bliss]:{presentprogressive}: {They} {be} {travel} {to} {Europe} {summer} {.} 
+
+[original]:She dances at the party every Friday.
+[bliss]:{present}: {She} {dance} {at} {party} {Friday} {.} 
+
+[original]:He studies hard for his exams this month.
+[bliss]:{present}: {He} {study} {for} {his} {exams} {month} {.} 
+
+[original]:We visit the museum every week.
+[bliss]:{present}: {We} {visit} {museum} {week} {.} 
+
+[original]:She eats breakfast every morning.
+[bliss]:{present}: {She} {eat} {breakfast} {morning} {.} 
+
+[original]:They go to the beach every summer.
+[bliss]:{present}: {They} {go} {to} {beach} {summer} {.} 
+
+[original]:He finishes his homework before dinner.
+[bliss]:{present}: {He} {finish} {his} {homework} {before} {dinner} {.} 
+
+[original]:We watch a movie together every night.
+[bliss]:{present}: {We} {watch} {together} {movie} {night} {.} 
+
+[original]:I visit my friend regularly.
+[bliss]:{present}: {I} {visit} {regularly} {my} {friend} {.} 
+
+[original]:The dog chases the cat around the yard.
+[bliss]:{present}: {dog} {chase} {cat} {around} {yard} {.} 
+
+[original]:They play soccer after school.
+[bliss]:{present}: {They} {play} {soccer} {after} {school} {.} 
+
+[original]:She sings a beautiful song at the concert.
+[bliss]:{present}: {She} {sing} {song} {beautiful} {at} {concert} {.} 
+
+[original]:He cooks dinner for his family.
+[bliss]:{present}: {He} {cook} {for} {dinner} {his} {family} {.} 
+
+[original]:We travel to Europe every year.
+[bliss]:{present}: {We} {travel} {to} {Europe} {year} {.} 
+
+[original]:They are playing soccer in the park today.
+[bliss]:{presentprogressive}: {They} {be} {play} {soccer} {in} {park} {today} {.} 
+
+[original]:He visits his grandparents every weekend.
+[bliss]:{present}: {He} {visit} {his} {grandparents} {weekend} {.} 
+
+[original]:We cook dinner together every night.
+[bliss]:{present}: {We} {cook} {together} {dinner} {night} {.} 
+
+[original]:I am reading the book right now.
+[bliss]:{presentprogressive}: {I} {be} {read}now {book} {.} 
+
+[original]:The sun is shining brightly today.
+[bliss]:{presentprogressive}: {sun} {be} {shine}brightly {today} {.} 
+
+[original]:They travel to Europe every summer.
+[bliss]:{present}: {They} {travel} {to} {Europe} {summer} {.} 
+
+[original]:She dances at the party every Friday.
+[bliss]:{present}: {She} {dance} {at} {party} {Friday} {.} 
+
+[original]:He studies hard for his exams every month.
+[bliss]:{present}: {He} {study} {for} {his} {exams} {month} {.} 
+
+[original]:We visit the museum every week.
+[bliss]:{present}: {We} {visit} {museum} {week} {.} 
+
+[original]:She is studying at the library right now.
+[bliss]:{presentprogressive}: {She} {be} {study}now {at} {library} {.} 
+
+[original]:They are going for a hike this weekend.
+[bliss]:{presentprogressive}: {They} {be} {go} {for} {hike} {weekend} {.} 
+
+[original]:He finishes his dinner early every night.
+[bliss]:{present}: {He} {finish} {his} {dinner} {night} {.} 
+
+[original]:We visit the zoo every month.
+[bliss]:{present}: {We} {visit} {zoo} {month} {.} 
+
+[original]:I am cooking spaghetti for dinner tonight.
+[bliss]:{presentprogressive}: {I} {be} {cook} {spaghetti} {for} {dinner} {tonight} {.} 
+
+[original]:The movie is playing at the theater right now.
+[bliss]:{presentprogressive}: {movie} {be} {play}now {at} {theater} {.} 
+
+[original]:They are planning to travel to Japan this summer.
+[bliss]:{presentprogressive}: {They} {be} {plan} {to} {travel} {to} {Japan} {summer} {.} 
+
+[original]:She dances every Friday evening.
+[bliss]:{present}: {She} {dance} {Friday} {evening} {.} 
+
+[original]:He plays the piano at the concert every week.
+[bliss]:{present}: {He} {play} {piano} {at} {concert} {week} {.} 
+
+[original]:We are solving a puzzle right now.
+[bliss]:{presentprogressive}: {We} {be} {solve}now {puzzle} {.} 
+
+[original]:She wakes up early every morning.
+[bliss]:{present}: {She} {wake} {up} {morning} {.} 
+
+[original]:They play basketball at the park every weekend.
+[bliss]:{present}: {They} {play} {basketball} {at} {park} {weekend} {.} 
+
+[original]:He visits his aunt regularly.
+[bliss]:{present}: {He} {visit} {regularly} {his} {aunt} {.} 
+
+[original]:We clean the house every week.
+[bliss]:{present}: {We} {clean} {house} {week} {.} 
+
+[original]:I watch a movie with my friends every Friday night.
+[bliss]:{present}: {I} {watch} {movie} {with} {my} {friends} {Friday} {night} {.} 
+
+[original]:The sun shines brightly every day.
+[bliss]:{present}: {sun} {shine} {brightly} {day} {.} 
+
+[original]:They have a barbecue in their backyard every summer.
+[bliss]:{present}: {They} {have} {barbecue} {in} {their} {backyard} {summer} {.} 
+
+[original]:She finishes her homework on time every day.
+[bliss]:{present}: {She} {finish} {her} {homework} {on} {time} {day} {.} 
+
+[original]:He goes for a run every morning.
+[bliss]:{present}: {He} {go} {for} {run} {morning} {.} 
+
+[original]:We attend parties occasionally.
+[bliss]:{present}: {We} {attend} {occasionally} {parties} {.} 
+
+[original]:She walks to school every day.
+[bliss]:{present}: {She} {walk} {to} {school} {day} {.} 
+
+[original]:He eats breakfast early every morning.
+[bliss]:{present}: {He} {eat} {breakfast} {morning} {.} 
+
+[original]:They watch a movie every night.
+[bliss]:{present}: {They} {watch} {movie} {night} {.} 
+
+[original]:I visit my grandparents every weekend.
+[bliss]:{present}: {I} {visit} {my} {grandparents} {weekend} {.} 
+
+[original]:We play soccer after school every day.
+[bliss]:{present}: {We} {play} {soccer} {after} {school} {day} {.} 
+
+[original]:The sun shines brightly every day.
+[bliss]:{present}: {sun} {shine} {brightly} {day} {.} 
+
+[original]:He finishes his homework before dinner every day.
+[bliss]:{present}: {He} {finish} {his} {homework} {before} {dinner} {day} {.} 
+
+[original]:They go swimming at the beach every summer.
+[bliss]:{present}: {They} {go} {swim} {at} {beach} {summer} {.} 
+
+[original]:She cooks dinner for her family every day.
+[bliss]:{present}: {She} {cook} {for} {dinner} {her} {family} {day} {.} 
+
+[original]:The cat sleeps all day every day.
+[bliss]:{present}: {cat} {sleep} {day} {day} {.} 
+
+[original]:He runs five miles every morning.
+[bliss]:{present}: {He} {run} {miles} {morning} {.} 
+
+[original]:They clean the house every weekend.
+[bliss]:{present}: {They} {clean} {house} {weekend} {.} 
+
+[original]:I read a book before going to bed every night.
+[bliss]:{present}: {I} {read} {book} {before} {go} {to} {bed} {night} {.} 
+
+[original]:We visit the museum every month.
+[bliss]:{present}: {We} {visit} {museum} {month} {.} 
+
+[original]:She buys a new dress every week.
+[bliss]:{present}: {She} {buy} {dress} {new} {week} {.} 
+
+[original]:He rides his bike to work every day.
+[bliss]:{present}: {He} {ride} {his} {bike} {to} {work} {day} {.} 
+
+[original]:They dance at the party every night.
+[bliss]:{present}: {They} {dance} {at} {party} {night} {.} 
+
+[original]:I graduate from college next year.
+[bliss]:{present}: {I} {graduate} {from} {college} {year} {next} {.} 
+
+[original]:We go on a road trip every summer.
+[bliss]:{present}: {We} {go} {on} {road} {trip} {summer} {.} 
+
+[original]:She paints a beautiful picture every night.
+[bliss]:{present}: {She} {paint} {picture} {beautiful} {night} {.} 
+
+[original]:He fixes the broken window every weekend.
+[bliss]:{present}: {He} {fix} {window} {broken} {weekend} {.} 
+
+[original]:They sing songs around the campfire every night.
+[bliss]:{present}: {They} {sing} {around} {songs} {campfire} {night} {.} 
+
+[original]:I wake up early every morning.
+[bliss]:{present}: {I} {wake} {up} {morning} {.} 
+
+[original]:We play board games all night every night.
+[bliss]:{present}: {We} {play} {board} {games} {night} {night} {.} 
+
+[original]:She bakes cookies for her friends every day.
+[bliss]:{present}: {She} {bake} {cookies} {for} {her} {friends} {day} {.} 
+
+[original]:He travels to Europe every summer.
+[bliss]:{present}: {He} {travel} {to} {Europe} {summer} {.} 
+
+[original]:They attend a concert every night.
+[bliss]:{present}: {They} {attend} {concert} {night} {.} 
+
+[original]:I finish reading the book every week.
+[bliss]:{present}: {I} {finish} {read} {book} {week} {.} 
+
+[original]:We go fishing at the lake every weekend.
+[bliss]:{present}: {We} {go} {fish} {at} {lake} {weekend} {.} 
+
+[original]:She practices the piano for hours every day.
+[bliss]:{present}: {She} {practice} {piano} {for} {hours} {day} {.} 
+
+[original]:He cleans his room every day.
+[bliss]:{present}: {He} {clean} {his} {room} {day} {.} 
+
+[original]:They plant flowers in the garden every spring.
+[bliss]:{present}: {They} {plant} {flowers} {in} {garden} {spring} {.} 
+
+[original]:I watch a documentary on TV every night.
+[bliss]:{present}: {I} {watch} {on} {documentary} {TV} {night} {.} 
+
+[original]:We have a barbecue in the backyard every weekend.
+[bliss]:{present}: {We} {have} {barbecue} {in} {backyard} {weekend} {.} 
+
+[original]:She studies for her exams every week.
+[bliss]:{present}: {She} {study} {for} {her} {exams} {week} {.} 
+
+[original]:He fixes the leaky faucet every weekend.
+[bliss]:{present}: {He} {fix} {faucet} {leaky} {weekend} {.} 
+
+[original]:They walk in the park every day.
+[bliss]:{present}: {They} {walk} {in} {park} {day} {.} 
+
+[original]:I play basketball with my friends every night.
+[bliss]:{present}: {I} {play} {basketball} {with} {my} {friends} {night} {.} 
+
+[original]:We visit the zoo every weekend.
+[bliss]:{present}: {We} {visit} {zoo} {weekend} {.} 
+
+[original]:She writes a letter to her pen pal every day.
+[bliss]:{present}: {She} {write} {to} {letter} {her} {pen} {pal} {day} {.} 
+
+[original]:He mows the lawn every week.
+[bliss]:{present}: {He} {mow} {lawn} {week} {.} 
+
+[original]:They go shopping at the mall every weekend.
+[bliss]:{present}: {They} {go} {shop} {at} {mall} {weekend} {.} 
+
+[original]:I go for a run every morning.
+[bliss]:{present}: {I} {go} {for} {run} {morning} {.} 
+
+[original]:We watch the sunset at the beach every night.
+[bliss]:{present}: {We} {watch} {sunset} {at} {beach} {night} {.} 
+
+[original]:She finishes knitting a sweater every week.
+[bliss]:{present}: {She} {finish} {knit} {sweater} {week} {.} 
+
+[original]:He cooks dinner for his family every day.
+[bliss]:{present}: {He} {cook} {for} {dinner} {his} {family} {day} {.} 
+
+[original]:They hike in the mountains every weekend.
+[bliss]:{present}: {They} {hike} {in} {mountains} {weekend} {.} 
+
+[original]:I clean out the garage every weekend.
+[bliss]:{present}: {I} {clean} {out} {garage} {weekend} {.} 
+
+[original]:We have a picnic in the park every weekend.
+[bliss]:{present}: {We} {have} {in} {picnic} {park} {weekend} {.} 
+
+[original]:She paints her nails every day.
+[bliss]:{present}: {She} {paint} {her} {nails} {day} {.} 
+
+[original]:He reads a book in the garden every day.
+[bliss]:{present}: {He} {read} {book} {in} {garden} {day} {.} 
+
+[original]:They play soccer in the park every day.
+[bliss]:{present}: {They} {play} {soccer} {in} {park} {day} {.} 
+
+[original]:I attend a party every weekend.
+[bliss]:{present}: {I} {attend} {party} {weekend} {.} 
+
+[original]:We ride bikes around the neighborhood every weekend.
+[bliss]:{present}: {We} {ride} {around} {bikes} {neighborhood} {weekend} {.} 
+
+[original]:She watches a movie with her friends every night.
+[bliss]:{present}: {She} {watch} {movie} {with} {her} {friends} {night} {.} 
+
+[original]:He goes for a swim at the pool every day.
+[bliss]:{present}: {He} {go} {for} {at} {swim} {pool} {day} {.} 
+
+[original]:They go for a hike in the forest every day.
+[bliss]:{present}: {They} {go} {for} {in} {hike} {forest} {day} {.} 
+
+[original]:I visit my aunt every weekend.
+[bliss]:{present}: {I} {visit} {my} {aunt} {weekend} {.} 
+
+[original]:We play video games all day every day.
+[bliss]:{present}: {We} {play} {video} {games} {day} {day} {.} 
+
+[original]:She cooks a delicious meal every day.
+[bliss]:{present}: {She} {cook} {meal} {delicious} {day} {.} 
+
+[original]:He rides his skateboard to the park every day.
+[bliss]:{present}: {He} {ride} {his} {skateboard} {to} {park} {day} {.} 
+
+[original]:They have a barbecue in the backyard every day.
+[bliss]:{present}: {They} {have} {barbecue} {in} {backyard} {day} {.} 
+
+[original]:I go camping with my family every weekend.
+[bliss]:{present}: {I} {go} {camp} {with} {my} {family} {weekend} {.} 
+
+[original]:We go to the beach every weekend.
+[bliss]:{present}: {We} {go} {to} {beach} {weekend} {.} 
+
+[original]:She practices yoga in the morning every day.
+[bliss]:{present}: {She} {practice} {yoga} {in} {morning} {day} {.} 
+
+[original]:He listens to music in his room every day.
+[bliss]:{present}: {He} {listen} {to} {music} {in} {his} {room} {day} {.} 
+
+[original]:They have a sleepover at their friend's house every weekend.
+[bliss]:{present}: {They} {have} {sleepover} {at} {their} {friend} {house} {weekend} {.} 
+
+[original]:I go for a bike ride every day.
+[bliss]:{present}: {I} {go} {for} {bike} {ride} {day} {.} 
+
+[original]:We go for a walk in the park every day.
+[bliss]:{present}: {We} {go} {for} {in} {walk} {park} {day} {.} 
+
+[original]:She takes a nap in the afternoon every day.
+[bliss]:{present}: {She} {take} {nap} {in} {afternoon} {day} {.} 
+
+[original]:He plays guitar for his friends every day.
+[bliss]:{present}: {He} {play} {guitar} {for} {his} {friends} {day} {.} 
+
+[original]:They go for a drive in the countryside every day.
+[bliss]:{present}: {They} {go} {for} {in} {drive} {countryside} {day} {.} 
+
+[original]:I visit the library every week.
+[bliss]:{present}: {I} {visit} {library} {week} {.} 
+
+[original]:We go to a party every night.
+[bliss]:{present}: {We} {go} {to} {party} {night} {.} 
+
+[original]:She swims in the pool every day.
+[bliss]:{present}: {She} {swim} {in} {pool} {day} {.} 
+
+[original]:He cooks breakfast for his family every day.
+[bliss]:{present}: {He} {cook} {for} {breakfast} {his} {family} {day} {.} 
+
+[original]:They watch a movie at home every day.
+[bliss]:{present}: {They} {watch} {movie} {at} {home} {day} {.} 
+
+[original]:I play video games with my brother every day.
+[bliss]:{present}: {I} {play} {video} {games} {with} {my} {brother} {day} {.} 
+
+[original]:We go to the amusement park every weekend.
+[bliss]:{present}: {We} {go} {to} {amusement} {park} {weekend} {.} 
+
+[original]:She goes shopping with her friends every day.
+[bliss]:{present}: {She} {go} {shop} {with} {her} {friends} {day} {.} 
+
+[original]:He rides his bike to school every day.
+[bliss]:{present}: {He} {ride} {his} {bike} {to} {school} {day} {.} 
+
+[original]:They visit their grandparents every weekend.
+[bliss]:{present}: {They} {visit} {their} {grandparents} {weekend} {.} 
+
+[original]:I clean my room every day.
+[bliss]:{present}: {I} {clean} {my} {room} {day} {.} 
+
+[original]:We have a picnic in the backyard every weekend.
+[bliss]:{present}: {We} {have} {in} {picnic} {backyard} {weekend} {.} 
+
+[original]:She reads a book in the garden every day.
+[bliss]:{present}: {She} {read} {book} {in} {garden} {day} {.} 
+
+[original]:He plays soccer with his friends every day.
+[bliss]:{present}: {He} {play} {soccer} {with} {his} {friends} {day} {.} 
+
+[original]:They have a barbecue at the beach every day.
+[bliss]:{present}: {They} {have} {barbecue} {at} {beach} {day} {.} 
+
+[original]:I go for a swim in the lake every day.
+[bliss]:{present}: {I} {go} {for} {in} {swim} {lake} {day} {.} 
+
+[original]:We watch the sunset at the park every weekend.
+[bliss]:{present}: {We} {watch} {sunset} {at} {park} {weekend} {.} 
+
+[original]:She goes hiking with her friends every day.
+[bliss]:{present}: {She} {go} {hike} {with} {her} {friends} {day} {.} 
+
+[original]:He rides his skateboard at the skate park every day.
+[bliss]:{present}: {He} {ride} {his} {skateboard} {at} {skate} {park} {day} {.} 
+
+[original]:They have a picnic in the forest every day.
+[bliss]:{present}: {They} {have} {in} {picnic} {forest} {day} {.} 
+
+[original]:I visit the museum every weekend.
+[bliss]:{present}: {I} {visit} {museum} {weekend} {.} 
+
+[original]:We go to a concert every night.
+[bliss]:{present}: {We} {go} {to} {concert} {night} {.} 
+
+[original]:She plays tennis with her friends every day.
+[bliss]:{present}: {She} {play} {tennis} {with} {her} {friends} {day} {.} 
+
+[original]:He goes fishing with his dad every day.
+[bliss]:{present}: {He} {go} {fish} {with} {his} {dad} {day} {.} 
+
+[original]:They have a barbecue in the park every day.
+[bliss]:{present}: {They} {have} {in} {barbecue} {park} {day} {.} 
+
+[original]:I go for a jog in the morning every day.
+[bliss]:{present}: {I} {go} {for} {in} {jog} {morning} {day} {.} 
+
+[original]:We have a bonfire at the beach every weekend.
+[bliss]:{present}: {We} {have} {at} {bonfire} {beach} {weekend} {.} 
+
+[original]:She goes for a bike ride in the countryside every day.
+[bliss]:{present}: {She} {go} {for} {bike} {in} {ride} {countryside} {day} {.} 
+
+[original]:She walks to the store every day.
+[bliss]:{present}: {She} {walk} {to} {store} {day} {.} 
+
+[original]:They play soccer after school.
+[bliss]:{present}: {They} {play} {soccer} {after} {school} {.} 
+
+[original]:He studies for his exam every night.
+[bliss]:{present}: {He} {study} {for} {his} {exam} {night} {.} 
+
+[original]:We visit Paris every summer.
+[bliss]:{present}: {We} {visit} {Paris} {summer} {.} 
+
+[original]:The cat chases the mouse around the house.
+[bliss]:{present}: {cat} {chase} {mouse} {around} {house} {.} 
+
+[original]:I finish my homework before dinner.
+[bliss]:{present}: {I} {finish} {my} {homework} {before} {dinner} {.} 
+
+[original]:She cooks dinner for her family.
+[bliss]:{present}: {She} {cook} {for} {dinner} {her} {family} {.} 
+
+[original]:They watch a movie at the cinema.
+[bliss]:{present}: {They} {watch} {movie} {at} {cinema} {.} 
+
+[original]:He runs a marathon every month.
+[bliss]:{present}: {He} {run} {marathon} {month} {.} 
+
+[original]:We go camping in the mountains.
+[bliss]:{present}: {We} {go} {in} {camping} {mountains} {.} 
+
+[original]:The sun sets over the horizon.
+[bliss]:{present}: {sun} {set} {over} {horizon} {.} 
+
+[original]:I read a book in bed every night.
+[bliss]:{present}: {I} {read} {book} {in} {bed} {night} {.} 
+
+[original]:She paints her bedroom walls blue.
+[bliss]:{present}: {She} {paint} {her} {bedroom} {walls} {.} 
+
+[original]:They visit their grandparents over the holidays.
+[bliss]:{present}: {They} {visit} {their} {grandparents} {over} {holidays} {.} 
+
+[original]:He fixes the leaky faucet in the bathroom.
+[bliss]:{present}: {He} {fix} {in} {faucet} {leaky} {bathroom} {.} 
+
+[original]:We ride bikes through the park.
+[bliss]:{present}: {We} {ride} {bikes} {through} {park} {.} 
+
+[original]:The children play in the backyard.
+[bliss]:{present}: {children} {play} {in} {backyard} {.} 
+
+[original]:She dances at her sister's wedding.
+[bliss]:{present}: {She} {dance} {at} {her} {sister} {wedding} {.} 
+
+[original]:They build a sandcastle at the beach.
+[bliss]:{present}: {They} {build} {at} {sandcastle} {beach} {.} 
+
+[original]:He wakes up early every morning.
+[bliss]:{present}: {He} {wake} {up} {morning} {.} 
+
+[original]:I eat breakfast before leaving for work.
+[bliss]:{present}: {I} {eat} {breakfast} {before} {leave} {for} {work} {.} 
+
+[original]:She swims in the pool for hours.
+[bliss]:{present}: {She} {swim} {in} {pool} {for} {hours} {.} 
+
+[original]:They visit the museum downtown.
+[bliss]:{present}: {They} {visit} {museum} {downtown} {.} 
+
+[original]:We hike up the mountain trail.
+[bliss]:{present}: {We} {hike} {up} {mountain} {trail} {.} 
+
+[original]:The dog barks at the mailman.
+[bliss]:{present}: {dog} {bark} {at} {mailman} {.} 
+
+[original]:I drive to the grocery store.
+[bliss]:{present}: {I} {drive} {to} {grocery} {store} {.} 
+
+[original]:She sings a song at the talent show.
+[bliss]:{present}: {She} {sing} {at} {song} {talent} {show} {.} 
+
+[original]:They fly to Europe for vacation.
+[bliss]:{present}: {They} {fly} {to} {Europe} {for} {vacation} {.} 
+
+[original]:He cooks dinner on the grill.
+[bliss]:{present}: {He} {cook} {on} {dinner} {grill} {.} 
+
+[original]:We watch fireworks on the Fourth of July.
+[bliss]:{present}: {We} {watch} {of} {fireworks} {of} {Fourth} {July} {.} 
+
+[original]:The baby sleeps through the night.
+[bliss]:{present}: {baby} {sleep} {through} {night} {.} 
+
+[original]:I complete the project ahead of schedule.
+[bliss]:{present}: {I} {complete} {ahead} {project} {of} {schedule} {.} 
+
+[original]:She knits a sweater for her friend.
+[bliss]:{present}: {She} {knit} {sweater} {for} {her} {friend} {.} 
+
+[original]:They take a road trip across the country.
+[bliss]:{present}: {They} {take} {road} {across} {trip} {country} {.} 
+
+[original]:He climbs to the top of the mountain.
+[bliss]:{present}: {He} {climb} {to} {of} {top} {mountain} {.} 
+
+[original]:We explore the ancient ruins.
+[bliss]:{present}: {We} {explore} {ruins} {ancient} {.} 
+
+[original]:The train arrives at the station.
+[bliss]:{present}: {train} {arrive} {at} {station} {.} 
+
+[original]:I finish reading the novel.
+[bliss]:{present}: {I} {finish} {read} {novel} {.} 
+
+[original]:She writes a letter to her pen pal.
+[bliss]:{present}: {She} {write} {to} {letter} {her} {pen} {pal} {.} 
+
+[original]:They visit the zoo on Saturday.
+[bliss]:{present}: {They} {visit} {zoo} {on} {Saturday} {.} 
+
+[original]:He fixes the broken window.
+[bliss]:{present}: {He} {fix} {window} {broken} {.} 
+
+[original]:We play board games by the fireplace.
+[bliss]:{present}: {We} {play} {board} {games} {by} {fireplace} {.} 
+
+[original]:The birds chirp in the trees.
+[bliss]:{present}: {birds} {chirp} {in} {trees} {.} 
+
+[original]:I ride my bike to school.
+[bliss]:{present}: {I} {ride} {my} {bike} {to} {school} {.} 
+
+[original]:She sews a dress for the school play.
+[bliss]:{present}: {She} {sew} {for} {dress} {school} {play} {.} 
+
+[original]:They plant flowers in the garden.
+[bliss]:{present}: {They} {plant} {flowers} {in} {garden} {.} 
+
+[original]:He visits his old high school.
+[bliss]:{present}: {He} {visit} {his} {school} {old} {high} {.} 
+
+[original]:We cook dinner together as a family.
+[bliss]:{present}: {We} {cook} {together} {dinner} {as} {family} {.} 
+
+[original]:The rain pours down all afternoon.
+[bliss]:{present}: {rain} {pour} {down} {afternoon} {.} 
+
+[original]:I bake cookies for the bake sale.
+[bliss]:{present}: {I} {bake} {cookies} {for} {bake} {sale} {.} 
+
+[original]:She walks to the store every day.
+[bliss]:{present}: {She} {walk} {to} {store} {day} {.} 
+
+[original]:They play soccer after school.
+[bliss]:{present}: {They} {play} {soccer} {after} {school} {.} 
+
+[original]:He studies for his exam every night.
+[bliss]:{present}: {He} {study} {for} {his} {exam} {night} {.} 
+
+[original]:We visit our grandparents every weekend.
+[bliss]:{present}: {We} {visit} {our} {grandparents} {weekend} {.} 
+
+[original]:The cat chases the mouse around the house.
+[bliss]:{present}: {cat} {chase} {mouse} {around} {house} {.} 
+
+[original]:I finish my homework before dinner.
+[bliss]:{present}: {I} {finish} {my} {homework} {before} {dinner} {.} 
+
+[original]:She cooks dinner for her family.
+[bliss]:{present}: {She} {cook} {for} {dinner} {her} {family} {.} 
+
+[original]:They watch a movie at the cinema.
+[bliss]:{present}: {They} {watch} {movie} {at} {cinema} {.} 
+
+[original]:He runs a marathon every month.
+[bliss]:{present}: {He} {run} {marathon} {month} {.} 
+
+[original]:We go swimming at the beach every summer.
+[bliss]:{present}: {We} {go} {swim} {at} {beach} {summer} {.} 
+
+[original]:The sun sets over the horizon.
+[bliss]:{present}: {sun} {set} {over} {horizon} {.} 
+
+[original]:I read a book in bed every night.
+[bliss]:{present}: {I} {read} {book} {in} {bed} {night} {.} 
+
+[original]:She paints her bedroom walls blue.
+[bliss]:{present}: {She} {paint} {her} {bedroom} {walls} {.} 
+
+[original]:They travel to Europe for vacation.
+[bliss]:{present}: {They} {travel} {to} {Europe} {for} {vacation} {.} 
+
+[original]:He fixes the leaky faucet in the bathroom.
+[bliss]:{present}: {He} {fix} {in} {faucet} {leaky} {bathroom} {.} 
+
+[original]:We hike up the mountain trail.
+[bliss]:{present}: {We} {hike} {up} {mountain} {trail} {.} 
+
+[original]:The children play in the backyard.
+[bliss]:{present}: {children} {play} {in} {backyard} {.} 
+
+[original]:She dances at her sister's wedding.
+[bliss]:{present}: {She} {dance} {at} {her} {sister} {wedding} {.} 
+
+[original]:They build a sandcastle at the beach.
+[bliss]:{present}: {They} {build} {at} {sandcastle} {beach} {.} 
+
+[original]:He wakes up early every morning.
+[bliss]:{present}: {He} {wake} {up} {morning} {.} 
+
+[original]:I take a bus to work every day.
+[bliss]:{present}: {I} {take} {bus} {to} {work} {day} {.} 
+
+[original]:She swims in the pool for hours.
+[bliss]:{present}: {She} {swim} {in} {pool} {for} {hours} {.} 
+
+[original]:They visit the museum downtown.
+[bliss]:{present}: {They} {visit} {museum} {downtown} {.} 
+
+[original]:We explore the ancient ruins.
+[bliss]:{present}: {We} {explore} {ruins} {ancient} {.} 
+
+[original]:The dog barks at the mailman.
+[bliss]:{present}: {dog} {bark} {at} {mailman} {.} 
+
+[original]:I drive to the grocery store.
+[bliss]:{present}: {I} {drive} {to} {grocery} {store} {.} 
+
+[original]:She sings a song at the talent show.
+[bliss]:{present}: {She} {sing} {at} {song} {talent} {show} {.} 
+
+[original]:They fly to Europe for vacation.
+[bliss]:{present}: {They} {fly} {to} {Europe} {for} {vacation} {.} 
+
+[original]:He cooks dinner on the grill.
+[bliss]:{present}: {He} {cook} {on} {dinner} {grill} {.} 
+
+[original]:We watch fireworks on the Fourth of July.
+[bliss]:{present}: {We} {watch} {of} {fireworks} {of} {Fourth} {July} {.} 
+
+[original]:The baby sleeps through the night.
+[bliss]:{present}: {baby} {sleep} {through} {night} {.} 
+
+[original]:I complete the project ahead of schedule.
+[bliss]:{present}: {I} {complete} {ahead} {project} {of} {schedule} {.} 
+
+[original]:She knits a sweater for her friend.
+[bliss]:{present}: {She} {knit} {sweater} {for} {her} {friend} {.} 
+
+[original]:They take a road trip across the country.
+[bliss]:{present}: {They} {take} {road} {across} {trip} {country} {.} 
+
+[original]:He climbs to the top of the mountain.
+[bliss]:{present}: {He} {climb} {to} {of} {top} {mountain} {.} 
+
+[original]:We bake cookies for the bake sale.
+[bliss]:{present}: {We} {bake} {cookies} {for} {bake} {sale} {.} 
+
+[original]:The rain pours down all afternoon.
+[bliss]:{present}: {rain} {pour} {down} {afternoon} {.} 
+
+[original]:I write a letter to my friend.
+[bliss]:{present}: {I} {write} {letter} {to} {my} {friend} {.} 
+
+[original]:She sews a dress for the school play.
+[bliss]:{present}: {She} {sew} {for} {dress} {school} {play} {.} 
+
+[original]:They plant flowers in the garden.
+[bliss]:{present}: {They} {plant} {flowers} {in} {garden} {.} 
+
+[original]:He visits his old high school.
+[bliss]:{present}: {He} {visit} {his} {school} {old} {high} {.} 
+
+[original]:We cook dinner together as a family.
+[bliss]:{present}: {We} {cook} {together} {dinner} {as} {family} {.} 
+
+[original]:The birds chirp in the trees.
+[bliss]:{present}: {birds} {chirp} {in} {trees} {.} 
+
+[original]:I ride my bike to school.
+[bliss]:{present}: {I} {ride} {my} {bike} {to} {school} {.} 
+
+[original]:She buys a new car.
+[bliss]:{present}: {She} {buy} {car} {new} {.} 
+
+[original]:They play board games by the fireplace.
+[bliss]:{present}: {They} {play} {board} {games} {by} {fireplace} {.} 
+
+[original]:He receives a gift from his parents.
+[bliss]:{present}: {He} {receive} {gift} {from} {his} {parents} {.} 
+
+[original]:We attend a concert.
+[bliss]:{present}: {We} {attend} {concert} {.} 
+
+[original]:The wind blows fiercely.
+[bliss]:{present}: {wind} {blow} {fiercely} {.} 
+
+[original]:I clean my room every day.
+[bliss]:{present}: {I} {clean} {my} {room} {day} {.} 
+
+[original]:She confidently walks to the nearby store every bright morning.
+[bliss]:{present}: {She} {walk} {confidently} {to} {store} {nearby} {morning} {bright} {.} 
+
+[original]:They enthusiastically play soccer after energetic school days.
+[bliss]:{present}: {They} {play} {enthusiastically} {soccer} {after} {school} {days} {energetic} {.} 
+
+[original]:He studiously studies for his important exam every quiet night.
+[bliss]:{present}: {He} {study} {studiously} {for} {his} {exam} {important} {night} {quiet} {.} 
+
+[original]:We regularly visit our loving grandparents every cozy weekend.
+[bliss]:{present}: {We} {visit} {regularly} {our} {love} {grandparents} {weekend} {cozy} {.} 
+
+[original]:The playful cat mischievously chases the startled mouse around the cozy house.
+[bliss]:{present}: {cat} {playful} {chase} {mischievously} {mouse} {startled} {around} {house} {cozy} {.} 
+
+[original]:I efficiently finish my challenging homework before delicious dinner.
+[bliss]:{present}: {I} {finish} {efficiently} {my} {homework} {challenging} {before} {dinner} {delicious} {.} 
+
+[original]:She skillfully cooks a delectable dinner for her grateful family.
+[bliss]:{present}: {She} {cook} {skillfully} {for} {dinner} {delectable} {grateful} {her} {family} {grateful} {.} 
+
+[original]:They quietly watch an entertaining movie at the nearby cinema.
+[bliss]:{present}: {They} {watch} {quietly} {movie} {entertaining} {at} {cinema} {nearby} {.} 
+
+[original]:He passionately runs a challenging marathon every active month.
+[bliss]:{present}: {He} {run} {passionately} {marathon} {challenging} {month} {active} {.} 
+
+[original]:We happily go swimming at the beautiful beach every sunny summer.
+[bliss]:{present}: {We} {go} {happily} {swim} {at} {beach} {beautiful} {summer} {sunny} {.} 
+
+[original]:The radiant sun peacefully sets over the breathtaking horizon.
+[bliss]:{present}: {sun} {radiant} {set} {peacefully} {over} {horizon} {breathtaking} {.} 
+
+[original]:I leisurely read an engaging book in bed every cozy night.
+[bliss]:{past}: {I} {read} {leisurely} {engage} {book} {in} {bed} {night} {cozy} {.} 
+
+[original]:She carefully paints her bedroom walls a soothing bright blue.
+[bliss]:{present}: {She} {paint} {carefully} {her} {bedroom} {walls} {soothe} {blue} {bright} {.} 
+
+[original]:They frequently travel to exciting Europe for relaxing vacation.
+[bliss]:{present}: {They} {travel} {frequently} {to} {Europe} {for} {relax} {vacation} {.} 
+
+[original]:He promptly fixes the leaky faucet in the gleaming bathroom.
+[bliss]:{present}: {He} {fix} {promptly} {faucet} {leaky} {in} {gleam} {bathroom} {.} 
+
+[original]:We eagerly hike up the scenic mountain trail every refreshing morning.
+[bliss]:{present}: {We} {hike} {eagerly} {up} {mountain} {trail} {scenic} {morning} {refreshing} {.} 
+
+[original]:The cheerful children happily play in the spacious backyard every sunny afternoon.
+[bliss]:{present}: {children} {cheerful} {play} {happily} {in} {backyard} {spacious} {afternoon} {sunny} {.} 
+
+[original]:She gracefully dances at her sister's enchanting wedding every festive occasion.
+[bliss]:{present}: {She} {dance} {gracefully} {at} {her} {sister} {wedding} {enchanting} {occasion} {festive} {.} 
+
+[original]:They creatively build a majestic sandcastle at the sandy beach every sunny day.
+[bliss]:{present}: {They} {build} {creatively} {sandcastle} {majestic} {at} {beach} {sandy} {day} {sunny} {.} 
+
+[original]:He wakes up early every misty morning to embrace the new day.
+[bliss]:{present}: {He} {wake} {up} {morning} {misty} {to} {embrace} {day} {new} {.} 
+
+[original]:I patiently take a crowded bus to work every bustling morning.
+[bliss]:{present}: {I} {take} {patiently} {bus} {crowded} {to} {work} {morning} {bustling} {.} 
+
+[original]:She blissfully swims in the refreshing pool for hours every hot afternoon.
+[bliss]:{present}: {She} {swim} {blissfully} {in} {for} {pool} {refreshing} {hot} {hours} {afternoon} {hot} {.} 
+
+[original]:They curiously visit the fascinating museum downtown every educational opportunity.
+[bliss]:{present}: {They} {visit} {curiously} {museum} {downtown} {fascinating} {opportunity} {educational} {.} 
+
+[original]:We bravely explore the ancient, mysterious ruins every adventurous weekend.
+[bliss]:{present}: {We} {explore} {bravely} {ruins} {ancient} {mysterious} {adventurous} {weekend} {adventurous} {.} 
+
+[original]:The vigilant dog fiercely barks at the unsuspecting mailman every busy morning.
+[bliss]:{present}: {dog} {vigilant} {bark} {fiercely} {at} {mailman} {unsuspecting} {morning} {busy} {.} 
+
+[original]:I cautiously drive to the bustling grocery store every busy weekend.
+[bliss]:{present}: {I} {drive} {cautiously} {to} {grocery} {store} {bustling} {weekend} {busy} {.} 
+
+[original]:She melodiously sings a beautiful song at the talent show every exciting event.
+[bliss]:{present}: {She} {sing} {melodiously} {at} {song} {beautiful} {talent} {show} {event} {exciting} {.} 
+
+[original]:They eagerly fly to romantic Europe for vacation every relaxing summer.
+[bliss]:{present}: {They} {fly} {eagerly} {to} {Europe} {romantic} {for} {vacation} {relax} {summer} {.} 
+
+[original]:He skillfully cooks a savory dinner on the sizzling grill every delicious evening.
+[bliss]:{present}: {He} {cook} {skillfully} {on} {dinner} {savory} {sizzling} {grill} {sizzling} {evening} {delicious} {.} 
+
+[original]:We joyfully watch spectacular fireworks on the Fourth of July every celebratory year.
+[bliss]:{present}: {We} {watch} {joyfully} {of} {fireworks} {spectacular} {of} {Fourth} {July} {year} {celebratory} {.} 
+
+[original]:The peaceful baby quietly sleeps through the calm night every cozy evening.
+[bliss]:{present}: {baby} {peaceful} {sleep} {quietly} {through} {night} {calm} {evening} {cozy} {.} 
+
+[original]:I efficiently complete the challenging project ahead of schedule every productive day.
+[bliss]:{present}: {I} {complete} {efficiently} {ahead} {project} {challenging} {of} {schedule} {day} {productive} {.} 
+
+[original]:She lovingly knits a warm sweater for her grateful friend every chilly season.
+[bliss]:{present}: {She} {knit} {lovingly} {sweater} {warm} {for} {her} {friend} {grateful} {season} {chilly} {.} 
+
+[original]:They leisurely take a scenic road trip across the vast country every adventurous summer.
+[bliss]:{present}: {They} {take} {leisurely} {road} {across} {trip} {scenic} {vast} {country} {vast} {summer} {adventurous} {.} 
+
+[original]:He courageously climbs to the breathtaking top of the tall mountain every adventurous weekend.
+[bliss]:{present}: {He} {climb} {courageously} {to} {of} {top} {breathtaking} {tall} {mountain} {tall} {weekend} {adventurous} {.} 
+
+[original]:We enthusiastically bake delicious cookies for the successful bake sale every festive occasion.
+[bliss]:{present}: {We} {bake} {enthusiastically} {cookies} {delicious} {for} {bake} {sale} {successful} {occasion} {festive} {.} 
+
+[original]:The relentless rain pours down heavily all afternoon every gloomy day.
+[bliss]:{present}: {rain} {relentless} {pour} {heavily} {down} {afternoon} {day} {gloomy} {.} 
+
+[original]:I quickly write a heartfelt letter to my distant friend every peaceful afternoon.
+[bliss]:{present}: {I} {write} {quickly} {letter} {heartfelt} {to} {my} {friend} {distant} {afternoon} {peaceful} {.} 
+
+[original]:She carefully sews a beautiful dress for the exciting school play every exciting occasion.
+[bliss]:{present}: {She} {sew} {carefully} {for} {dress} {beautiful} {exciting} {exciting} {school} {play} {exciting} {exciting} {occasion} {exciting} {.} 
+
+[original]:They lovingly plant colorful flowers in the flourishing garden every bright spring.
+[bliss]:{present}: {They} {plant} {lovingly} {flowers} {colorful} {in} {flourish} {garden} {spring} {bright} {.} 
+
+[original]:He nostalgically visits his old high school for the reunion every memorable year.
+[bliss]:{present}: {He} {visit} {nostalgically} {his} {school} {old} {high} {for} {reunion} {year} {memorable} {.} 
+
+[original]:We joyfully cook a hearty dinner together as a happy family every peaceful evening.
+[bliss]:{present}: {We} {cook} {joyfully} {together} {dinner} {hearty} {as} {family} {happy} {evening} {peaceful} {.} 
+
+[original]:The cheerful birds happily chirp in the lush, green trees every bright morning.
+[bliss]:{present}: {birds} {cheerful} {chirp} {happily} {in} {trees} {lush} {green} {morning} {bright} {.} 
+
+[original]:I cheerfully ride my trusty bike to school every sunny morning.
+[bliss]:{present}: {I} {ride} {cheerfully} {my} {bike} {trusty} {to} {school} {morning} {sunny} {.} 
+
+[original]:She excitedly buys a shiny new car every exciting year.
+[bliss]:{present}: {She} {buy} {excitedly} {car} {shiny} {new} {year} {exciting} {.} 
+
+[original]:They merrily play engaging board games by the cozy fireplace every cozy evening.
+[bliss]:{present}: {They} {play} {merrily} {engage} {board} {by} {games} {cozy} {fireplace} {cozy} {evening} {cozy} {.} 
+
+[original]:He gratefully receives a thoughtful gift from his loving parents every memorable occasion.
+[bliss]:{present}: {He} {receive} {gratefully} {gift} {thoughtful} {from} {his} {love} {parents} {memorable} {occasion} {memorable} {.} 
+
+[original]:We enthusiastically attend an entertaining concert every exciting weekend.
+[bliss]:{present}: {We} {attend} {enthusiastically} {concert} {entertaining} {weekend} {exciting} {.} 
+
+[original]:The strong wind fiercely blows through the dark, stormy night every restless evening.
+[bliss]:{present}: {wind} {strong} {blow} {fiercely} {through} {night} {dark} {stormy} {evening} {restless} {.} 
+
+[original]:I diligently clean my cluttered room every peaceful afternoon.
+[bliss]:{present}: {I} {clean} {diligently} {my} {room} {cluttered} {afternoon} {peaceful} {.}
